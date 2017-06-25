@@ -1,0 +1,8 @@
+1	1	1	Apprentice Tank Disciplines
+2	1	2	Journeyman Tank Disciplines
+3	2	1	Apprentice Healer Spells
+4	2	2	Journeyman Healer Spells
+5	9	1	Apprentice Melee DPS Disciplines
+6	9	2	Journeyman Melee DPS Disciplines
+7	12	1	Apprentice Caster DPS Spells
+8	12	2	Journeyman Caster DPS Spells

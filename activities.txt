@@ -1,0 +1,594 @@
+1	0	1	1	Guard Brookrock	Elven Bottle Of Wine		36078	0	1	54124	54	0
+1	1	2	5	Camp of Outsiders			5	0	1	0	54	0
+1	2	3	4	Guard Brookrock			54124	0	1	0	54	0
+1	3	4	2	Bandits			7	1	3	0	54	0
+1	4	5	4	Guard Brookrock			54124	0	1	0	54	0
+1	5	6	5	the entrance to Crushbone Citadel			2	0	1	0	54	0
+1	6	6	2	Orcs			1	1	5	0	54	0
+1	7	7	4	Guard Brookrock			54124	0	1	0	54	0
+1	8	8	4	V'Lynn Renloe			202291	0	1	0	202	0
+2	0	1	2	Orcs			1	1	5	0	21	0
+2	1	1	3	any creature	Rusty Items		2	1	3	0	0	0
+2	2	1	5			Locate the Antonica Spires in the Luclin Nexus	1	0	1	0	152	0
+3	0	1	7		Fish		4	1	1	0	69	0
+3	1	1	8		Roots, berries, mushrooms or cherries		3	1	1	0	69	0
+3	2	1	2			Kill Pyzjn	4147	0	1	0	0	1
+4	0	1	11			Locate the lair of Innoruuk	0	0	1	0	76	0
+4	1	1	11			Find the lair of Cazic Thule	0	0	1	0	72	0
+5	0	1	3			Recover the Ring of the Ancients	12268	0	1	0	0	0
+5	1	1	3			Retrieve a Shadowed Rapier	7100	0	1	0	0	0
+5	2	3	1			Return the Ring of the Ancients to Hasten Bootstrutter	12268	0	1	50320	50	0
+5	3	3	1			Present the Shadowed Rapier to Hasten Bootstrutter	7100	0	1	50320	50	0
+5	4	3	100			Give 3500 gold pieces to Hasten Bootstrutter	0	0	325000	50320	50	0
+6	0	1	6	Class 1 Wood Point Arrows	Class 1 Wood Point Arrows		8	1	10	0	0	0
+7	0	1	2	Rats			9	1	10	0	4	0
+7	1	1	4	Guard Philbin			4062	2	1	0	4	0
+7	2	1	2			Kill 1 more rat please	9	1	1	0	4	0
+7	3	1	4	Guard Philbin			4062	2	1	0	4	0
+8	0	1	2	Bats			10	1	5	0	4	0
+8	1	1	4	Guard Philbin			4062	2	1	0	4	0
+9	0	1	2	Snakes			11	1	2	0	4	0
+9	1	1	4	Guard Philbin			4062	2	1	0	4	0
+10	0	1	2	Gnolls			12	1	3	0	4	0
+10	1	1	4	Guard Philbin			4062	2	1	0	4	0
+11	0	1	2	Skeletons			13	1	6	0	4	0
+11	1	1	4	Guard Philbin			4062	2	1	0	4	0
+12	0	1	2	giant thicket rats			14	1	10	0	33	0
+12	1	1	3	any creature	rat whiskers		13071	0	4	0	33	0
+12	2	2	4	Ace Slighthand			0	2	1	0	19	0
+12	3	3	1	Swish Appletop	rat whiskers		13071	0	4	33145	33	0
+13	0	1	5	the dwarven hut			6	0	1	0	68	0
+13	1	2	5	the large rock tower			7	0	1	0	69	0
+13	2	3	4	Tarerd Gahar			202299	0	1	0	202	0
+15	0	1	4	Symperbell Moor			70070	0	1	0	70	0
+15	1	2	5	the back door			3	0	1	0	63	0
+15	2	3	2	Death Beetles			16	1	10	0	63	0
+15	3	4	4	Feriella Vorana			68248	0	1	0	68	0
+14	0	1	4	Averna Eisley			57138	0	1	0	57	0
+14	1	2	5	the graveyard entrance			1	0	1	0	59	0
+14	2	3	2	Pledge Familiars			15	1	10	0	59	0
+14	3	4	4	Brynn Tinkerton			56160	0	1	0	56	0
+16	0	1	2	Gloom Spiders			23	1	12	0	189	0
+16	1	1	2	Gloomfang Lurkers			189442	0	4	0	189	0
+16	2	3	4	Guard Rahtiz			189013	0	1	0	189	0
+17	0	1	2	Cave Rats			189453	0	8	0	189	0
+17	1	1	2	Cave Bats			189459	0	4	0	189	0
+17	2	1	2	Vermin Nests		Destroy 4 Vermin Nests	189443	0	4	0	189	0
+17	3	4	4	Vahlara			189024	0	1	0	189	0
+18	0	1	0	Guard Rahtiz		Deliver 4 Arrows to Guard Rahtiz	0	2	4	189013	189	0
+18	1	1	255	Hidden	Hidden	Should be hidden	0	2	0	0	189	0
+19	0	1	6	Pumpkin Pie	Pumpkin Pie		36110	0	1	0	0	0
+19	1	1	6	Pumpkin Bread	Pumpkin Bread		36112	0	1	0	0	0
+19	2	1	6	Spiced Pumpkin Cider	Spiced Pumpkin Cider		36113	0	1	0	0	0
+19	3	1	6	Pumpkin Shake	Pumpkin Shake		36114	0	1	0	0	0
+20	0	1	5			Infiltrate the Gloomingdeep Jail	4	0	1	0	189	0
+20	2	3	1			Deliver the key to Revolt Scout Kaikachi	86012	0	1	189483	189	0
+20	1	2	3			Find the locksmith's master key	86012	0	1	0	189	0
+21	0	1	2			Kill 10 Goblin Slaves	17	1	10	0	189	0
+21	1	1	2			Kill Rookfynn, the Goblin Shaman	189445	0	1	0	189	0
+21	2	2	4	Revolt Scout Kaikachi			189483	0	1	0	189	0
+22	0	1	4	Arias		Hail Arias and Learn About the Find Path.	0	2	1	0	189	0
+22	1	1	4	Absor		Hail Absor and Learn About Weapons.	0	2	1	0	189	0
+22	2	1	4	Vahlara		Hail Vahlara and Learn About Armor.	0	2	1	0	189	0
+22	3	1	1	Xenaida		Hail Xenaida and Learn About Maps.	0	2	1	0	189	0
+23	0	1	4	Guard Rahtiz			0	2	1	0	189	0
+27	0	1	2			Kill 5 Gloomingdeep Grunts	18	1	5	0	189	0
+27	1	1	2			Kill 10 Gloomingdeep Warriors	19	1	10	0	189	0
+27	2	1	2			Kill 5 Gloomingdeep Slave Wardens	21	1	5	0	189	0
+27	3	1	2			Kill 1 Gloomingdeep Spiritweaver	20	1	1	0	189	0
+27	4	2	4	Guard Hobart			0	2	1	0	189	0
+28	0	1	3			Gather 4 pieces of spiderling cocoon silk	86010	0	4	0	189	0
+28	1	1	1	Vahlara	cocoon silk pieces		86010	0	4	189024	189	0
+29	0	1	3			Find the Anti-Venom Violet	54604	0	1	0	189	0
+29	1	2	1			Deliver the violets to Guard Vyrinn	54604	2	1	0	189	0
+30	0	1	2			Kill Overlord Gnikan	189455	0	1	0	189	0
+30	1	2	4	Guard Hobart			0	2	1	0	189	0
+31	0	1	1			Set the makeshift lantern bomb in the kobold supply crate	0	2	1	0	189	0
+32	0	1	5			Go east down this tunnel until you gets to Dig Site Two	8	0	1	0	189	0
+32	1	2	5			Head south until ya spys da main pit Dig Site One	9	0	1	0	189	0
+32	2	3	5			Follow da eastern wall along da rim o'the pit, den enter da next tunnel ya cross	10	0	1	0	189	0
+32	3	4	5			Continue goin' east den take da first left into da north facing tunnel	11	0	1	0	189	0
+32	4	5	4			Report back to Revolt Scout Zajeer with news of your reconnaissance	0	2	1	0	189	0
+33	0	1	2			Kill Queen Gloomfang	189383	0	1	0	189	0
+33	1	2	4			Report your succes to Guard Hobart	0	2	1	0	189	0
+34	0	1	2			Kill 4 Gloomingdeep captains	22	1	4	0	189	0
+35	0	1	2			Destroy the demon lurking in the central mining shaft	189430	0	1	0	189	0
+36	1	2	1	Flutterwing	Flutterwing's Unhatched Sibling		54603	0	1	189406	189	0
+130	1	1	2	Sand Scarabs			117	1	5	0	34	0
+130	2	1	2	Giant Rattlesnakes			118	1	5	0	34	0
+130	3	1	3			Loot 1 Giant Scarab Egg Sack	13262	0	1	0	34	0
+130	4	1	3			Loot 1 Spider Venom Sac	14018	0	1	0	34	0
+130	5	2	4	Castlen Drewe			202294	0	1	0	202	0
+131	0	1	2	greater wisps			25413	0	10	0	25	0
+131	1	2	5			Explore the wizard's platform	17	0	1	0	25	0
+131	2	3	5			Explore the zone to Lavastorm 	18	0	1	0	25	0
+131	3	4	4	Castlen Drewe			202294	0	1	0	202	0
+132	0	1	5			Explore the chessboard	14	0	1	0	68	0
+132	1	1	2			Kill 4 undead pawns	120	1	4	0	68	0
+132	2	2	5			Explore the haunted tower	15	0	1	0	68	0
+132	3	2	2			Kill 4 dwarf skeletons	121	1	4	0	68	0
+132	4	3	4			Speak with Castlen Drewe	202294	0	1	0	202	0
+133	0	1	5			Explore the Highpass Hold zone	16	0	1	0	20	0
+133	1	2	2			Kill 3 invading orcs	122	1	3	0	5	0
+133	2	3	2			Kill 3 invading gnolls	123	1	3	0	5	0
+133	3	4	4			Talk to Castlen Drewe	202294	0	1	0	202	0
+134	0	1	5			Explore the entrance to Blackburrow	19	0	1	0	4	0
+134	1	2	2			Kill 10 gnoll guardsmen	124	1	10	0	17	0
+134	2	3	5			Explore the zone to Everfrost	20	0	1	0	17	0
+134	3	4	4			Speak with Castlen Drewe	202294	0	1	0	202	0
+135	0	1	5			Discover the secret entrance to Permafrost	13	0	1	0	30	0
+135	1	2	3			Loot 1 permafrost crystal 	22121	0	1	0	73	0
+135	2	2	2			Kill 15 ice goblins	125	1	15	0	73	0
+135	3	3	1			Deliver the permafrost crystals to Audri Deepfacet 	22121	0	1	202069	202	0
+136	0	1	5			Explore the bridge to Prince Bragnar	12	0	1	0	101	0
+136	1	1	2			Kill 5 Kobold Protectors	126	1	5	0	101	0
+136	2	1	3			Loot 10 Kobold Hides	13424	0	10	0	101	0
+136	3	1	3			Loot 10 Kobold Meat	22799	0	10	0	101	0
+136	4	2	4			Speak with Castlen Drewe	202294	0	1	0	202	0
+137	0	1	4	Brizzenoth Scyth 			21158	0	0	0	21	0
+137	1	2	5	Ranon Strongarm's Hut			21	0	0	0	21	0
+137	2	3	2	A Giant Spider			127	1	10	0	21	0
+137	3	4	4	Felltruia Moru			20207	0	0	0	20	0
+36	0	1	3	Slavemaster Ruga	Flutterwing's Unhatched Sibling		54603	0	1	0	189	0
+22	4	1	4	Rytan		Hail Rytan and Learn About Spells.	0	2	1	0	189	0
+22	5	1	4	Prathun		Hail Prathun and Learn About Communication.	0	2	1	0	189	0
+22	6	2	4	Arias		Hail Arias to let him know you have completed your training.	0	2	1	0	189	0
+138	0	1	4	Vivian the True			202295	0	1	0	202	0
+130	0	1	2	Dune Tarantulas			128	1	5	0	34	0
+139	0	1	5	Ranon Strongarm's Hut			21	0	1	0	21	0
+139	1	2	5	Mystical Stones			23	0	1	0	20	0
+139	2	3	4	Nella Taraiss			15190	0	1	0	15	0
+141	4	4	1	Symbell Sunara	Gnome Meat		13418	0	4	27074	27	0
+141	3	3	3	gnomish miners	Gnome Meat		13418	0	4	0	31	0
+141	0	1	4	Sidern Delangan			27072	0	1	0	27	0
+141	2	3	2	gnomish miners			130	1	10	0	31	0
+141	1	2	2	greater kobolds			129	1	10	0	32	0
+140	2	3	4	Brettaru Tyco			15191	0	1	0	15	0
+140	0	1	5	the library			22	0	1	0	6	0
+140	1	2	5	the North Gate			24	0	1	0	5	0
+142	0	1	4	Spirit of the Past			365143	2	1	0	365	0
+142	1	2	4	Captain Rittas			365144	0	1	0	365	0
+143	0	1	5	the library			22	0	1	0	6	0
+143	1	2	5	the North Gate			24	0	1	0	5	0
+143	2	3	4	Brettaru Tyco			15191	0	1	0	15	0
+19	4	2	4	Mippie Diggs			20275	0	1	0	20	0
+144	0	1	3			Loot 5 Clockwork Scrap Metal	1001	0	5	0	365	0
+150	1	2	2	borer beetles			131	1	10	0	13	0
+150	2	2	3	borer beetles	fire beetle eyes		10307	0	4	0	13	0
+150	0	1	5	the skeletal army camp			25	0	1	0	14	0
+150	3	3	5	the mystical spires			26	0	1	0	13	0
+150	4	4	1	Gorri Fallstine	fire beetle eyes		10307	0	4	13124	13	0
+148	0	1	4	Shadow of Sporilok			365174	0	1	0	365	0
+148	1	2	4	Captain Rittas			365144	0	1	0	365	0
+149	1	2	4	Captain Rittas			365144	0	1	0	365	0
+145	0	1	2	Frenzied Minotaurs			0	2	8	0	365	0
+145	1	2	4	Alred the Worn			0	2	1	0	365	0
+146	1	2	1	Danika	Chunk of Edible Fungus		1001	0	4	365147	365	0
+153	0	1	1	Danika	Mammoth Sandwiches		13473	0	10	365147	365	0
+149	0	1	4	Shadow of the Octo Assault Bot			365173	0	1	0	365	0
+152	0	1	1	Danika	Noodles		8175	0	4	365147	365	0
+151	0	1	1	Danika	Jumjum Cake		9654	0	1	365147	365	0
+144	1	2	1	Izzik	Clockwork Scrap Metal		1001	0	5	365146	365	0
+147	1	2	4	Captain Rittas			365144	0	1	0	365	0
+147	0	1	4	Shadow of Velog the Destroyer			365175	0	1	0	365	0
+154	0	1	3		Clockwork Scrap Metal		1002	0	8	0	365	0
+154	1	2	1	Izzik	Clockwork Scrap Metal		1002	0	8	365146	365	0
+155	0	1	3		Clockwork Bolts		1003	0	8	0	365	0
+155	1	2	1	Izzik	Clockwork Bolts		1003	0	8	365146	365	0
+156	0	1	3		Clockwork Gizmo		1004	0	8	0	365	0
+156	1	2	1	Izzik	Clockwork Gizmo		1004	0	8	365146	365	0
+157	0	1	1	Ordin Wheasly	Ordin's Oatmeal		58059	0	100	279106	279	0
+157	1	2	1	Ordin Wheasly	Wayfarer Muffins		58193	0	100	279106	279	0
+157	3	4	1	Ordin Wheasly	Wayfarer Pastries		58196	0	100	279106	279	0
+157	4	5	4	Ordin Wheasly			279106	0	1	0	279	0
+146	0	1	3	Fungus Men	Chunks of Edible Fungus		1001	0	4	0	365	0
+158	0	1	1	Yitimis Groglenog	Spicy Sunrise		58144	0	100	279102	279	0
+158	1	2	1	Yitimis Groglenog	Vanilla Coffee		58165	0	100	279102	279	0
+158	2	3	1	Yitimis Groglenog	Galidnus' Glad Juice		58041	0	100	279102	279	0
+158	3	4	1	Yitimis Groglenog	Wayfarer Spiced Wine		58213	0	100	279102	279	0
+158	4	5	4	Yitimis Groglenog			279102	0	1	0	279	0
+159	0	1	1	Imildu Woodstreak	Wayfarer Arrows		58170	0	100	279101	279	0
+159	1	2	1	Imildu Woodstreak	Wayfarer Bows		58177	0	100	279101	279	0
+159	2	3	1	Imildu Woodstreak	Wayfarer Bow Staffs		58178	0	100	279101	279	0
+159	3	4	1	Imildu Woodstreak	Wayfarer Arrowheads		58173	0	100	279101	279	0
+159	4	5	4	Imildu Woodstreak			279101	0	1	0	279	0
+160	0	1	1	Glirina Morningbloom	Simple Clasps		58092	0	100	279098	279	0
+160	1	2	1	Glirina Morningbloom	Simple Copper Rings		58094	0	100	279098	279	0
+160	2	3	1	Glirina Morningbloom	Simple Brass Armbands		58089	0	100	279098	279	0
+160	3	4	1	Glirina Morningbloom	Simple Silver Chains		58116	0	100	279098	279	0
+160	4	5	4	Glirina Morningbloom			279098	0	1	0	279	0
+161	0	1	1	Malkidiv U`Ycionuz	Wayfarer Plates		58200	0	100	279095	279	0
+161	1	2	1	Malkidiv U`Ycionuz	Wayfarer Pots		58201	0	100	279095	279	0
+161	2	3	1	Malkidiv U`Ycionuz	Wayfarer Mugs		58194	0	100	279095	279	0
+161	3	4	1	Malkidiv U`Ycionuz	Wayfarer Arrow Shafts		58171	0	100	279095	279	0
+161	4	5	4	Malkidiv U`Ycionuz			279095	0	1	0	279	0
+162	0	1	1	Uiyaniv Tu`Vrozix	Simple Universal Suspension		58130	0	100	279097	279	0
+162	1	2	1	Uiyaniv Tu`Vrozix	Simple Solvent		58122	0	100	279097	279	0
+162	2	3	1	Uiyaniv Tu`Vrozix	Simple Contact Poison		58093	0	100	279097	279	0
+162	3	4	1	Uiyaniv Tu`Vrozix	Simple Injected Poison		58097	0	100	279097	279	0
+162	4	5	4	Uiyaniv Tu`Vrozix			279097	0	1	0	279	0
+163	0	1	1	Snokin Breaksteel	Simple Studs		58124	0	100	279093	279	0
+163	1	2	1	Snokin Breaksteel	Simple Rings		58112	0	100	279093	279	0
+163	2	3	1	Snokin Breaksteel	Simple Chisels		58090	0	100	279093	279	0
+163	3	4	1	Snokin Breaksteel	Simple Files		58095	0	100	279093	279	0
+163	4	5	4	Snokin Breaksteel			279093	0	1	0	279	0
+164	0	1	1	Tonlyei Lyhin	Simple Belts		58086	0	100	279088	279	0
+164	1	2	1	Tonlyei Lyhin	Simple Socks		58121	0	100	279088	279	0
+164	2	3	1	Tonlyei Lyhin	Simple Pants		58109	0	100	279088	279	0
+164	3	4	1	Tonlyei Lyhin	Simple Shirts		58114	0	100	279088	279	0
+164	4	5	4	Tonlyei Lyhin			279088	0	1	0	279	0
+165	0	1	1	Skelontorim Orrthemech	Simple Springs		58245	0	100	279087	279	0
+165	1	2	1	Skelontorim Orrthemech	Simple Pulleys		58246	0	100	279087	279	0
+165	2	3	1	Skelontorim Orrthemech	Simple Animated Lures		58247	0	100	279087	279	0
+165	3	4	1	Skelontorim Orrthemech	Simple Bow Cams		58248	0	100	279087	279	0
+165	4	5	4	Skelontorim Orrthemech			279087	0	1	0	279	0
+167	0	1	1	Tylida Eraldi	Wayfarer Wheat Crackers		58219	0	30	279105	279	0
+167	1	2	1	Tylida Eraldi	Wayfarer Loaves		58192	0	30	279105	279	0
+167	2	3	1	Tylida Eraldi	Wayfarer Cookies		58182	0	30	279105	279	0
+167	3	4	1	Tylida Eraldi	Wayfarer Fruitcakes		58187	0	30	279105	279	0
+167	4	5	4	Ordin Wheasly			279106	0	1	0	279	0
+168	0	1	1	Galidnus Corkpopper	Traveler's Tea		58159	0	30	279103	279	0
+168	2	3	1	Galidnus Corkpopper	Berry Tea		58022	0	30	279103	279	0
+168	3	4	1	Galidnus Corkpopper	Rum Tea		58071	0	30	279103	279	0
+168	4	5	1	Yitimis Groglenog			279102	0	1	0	279	0
+169	0	1	1	Rilwind Sitnai	Simple Pale Nihilite Pendants		58107	0	30	279099	279	0
+169	1	2	1	Rilwind Sitnai	Simple Pale Nihilite Rings		58108	0	30	279099	279	0
+169	2	3	1	Rilwind Sitnai	Simple Pale Nihilite Earrings		58106	0	30	279099	279	0
+169	3	4	1	Rilwind Sitnai	Wayfarer Signet Rings		58209	0	30	279099	279	0
+169	4	5	4	Glirina Morningbloom			279098	0	1	0	279	0
+170	0	1	1	Esunta	Simple Aligned Steel Skewers		58084	0	30	279092	279	0
+170	1	2	1	Esunta	Simple Aligned Steel Spikes		58085	0	30	279092	279	0
+170	2	3	1	Esunta	Simple Aligned Steel Files		58082	0	30	279092	279	0
+170	3	4	1	Esunta	Simple Aligned Steel Needles		58083	0	30	279092	279	0
+170	4	5	1	Snokin Breaksteel			279093	0	1	0	279	0
+166	0	1	2	orc centurions			132	1	10	0	54	0
+166	2	2	1	Mazziana Ridgerunner	orc scalps		13791	0	4	54303	54	0
+171	0	1	1	Jorlan Hegeway	Abysmal Sea Breathing Potions		58017	0	40	279108	279	0
+171	1	2	1	Jorlan Hegeway	Simple Taelosian Disease Cure Potions		58126	0	30	279108	279	0
+171	2	3	1	Jorlan Hegeway	Jorlan's Amazing Cleaner		58054	0	40	279108	279	0
+171	3	4	1	Jorlan Hegeway	Wayfarer Special Waterproofers		58210	0	30	279108	279	0
+171	4	5	4	Lita Hegeway			279107	0	1	0	279	0
+172	0	1	1	Lita Hegeway	Wayfarer Black Dyes		58175	0	100	279107	279	0
+172	1	2	1	Lita Hegeway	Wayfarer Green Dyes		58190	0	100	279107	279	0
+172	2	3	1	Lita Hegeway	Wayfarer Blue Dyes		58176	0	100	279107	279	0
+172	3	4	1	Lita Hegeway	Wayfarer Red Dyes		58203	0	100	279107	279	0
+172	4	5	4	Lita Hegeway			279107	0	1	0	279	0
+173	0	1	1	Bansama Nysawi	Simple Taelosian Honing Stones		58127	0	30	279100	279	0
+173	1	2	1	Bansama Nysawi	Simple Taelosian Arrowheads		58125	0	30	279100	279	0
+173	2	3	1	Bansama Nysawi	Simple Jagged Taelosian Arrowheads		58104	0	30	279100	279	0
+173	3	4	1	Bansama Nysawi	Simple Veined Taelosian Arrowheads		58131	0	30	279100	279	0
+173	4	5	4	Imildu Woodstreak			279101	0	1	0	279	0
+174	0	1	1	Viliani I`Xvoyt	Simple Muramite Blood Contact Poison		58099	0	40	279096	279	0
+174	1	2	1	Viliani I`Xvoyt	Simple Muramite Blood Injected Poison		58100	0	30	279096	279	0
+174	2	3	1	Viliani I`Xvoyt	Simple Invader Blood Paralytic		58101	0	40	279096	279	0
+174	3	4	1	Viliani I`Xvoyt	Simple Invader Blood Atrophic		58098	0	30	279096	279	0
+174	4	5	4	Uiyaniv Tu`Vrozix			279097	0	1	0	279	0
+175	0	1	1	Hiloan O`Yviania	Wayfarer Augment Receptacles		58174	0	30	279094	279	0
+175	1	2	1	Hiloan O`Yviania	Wayfarer Crucibles		58183	0	30	279094	279	0
+175	2	3	1	Hiloan O`Yviania	Wayfarer Watering Cans		58217	0	30	279094	279	0
+175	3	4	1	Hiloan O`Yviania	Wayfarer Vials		58216	0	30	279094	279	0
+175	4	5	4	Malkidiv U`Ycionuz			279095	0	1	0	279	0
+176	0	1	1	Garald Samer	Wayfarer Wristguards		58220	0	30	279089	279	0
+176	1	2	1	Garald Samer	Wayfarer Gloves		58188	0	30	279089	279	0
+176	2	3	1	Garald Samer	Wayfarer Caps		58180	0	30	279089	279	0
+176	3	4	1	Garald Samer	Wayfarer Patches		58197	0	30	279089	279	0
+176	4	5	4	Tonlyei Lyhin			279088	0	1	0	279	0
+177	0	1	1	Tialechaety Orrthemech	Wayfarer Gauze Presses		58249	0	40	279086	279	0
+177	1	2	1	Tialechaety Orrthemech	Wayfarer Signal Flares		58250	0	30	279086	279	0
+177	2	3	1	Tialechaety Orrthemech	Wayfarer Water Pumps		58251	0	40	279086	279	0
+177	3	4	1	Tialechaety Orrthemech	Wayfarer Rat Catchers		58252	0	30	279086	279	0
+177	4	5	4	Skelontorim Orrthemech			279087	0	1	0	279	0
+166	1	1	3			Loot 4 orc scalps	13791	0	4	0	54	0
+200	0	1	4	Primalist Uliag			202225	0	1	0	202	0
+200	1	2	4	Vivian the True			202295	0	1	0	202	0
+202	0	1	4	Assassin Mirot			202321	0	1	0	202	0
+202	1	2	4	Vivian the True			202295	0	1	0	202	0
+201	0	1	4	Blane Darkblade			202156	0	1	0	202	0
+201	1	2	4	Vivian the True			202295	0	1	0	202	0
+178	0	1	2	Minotaurs			200	1	10	0	16	0
+178	1	1	3		Minotaur Battle Axe		5017	0	1	0	16	0
+178	2	1	1	Artisan Bill Whistletop	Minotaur Battle Axe		5017	0	1	19150	19	0
+178	4	1	2	Evil Eyes			201	1	10	0	16	0
+178	3	1	5	Beholder's Maze			0	0	1	0	16	0
+178	5	1	3		Polished Bone Bracelet		10314	0	1	0	16	0
+204	0	1	5			Find Master's Hall	27	0	1	0	394	0
+221	1	1	3	Undead creatures	Fine Bone Powder		87299	0	1	0	394	0
+204	1	2	4	Initiate Dakkan			394147	0	1	0	394	0
+204	2	3	4	Innkeeper Fathus			394185	0	1	0	394	0
+221	0	1	3	Undead creatures	Foul Ichor Residue		87298	0	1	0	394	0
+185	1	2	1	Jinkin	Sporeling Caps		52640	0	6	394202	394	0
+185	0	1	3			Collect 6 Sporeling Caps	52640	0	6	0	394	0
+186	0	1	2	Young Pumas			394139	0	12	0	394	0
+186	2	3	1	Jinkin	Puma Fangs		85086	0	12	394202	394	0
+186	1	2	3			Loot 12 puma fangs	85086	0	12	0	394	0
+187	0	1	3			Collect 5 Vermin Hides	52641	0	5	0	394	0
+187	2	2	1	Jinkin	Vermin Hides		52641	0	5	394202	394	0
+187	1	1	3			Collect 5 Bat Hides	52642	0	5	0	394	0
+187	3	2	1	Jinkin	Bat Hides		52642	0	5	394202	394	0
+157	2	3	1	Ordin Wheasly	Wayfarer Pies		58198	0	100	279106	279	0
+168	1	2	1	Galidnus Corkpopper	Wayfarer Spiced Tea		58212	0	30	279103	279	0
+205	0	1	2	greater wisps			25413	0	10	0	25	0
+205	1	2	5			Explore the wizard's platform	28	0	1	0	25	0
+205	2	3	5			Explore the zone to Lavastorm	29	0	1	0	25	0
+205	3	4	4	Castlen Drewe			202294	0	1	0	202	0
+206	0	1	5			Explore the Highpass Hold zone	16	0	1	0	20	0
+206	1	2	2			Kill 3 invading orcs	202	1	3	0	407	0
+206	2	3	2			Kill 3 invading gnolls	203	1	3	0	407	0
+206	3	4	4			Talk to Castlen Drewe	202294	0	1	0	202	0
+207	0	1	4	Dellweena Bruann			50188	0	1	0	50	0
+207	1	2	1	Dellweena Bruann	Small Sacks of Ogre Baubles		36085	0	3	50188	50	0
+207	2	2	1	Dellweena Bruann	Ogre Hair Mats		36086	0	2	50188	50	0
+207	3	2	1	Dellweena Bruann	Dark Totems		36087	0	3	50188	50	0
+207	4	3	4	Barrenzin			202330	0	1	0	202	0
+208	0	1	4	Castlen Drewe			202294	0	1	0	202	0
+209	0	1	4	Banker Ceridan			202146	0	1	0	202	0
+210	0	1	2	black mambas			25333	0	10	0	25	0
+210	1	1	3	black mambas	snake eggs		13088	0	4	0	25	0
+210	2	2	1	Kamidra Voragone	snake eggs		13088	0	4	25105	25	0
+211	0	1	4			Find the Black Cat.	20282	0	1	0	20	0
+211	1	2	4			Return to Syxa Jewlborn.	20281	0	1	0	20	0
+212	0	1	255			Torch 10 Zombie Troopers	20284	0	10	0	20	0
+213	0	1	8			Cure 5 Fallen Werewolves	20286	2	5	0	20	0
+213	1	2	4	Laryen Lycanthrope			19151	0	1	0	19	0
+214	0	1	1	Wicked Winnie	Liquid Caramel		54723	2	1	202384	202	0
+215	2	1	1	Lurgh	Skeletal Skull		54718	0	1	20288	20	0
+215	3	1	1	Lurgh	Skeletal Torso 		54719	0	1	20288	20	0
+215	0	1	1	Lurgh	Skeletal Arm		54721	0	1	20288	20	0
+215	1	1	1	Lurgh	Skeletal Leg		54720	0	1	20288	20	0
+215	4	2	4	Lurgh			20288	2	1	0	20	0
+216	0	1	5				30	0	1	0	25	0
+216	1	2	5				31	0	1	0	25	0
+216	2	3	5				32	0	1	0	25	0
+216	3	4	5				33	0	1	0	25	0
+216	4	5	5				34	0	1	0	25	0
+216	5	6	5				35	0	1	0	25	0
+216	6	7	5				36	0	1	0	25	0
+216	7	8	5				37	0	1	0	25	0
+216	8	9	5				38	0	1	0	25	0
+216	9	10	5				0	2	1	0	25	0
+216	10	11	4	Grom Shives			25436	2	1	0	25	0
+217	1	2	4	a wizened hermit			202385	2	1	0	202	0
+217	0	1	3	a toxxulia mushroom	Toxxulia Toadstools		54725	0	10	0	38	0
+218	0	1	255			Have Marta help you into a [costume]	0	2	1	0	38	0
+218	1	2	255			Throw squash pies at others in scarecrow costumes	0	2	10	0	38	0
+218	2	3	255			Let Marta know how well you've done, don't get hit on the way!	0	2	1	0	38	0
+220	0	1	4			Hiding in the bushes of the dead house.	0	2	1	0	0	0
+220	1	1	4			The pinnacle of enlightenment. 	0	2	1	0	0	0
+220	2	1	4			He's not Slate, but he's close.	0	2	1	0	0	0
+220	3	1	4			Wanders in a pit in the land of his kind.	0	2	1	0	0	0
+220	4	1	4			A short man in an icy land, food can be found in his hands. 	0	2	1	0	0	0
+220	5	1	4			Lurking in the forest near a feline retreat. 	0	2	1	0	0	0
+220	6	1	4			He found out the hard way that drinking and swordplay do not mix. 	0	2	1	0	0	0
+220	7	1	4			Hidden away in the caves of his lair. 	0	2	1	0	0	0
+220	8	1	4			Toiling in the fields of the gnoll's family. 	0	2	1	0	0	0
+220	9	1	4			He's fallen down the stairs, but it's been kept under wraps. 	0	2	1	0	0	0
+220	10	2	6	Full Trick-or-Treat Bag	Full Trick-or-Treat Bag		84096	0	1	0	0	0
+220	11	3	1	Old Man Draykey	Full Trick-or-Treat Bag		84096	2	1	20279	20	0
+184	0	1	2	Diseased Spiderlings			394242	0	4	0	394	0
+184	1	2	4	Initiate Dakkan			394147	0	1	0	394	0
+182	0	1	3	Hollows Mushrooms			54652	0	5	0	394	0
+182	1	2	1	Initiate Dakkan	Hollows Mushrooms		54652	0	5	394147	394	0
+183	0	1	3	Snake Sacs			54653	0	5	0	394	0
+183	1	2	1	Initiate Dakkan	Snake Sacs		54653	0	5	394147	394	0
+221	2	2	6		Pouch of Ethereal Essence		87308	0	1	0	0	0
+221	3	3	1	Aragol Gloomflow	Pouch of Ethereal Essence		0	2	1	0	394	0
+222	1	2	4			Locate Brutus	999002	2	1	0	0	0
+222	0	1	4			Locate Kai	999001	2	1	0	0	0
+222	2	3	4			Locate Aristotle	999003	2	1	0	0	0
+222	3	4	4			Locate Zeus	999004	2	1	0	0	0
+222	4	5	4	Roosevelt			999000	0	1	0	202	0
+222	5	6	4			Locate Sherlock	999005	2	1	0	0	0
+222	6	7	4			Locate Ocho	999006	2	1	0	0	0
+222	7	8	4			Locate Toby	999007	2	1	0	0	0
+222	8	9	4	Roosevelt			999000	0	1	0	202	0
+222	9	10	4			Locate Gustave	999008	2	1	0	0	0
+222	10	11	4			Locate Napoleon	999009	2	1	0	0	0
+222	11	12	4			Locate Sprocket	999010	2	1	0	0	0
+222	12	13	4			Locate Mortimer	999011	2	1	0	0	0
+222	13	14	4			Locate Paulie	999012	2	1	0	0	0
+222	14	15	4	Roosevelt			999000	0	1	0	202	0
+223	0	1	5	the small prayer pedestal.			43	0	1	0	224	0
+223	1	2	2	A Shady Treasure Sorter			225075	0	10	0	225	0
+223	2	2	3	Shivs			52027	0	4	0	225	0
+223	3	3	5	Hungry Shark tavern			44	0	1	0	225	0
+223	4	4	1	Welligorn	Shivs		52027	0	4	224104	224	0
+224	0	1	5	the sleeping quarters in the southern mines			45	0	1	0	226	0
+224	1	2	5	the ship Oceancrasher			46	0	1	0	225	0
+224	2	3	4	Dellthuea			224106	0	1	0	224	0
+225	0	1	2	deadly skeletal sailors			224213	0	10	0	224	0
+225	1	1	3			Loot 4 bone chips	13073	0	4	0	224	0
+225	2	2	1	Calambra	Bone Chips		13073	0	4	224107	224	0
+226	0	1	2	Emaciated Zombie			224094	0	10	0	224	0
+226	1	1	3			Loot 4 Zombie Skin	13074	0	4	0	224	0
+226	2	2	1	Dellthuea	Zombie Skin		13074	0	4	224106	0	0
+227	0	1	4	Calambra			224107	0	1	0	224	0
+227	1	2	2	vicious skeletons			224015	0	10	0	224	0
+227	2	3	2	emaciated zombies			224094	0	10	0	224	0
+227	3	3	3	zombie skin			13074	0	4	0	224	0
+227	4	4	1	Dellthuea	zombie skin		13074	0	4	224106	224	0
+228	0	1	4	Calambra			224107	0	1	0	224	0
+228	1	2	2	vicious skeletons			224015	0	10	0	224	0
+228	2	3	2	emaciated zombies			224094	0	10	0	224	0
+228	3	3	3	zombie skin			13074	0	4	0	224	0
+228	4	4	1	Dellthuea	zombie skin		13074	0	4	224106	224	0
+229	0	1	2	subverted miners			226015	0	10	0	226	0
+229	1	1	3		Ornate Miner's Pick		16393	0	4	0	226	0
+229	2	2	5	the pier in the southwest section of the crypt			47	0	1	0	227	0
+229	3	3	2	shady treasure sorters			225075	0	10	0	225	0
+229	4	4	1	Fellgandran	Ornate Miner's Pick		16393	0	4	224105	224	0
+229	5	5	5	the western courtyard door in the temple			48	0	1	0	224	0
+229	6	6	4	Calambra			224107	0	1	0	224	0
+230	0	1	2	Subverted Miners			226016	0	10	0	226	0
+230	1	1	3		Pristine Ore Samples		63006	0	4	0	226	0
+230	2	2	5	the luggald cave entrance along the northern harbor wall.			49	0	1	0	225	0
+230	3	3	2	Shrine Bruisers			227008	0	10	0	227	0
+230	4	4	1	Pristine Ore Samples			63006	0	4	224107	224	0
+230	5	5	5	the lighthouse on the docks.			50	0	1	0	224	0
+231	0	1	4	Karunku Trogue			78194	0	1	0	78	0
+231	1	2	5	Camp of the Bandit Lookouts			51	0	1	0	79	0
+231	2	2	2	Iksar Lookouts			1000002	0	3	0	79	0
+231	3	3	5	Main Bandit Camp			52	0	1	0	79	0
+231	4	3	2	Iksar Bandits			79108	0	5	0	79	0
+231	5	4	2	Silliv`Host			79153	0	1	0	79	0
+231	6	5	1	Barrenzin	Silliv`Host Head		36083	0	1	202330	202	0
+232	0	1	4	Brettaru Tyco			15191	0	1	0	15	0
+232	1	2	5	the fishing settlement near the southern waterfall			53	0	1	0	15	0
+232	2	3	2	Gorge Hounds			15030	0	10	0	15	0
+232	3	4	4	Brettaru Tyco			15191	0	1	0	15	0
+233	0	1	5	the human village			54	0	1	0	15	0
+233	1	2	5	ancient statue			55	0	1	0	16	0
+233	2	3	4	Pox Soth			1000007	0	1	0	16	0
+260	1	1	1	Deliver 1 Tiny Gear #2 to James the Watchmaker			37011	0	1	202460	202	0
+260	2	1	1	Deliver 1 Tiny Gear #3 to James the Watchmaker			37012	0	1	202460	202	0
+260	3	1	1	Deliver 1 Tiny Reinforced Rod to James the Watchmaker			37010	0	1	202460	202	0
+261	0	1	1	Deliver 1 Small Gear #1 to James the Watchmaker			37013	0	1	202460	202	0
+261	1	1	1	Deliver 1 Small Gear #2 to James the Watchmaker			37015	0	1	202460	202	0
+261	2	1	1	Deliver 1 Small Gear #3 to James the Watchmaker			37016	0	1	202460	202	0
+261	3	1	1	Deliver 1 Small Reinforced Rod to James the Watchmaker			37014	0	1	202460	202	0
+262	0	1	1	Deliver 1 Medium Gear #1 to James the Watchmaker			37017	0	1	202460	202	0
+262	1	1	1	Deliver 1 Medium Gear #2 to James the Watchmaker			37019	0	1	202460	202	0
+262	2	1	1	Deliver 1 Medium Gear #3 to James the Watchmaker			37020	0	1	202460	202	0
+262	3	1	1	Deliver 1 Medium Reinforced Rod to James the Watchmaker			37018	0	1	202460	202	0
+263	0	1	1	Deliver 1 Regular Gear #1 to James the Watchmaker			37021	0	1	202460	202	0
+263	1	1	1	Deliver 1 Regular Gear #2 to James the Watchmaker			37023	0	1	202460	202	0
+263	2	1	1	Deliver 1 Regular Gear #3 to James the Watchmaker			37024	0	1	202460	202	0
+263	3	1	1	Deliver 1 Regular Reinforced Rod to James the Watchmaker			37022	0	1	202460	202	0
+264	0	1	1	Deliver 1 Large Gear #1 to James the Watchmaker			37025	0	1	202460	202	0
+264	1	1	1	Deliver 1 Large Gear #2 to James the Watchmaker			37027	0	1	202460	202	0
+264	2	1	1	Deliver 1 Large Gear #3 to James the Watchmaker			37028	0	1	202460	202	0
+264	3	1	1	Deliver 1 Large Reinforced Rod to James the Watchmaker			37026	0	1	202460	202	0
+265	0	1	1	Deliver 1 Polished Gear #1 to James the Watchmaker			37029	0	1	202460	202	0
+265	1	1	1	Deliver 1 Polished Gear #2 to James the Watchmaker			37031	0	1	202460	202	0
+265	2	1	1	Deliver 1 Polished Gear #3 to James the Watchmaker			37032	0	1	202460	202	0
+265	3	1	1	Deliver 1 Polished Reinforced Rod to James the Watchmaker			37030	0	1	202460	202	0
+266	0	1	1	Deliver 1 Copper Etched Gear #1 to James the Watchmaker			37033	0	1	202460	202	0
+266	1	1	1	Deliver 1 Copper Etched Gear #2 to James the Watchmaker			37035	0	1	202460	202	0
+266	2	1	1	Deliver 1 Copper Etched Gear #3 to james the Watchmaker			37036	0	1	202460	202	0
+266	3	1	1	Deliver 1 Copper Etched Reinforced Rod to James the Watchmake			37034	0	1	202460	202	0
+267	0	1	1	Deliver 1 Silver Etched Gear #1 to James the Watchmaker			37037	0	1	202460	202	0
+267	1	1	1	Deliver 1 Silver Etched Gear #2 to James the Watchmaker			37039	0	1	202460	202	0
+267	2	1	1	Deliver 1 Silver Etched Gear #3 to James the Watchmaker			37040	0	1	202460	202	0
+267	3	1	1	Deliver 1 Silver Etched Reinforced Rod to James the Watchmaker			37038	0	1	202460	202	0
+268	0	1	1	Deliver 1 Gold Etched Gear #1 to James the Watchmaker			37041	0	1	202460	202	0
+268	1	1	1	Deliver 1 Gold Etched Gear #2 to James the Watchmaker			37043	0	1	202460	202	0
+268	2	1	1	Deliver 1 Gold Etched Gear #3 to James the Watchmaker			37044	0	1	202460	202	0
+268	3	1	1	Deliver 1 Gold Etched Reinforced Rod to James the Watchmaker			37042	0	1	202460	202	0
+269	0	1	1	Deliver 1 Tiny Gear #1 to James the Watchmaker			37009	0	1	202460	202	0
+269	1	1	1	Deliver 1 Tiny Gear #2 to James the Watchmaker			37011	0	1	202460	202	0
+269	2	1	1	Deliver 1 Tiny Gear #3 to James the Watchmaker			37012	0	1	202460	202	0
+269	3	1	1	Deliver 1 Tiny Reinforced Rod to James the Watchmaker			37010	0	1	202460	202	0
+270	0	1	1	Deliver 1 Small Gear #1 to James the Watchmaker			37013	0	1	202460	202	0
+270	1	1	1	Deliver 1 Small Gear #2 to James the Watchmaker			37015	0	1	202460	202	0
+270	2	1	1	Deliver 1 Small Gear #3 to James the Watchmaker			37016	0	1	202460	202	0
+270	3	1	1	Deliver 1 Small Reinforced Rod to James the Watchmaker			37014	0	1	202460	202	0
+234	0	1	1	Deliver 1 Medium Gear #1 to James the Watchmaker			37017	0	1	202460	202	0
+234	1	1	1	Deliver 1 Medium Gear #2 to James the Watchmaker			37019	0	1	202460	202	0
+234	2	1	1	Deliver 1 Medium Gear #3 to James the Watchmaker			37020	0	1	202460	202	0
+234	3	1	1	Deliver 1 Medium Reinforced Rod to James the Watchmaker			37018	0	1	202460	202	0
+235	0	1	1	Deliver 1 Regular Gear #1 to James the Watchmaker			37021	0	1	202460	202	0
+235	1	1	1	Deliver 1 Regular Gear #2 to James the Watchmaker			37023	0	1	202460	202	0
+235	2	1	1	Deliver 1 Regular Gear #3 to James the Watchmaker			37024	0	1	202460	202	0
+235	3	1	1	Deliver 1 Regular Reinforced Rod to James the Watchmaker			37022	0	1	202460	202	0
+236	0	1	1	Deliver 1 Large Gear #1 to james the Watchmaker			37025	0	1	202460	202	0
+236	1	1	1	Deliver 1 Large Gear #2 to James the Watchmaker			37027	0	1	202460	202	0
+236	2	1	1	Deliver 1 Large Gear #3 to James the Watchmaker			37028	0	1	202460	202	0
+236	3	1	1	Deliver 1 Large Reinforced Rod to James the Watchmaker			37026	0	1	202460	202	0
+237	0	1	1	Deliver 1 Polished Gear #1 to James the Watchmaker			37029	0	1	202460	202	0
+237	1	1	1	Deliver 1 Polished Gear #2 to James the Watchmaker			37031	0	1	202460	202	0
+237	2	1	1	Deliver 1 Polished Gear #3 to James the Watchmaker			37032	0	1	202460	202	0
+237	3	1	1	Deliver 1 Polished Reinforced Rod to James the Watchmaker			37030	0	1	202460	202	0
+238	0	1	1	Deliver 1 Copper Etched Gear #1 to James the Watchmaker			37033	0	1	202460	202	0
+238	1	1	1	Deliver 1 Copper Etched Gear #2 to James the Watchmaker			37035	0	1	202460	202	0
+238	2	1	1	Deliver 1 Copper Etched Gear #3 to james the Watchmaker			37036	0	1	202460	202	0
+238	3	1	1	Deliver 1 Copper Etched Reinforced Rod to James the Watchmaker			37034	0	1	202460	202	0
+239	0	1	1	Deliver 1 Silver Etched Gear #1 to James the Watchmaker			37037	0	1	202460	202	0
+239	1	1	1	Deliver 1 Silver Etched Gear #2 to James the Watchmaker			37039	0	1	202460	202	0
+239	2	1	1	Deliver 1 Silver Etched Gear #3 to James the Watchmaker			37040	0	1	202460	202	0
+239	3	1	1	Deliver 1 Silver Etched Reinforced Rod to James the Watchmaker			37038	0	1	202460	202	0
+240	0	1	1	Deliver 1 Gold Etched Gear #1 to James the Watchmaker			37041	0	1	202460	202	0
+240	1	1	1	Deliver 1 Gold Etched Gear #2 to James the Watchmaker			37043	0	1	202460	202	0
+240	2	1	1	Deliver 1 Gold Etched Gear #3 to James the Watchmaker			37044	0	1	202460	202	0
+240	3	1	1	Deliver 1 Gold Etched Reinforced Rod to James the Watchmaker			37042	0	1	202460	202	0
+241	0	1	1	Deliver 1 Tiny Gear #1 to James the Watchmaker			37009	0	1	202460	202	0
+241	1	1	1	Deliver 1 Tiny Gear #2 to James the Watchmaker			37011	0	1	202460	202	0
+241	2	1	1	Deliver 1 Tiny Gear #3 to James the Watchmaker			37012	0	1	202460	202	0
+241	3	1	1	Deliver 1 Tiny Reinforced Rod to James the Watchmaker			37010	0	1	202460	202	0
+242	0	1	1	Deliver 1 Small Gear #1 to James the Watchmaker			37013	0	1	202460	202	0
+242	1	1	1	Deliver 1 Small Gear #2 to James the Watchmaker			37015	0	1	202460	202	0
+242	2	1	1	Deliver 1 Small Gear #3 to James the Watchmaker			37016	0	1	202460	202	0
+242	3	1	1	Deliver 1 Small Reinforced Rod to James the Watchmaker			37014	0	1	202460	202	0
+243	0	1	1	Deliver 1 Medium Gear #1 to James the Watchmaker			37017	0	1	202460	202	0
+243	1	1	1	Deliver 1 Medium Gear #2 to James the Watchmaker			37019	0	1	202460	202	0
+243	2	1	1	Deliver 1 Medium Gear #3 to James the Watchmaker			37020	0	1	202460	202	0
+243	3	1	1	Deliver 1 Medium Reinforced Rod to James the Watchmaker			37018	0	1	202460	202	0
+244	0	1	1	Deliver 1 Regular Gear #1 to James the Watchmaker			37021	0	1	202460	202	0
+244	1	1	1	Deliver 1 Regular Gear #2 to James the Watchmaker			37023	0	1	202460	202	0
+244	2	1	1	Deliver 1 Regular Gear #3 to James the Watchmaker			37024	0	1	202460	202	0
+244	3	1	1	Deliver 1 Regular Reinforced Rod to James the Watchmaker			37022	0	1	202460	202	0
+245	0	1	1	Deliver 1 Large Gear #1 to James the Watchmaker			37025	0	1	202460	202	0
+245	1	1	1	Deliver 1 Large Gear #2 to James the Watchmaker			37027	0	1	202460	202	0
+245	2	1	1	Deliver 1 Large Gear #3 to James the Watchmaker			37028	0	1	202460	202	0
+245	3	1	1	Deliver 1 Large Reinforced Rod to James the Watchmaker			37026	0	1	202460	202	0
+246	0	1	1	Deliver 1 Polished Gear #1 to James the Watchmaker			37029	0	1	202460	202	0
+246	1	1	1	Deliver 1 Polished Gear #2 to James the Watchmaker			37031	0	1	202460	202	0
+246	2	1	1	Deliver 1 Polished Gear #3 to James the Watchmaker			37032	0	1	202460	202	0
+246	3	1	1	Deliver 1 Polished Reinforced Rod to James the Watchmaker			37030	0	1	202460	202	0
+247	0	1	1	Deliver 1 Copper Etched Gear #1 to James the Watchmaker			37033	0	1	202460	202	0
+247	1	1	1	Deliver 1 Copper Etched Gear #2 to James the Watchmaker			37035	0	1	202460	202	0
+247	2	1	1	Deliver 1 Copper Etched Gear #3 to James the Watchmaker			37036	0	1	202460	202	0
+247	3	1	1	Deliver 1 Copper Etched Reinforced Rod to James the Watchmaker			37034	0	1	202460	202	0
+248	0	1	1	Deliver 1 Silver Etched Gear #1 to James the Watchmaker			37037	0	1	202460	202	0
+248	1	1	1	Deliver 1 Silver Etched Gear #2 to James the Watchmaker			37039	0	1	202460	202	0
+248	2	1	1	Deliver 1 Silver Etched Gear #3 to James the Watchmaker			37040	0	1	202460	202	0
+248	3	1	1	Deliver 1 Silver Etched Reinforced Rod to James the Watchmaker			37038	0	1	202460	202	0
+249	0	1	1	Deliver 1 Gold Etched Gear #1 to James the Watchmaker			37041	0	1	202460	202	0
+249	1	1	1	Deliver 1 Gold Etched Gear #2 to James the Watchmaker			37043	0	1	202460	202	0
+249	2	1	1	Deliver 1 Gold Etched Gear #3 to James the Watchmaker			37044	0	1	202460	202	0
+249	3	1	1	Deliver 1 Gold Etched Reinforced Rod to James the Watchmaker			37042	0	1	202460	202	0
+250	0	1	1	Deliver 1 Tiny Gear #1 to James the Watchmaker			37009	0	1	202460	202	0
+250	1	1	1	Deliver 1 Tiny Gear #2 to James the Watchmaker			37011	0	1	202460	202	0
+250	2	1	1	Deliver 1 Tiny Gear #3 to James the Watchmaker			37012	0	1	202460	202	0
+250	3	1	1	Deliver 1 Tiny Reinforced Rod to James the Watchmaker			37010	0	1	202460	202	0
+251	0	1	1	Deliver 1 Small Gear #1 to James the Watchmaker			37013	0	1	202460	202	0
+251	1	1	1	Deliver 1 Small Gear #2 to James the Watchmaker			37015	0	1	202460	202	0
+251	2	1	1	Deliver 1 Small Gear #3 to James the Watchmaker			37016	0	1	202460	202	0
+251	3	1	1	Deliver 1 Small Reinforced Rod to James the Watchmaker			37014	0	1	202460	202	0
+252	0	1	1	Deliver 1 Medium Gear #1 to James the Watchmaker			37017	0	1	202460	202	0
+252	1	1	1	Deliver 1 Medium Gear #2 to James the Watchmaker			37019	0	1	202460	202	0
+252	2	1	1	Deliver 1 Medium Gear #3 to James the Watchmaker			37020	0	1	202460	202	0
+252	3	1	1	Deliver 1 Medium Reinforced Rod to James the Watchmaker			37018	0	1	202460	202	0
+253	0	1	1	Deliver 1 Regular Gear #1 to James the Watchmaker			37021	0	1	202460	202	0
+253	1	1	1	Deliver 1 Regular Gear #2 to James the Watchmaker			37023	0	1	202460	202	0
+253	2	1	1	Deliver 1 Regular Gear #3 to James the Watchmaker			37024	0	1	202460	202	0
+253	3	1	1	Deliver 1 Regular Reinforced Rod to James the Watchmaker			37022	0	1	202460	202	0
+254	0	1	1	Deliver 1 Large Gear #1 to James the Watchmaker			37025	0	1	202460	202	0
+254	1	1	1	Deliver 1 Large Gear #2 to James the Watchmaker			37027	0	1	202460	202	0
+254	2	1	1	Deliver 1 Large Gear #3 to James the Watchmaker			37028	0	1	202460	202	0
+254	3	1	1	Deliver 1 Large Reinforced Rod to James the Watchmaker			37026	0	1	202460	202	0
+255	0	1	1	Deliver 1 Polished Gear #1 to James the Watchmaker			37029	0	1	202460	202	0
+255	1	1	1	Deliver 1 Polished Gear #2 to James the Watchmaker			37031	0	1	202460	202	0
+255	2	1	1	Deliver 1 Polished Gear #3 to James the Watchmaker			37032	0	1	202460	202	0
+255	3	1	1	Deliver 1 Polished Reinforced Rod to James the Watchmaker			37030	0	1	202460	202	0
+256	0	1	1	Deliver 1 Copper Etched Gear #1 to James the Watchmaker			37033	0	1	202460	202	0
+256	1	1	1	Deliver 1 Copper Etched Gear #2 to James the Watchmaker			37035	0	1	202460	202	0
+256	2	1	1	Deliver 1 Copper Etched Gear #3 to James the Watchmaker			37036	0	1	202460	202	0
+256	3	1	1	Deliver 1 Copper Etched Reinforced Rod to James the Watchmaker			37034	0	1	202460	202	0
+257	0	1	1	Deliver 1 Silver Etched Gear #1 to James the Watchmaker			37037	0	1	202460	202	0
+257	1	1	1	Deliver 1 Silver Etched Gear #2 to James the Watchmaker			37039	0	1	202460	202	0
+257	2	1	1	Deliver 1 Silver Etched Gear #3 to James the Watchmaker			37040	0	1	202460	202	0
+257	3	1	1	Deliver 1 Silver Etched Reinforced Rod to James the Watchmaker			37038	0	1	202460	202	0
+258	0	1	1	Deliver 1 Gold Etched Gear #1 to James the Watchmaker			37041	0	1	202460	202	0
+258	1	1	1	Deliver 1 Gold Etched Gear #2 to James the Watchmaker			37043	0	1	202460	202	0
+258	2	1	1	Deliver 1 Gold Etched Gear #3 to James the Watchmaker			37044	0	1	202460	202	0
+258	3	1	1	Deliver 1 Gold Etched Reinforced Rod to James the Watchmaker			37042	0	1	202460	202	0
+259	0	1	1	Deliver 1 Platinum Etched Gear #1 to James the Watchmaker			37045	0	1	202460	202	0
+259	1	1	1	Deliver 1 Platinum Etched Gear #2 to James the Watchmaker			37047	0	1	202460	202	0
+259	2	1	1	Deliver 1 Platinum Etched Gear #3 to James the Watchmaker			37048	0	1	202460	202	0
+259	3	1	1	Deliver 1 Platinum Etched Reinforced Rod to James the Watchmaker			37046	0	1	202460	202	0
+260	0	1	1	Deliver 1 Tiny Gear #1 to James the Watchmaker			37009	0	1	202460	202	0
+271	0	1	4	Averna Eisley			57138	0	1	0	57	0
+271	1	2	5	the graveyard entrance			1	0	1	0	59	0
+271	2	3	2	Pledge Familiars			15	1	10	0	59	0
+271	3	4	4	Brynn Tinkerton			448056	0	1	0	448	0
+272	0	1	6			Create 1 Stalking Probe using tradeskills	16875	0	1	0	0	0
+272	1	2	1		Deliver 1 Stalking Probe to Rylin Coil		16875	0	1	0	55	0

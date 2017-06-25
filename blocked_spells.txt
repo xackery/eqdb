@@ -1,0 +1,462 @@
+1	1771	1	71	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH in airplane
+2	1771	2	162	818	-325	401.7	208	143	15	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH in ssratemple before Emperor's Room
+3	345	2	75	0	0	0	10000	10000	10000	You cannot shrink in this zone.	Prevent Shrink in Paineel
+4	1771	1	164	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	CoH in deep
+5	1771	1	154	0	0	0	0	0	0	A voice whispers in your mind: 	CoH in acrylia
+6	1771	1	163	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	CoH in griegs
+7	1771	1	215	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Xegony CoH
+9	1771	1	223	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	potimeb CoH
+10	1771	1	212	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	solrotower CoH
+11	1771	1	204	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	ponightmare CoH
+12	1771	1	206	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	poinnovation CoH
+13	1771	2	201	500	-1000	60	1000	500	60	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	pojustice trials CoH
+14	1771	1	207	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	potorment CoH
+15	1771	2	208	380	2500	35	500	500	100	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Aerin's lair CoH
+16	1771	2	205	1600	0	300	525	500	250	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	podisease castle CoH
+17	1771	2	214	-500	0	150	500	2200	60	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Tallon/Vallon CoH
+18	1771	2	209	0	0	1500	10000	10000	1400	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	bothunder towers/Agnaar CoH
+19	1771	2	200	0	0	-275	10000	10000	85	A voice whispers in your mind: "There are no heroes here...There are no heroes here..." Try somewhere else.	codecay lower level
+20	1771	2	217	-500	-1000	-100	1500	1000	125	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	pofire after field 2 CoH
+21	258	2	202	0	0	0	10000	10000	10000	This spell cannot be cast in this zone.	Treeform in PoK
+108	2028	1	71	0	0	0	0	0	0	You cannot cast that here.	
+109	2432	1	71	0	0	0	0	0	0	You cannot cast that here.	
+441	16531	2	162	818	-325	401.7	208	143	15	A voice whispers in your mind: 	Prevent CoH in ssratemple before Emperor's Room
+29	3	2	162	818	-325	401.7	208	143	15	The dead may not be summoned here. Try somewhere else.	Prevent corpse summon in ssratemple before Emperor's Room
+30	3	1	164	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in deep
+31	3	1	154	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in acrylia
+32	3	1	163	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in griegs
+33	3	1	215	0	0	0	0	0	0	The dead may not be summoned here. Try somewhere else.	Xegony corpse summon
+35	3	1	223	0	0	0	0	0	0	The dead may not be summoned here. Try somewhere else.	potimeb corpse summon
+37	3	1	204	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	ponightmare corpse summon
+38	3	1	206	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	poinnovation corpse summon
+39	3	2	201	500	-1000	60	1000	500	60	The dead may not be summoned here. Try somewhere else.	pojustice trials corpse summon
+40	3	1	207	0	0	0	0	0	0	The dead may not be summoned here.	potorment corpse summon
+41	3	2	208	380	2500	35	500	500	100	The dead may not be summoned here. Try somewhere else.	Aerin's lair corpse summon
+42	3	2	205	1600	0	300	525	500	250	The dead may not be summoned here. Try somewhere else.	podisease castle corpse summon
+43	3	2	214	-500	0	150	500	2200	60	The dead may not be summoned here. Try somewhere else.	Tallon/Vallon corpse summon
+44	3	2	209	0	0	1500	10000	10000	1400	The dead may not be summoned here. Try somewhere else.	bothunder towers/Agnaar corpse summon
+45	3	2	200	0	0	-275	10000	10000	85	The dead may not be summoned here. Try somewhere else.	codecay lower level
+46	3	2	217	-500	-1000	-100	1500	1000	125	The dead may not be summoned here. Try somewhere else.	pofire after field 2 corpse summon
+49	1773	2	162	818	-325	401.7	208	143	15	The dead may not be summoned here. Try somewhere else.	Prevent corpse summon in ssratemple before Emperor's Room
+50	1773	1	164	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in deep
+51	1773	1	154	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in acrylia
+52	1773	1	163	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in griegs
+53	1773	1	215	0	0	0	0	0	0	The dead may not be summoned here. Try somewhere else.	Xegony corpse summon
+55	1773	1	223	0	0	0	0	0	0	The dead may not be summoned here. Try somewhere else.	potimeb corpse summon
+57	1773	1	204	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	ponightmare corpse summon
+58	1773	1	206	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	poinnovation corpse summon
+59	1773	2	201	500	-1000	60	1000	500	60	The dead may not be summoned here. Try somewhere else.	pojustice trials corpse summon
+60	1773	1	207	0	0	0	0	0	0	The dead may not be summoned here.	potorment corpse summon
+61	1773	2	208	380	2500	35	500	500	100	The dead may not be summoned here. Try somewhere else.	Aerin's lair corpse summon
+62	1773	2	205	1600	0	300	525	500	250	The dead may not be summoned here. Try somewhere else.	podisease castle corpse summon
+63	1773	2	214	-500	0	150	500	2200	60	The dead may not be summoned here. Try somewhere else.	Tallon/Vallon corpse summon
+64	1773	2	209	0	0	1500	10000	10000	1400	The dead may not be summoned here. Try somewhere else.	bothunder towers/Agnaar corpse summon
+65	1773	2	200	0	0	-275	10000	10000	85	The dead may not be summoned here. Try somewhere else.	codecay lower level
+66	1773	2	217	-500	-1000	-100	1500	1000	125	The dead may not be summoned here. Try somewhere else.	pofire after field 2 corpse summon
+439	16531	1	71	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+440	31597	1	71	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+69	2213	2	162	818	-325	401.7	208	143	15	The dead may not be summoned here. Try somewhere else.	Prevent corpse summon in ssratemple before Emperor's Room
+70	2213	1	164	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in deep
+71	2213	1	154	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in acrylia
+72	2213	1	163	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in griegs
+73	2213	1	215	0	0	0	0	0	0	The dead may not be summoned here. Try somewhere else.	Xegony corpse summon
+75	2213	1	223	0	0	0	0	0	0	The dead may not be summoned here. Try somewhere else.	potimeb corpse summon
+77	2213	1	204	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	ponightmare corpse summon
+78	2213	1	206	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	poinnovation corpse summon
+79	2213	2	201	500	-1000	60	1000	500	60	The dead may not be summoned here. Try somewhere else.	pojustice trials corpse summon
+80	2213	1	207	0	0	0	0	0	0	The dead may not be summoned here.	potorment corpse summon
+81	2213	2	208	380	2500	35	500	500	100	The dead may not be summoned here. Try somewhere else.	Aerin's lair corpse summon
+82	2213	2	205	1600	0	300	525	500	250	The dead may not be summoned here. Try somewhere else.	podisease castle corpse summon
+83	2213	2	214	-500	0	150	500	2200	60	The dead may not be summoned here. Try somewhere else.	Tallon/Vallon corpse summon
+84	2213	2	209	0	0	1500	10000	10000	1400	The dead may not be summoned here. Try somewhere else.	bothunder towers/Agnaar corpse summon
+85	2213	2	200	0	0	-275	10000	10000	85	The dead may not be summoned here. Try somewhere else.	codecay lower level
+86	2213	2	217	-500	-1000	-100	1500	1000	125	The dead may not be summoned here. Try somewhere else.	pofire after field 2 corpse summon
+438	31597	1	212	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	
+89	2764	2	162	818	-325	401.7	208	143	15	The dead may not be summoned here. Try somewhere else.	Prevent corpse summon in ssratemple before Emperor's Room
+90	2764	1	164	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in deep
+91	2764	1	154	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in acrylia
+92	2764	1	163	0	0	0	0	0	0	The dead may not be summoned here.	corpse summon in griegs
+93	2764	1	215	0	0	0	0	0	0	The dead may not be summoned here. Try somewhere else.	Xegony corpse summon
+95	2764	1	223	0	0	0	0	0	0	The dead may not be summoned here. Try somewhere else.	potimeb corpse summon
+97	2764	1	204	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	ponightmare corpse summon
+98	2764	1	206	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	poinnovation corpse summon
+99	2764	2	201	500	-1000	60	1000	500	60	The dead may not be summoned here. Try somewhere else.	pojustice trials corpse summon
+100	2764	1	207	0	0	0	0	0	0	The dead may not be summoned here.	potorment corpse summon
+101	2764	2	208	380	2500	35	500	500	100	The dead may not be summoned here. Try somewhere else.	Aerin's lair corpse summon
+102	2764	2	205	1600	0	300	525	500	250	The dead may not be summoned here. Try somewhere else.	podisease castle corpse summon
+103	2764	2	214	-500	0	150	500	2200	60	The dead may not be summoned here. Try somewhere else.	Tallon/Vallon corpse summon
+104	2764	2	209	0	0	1500	10000	10000	1400	The dead may not be summoned here. Try somewhere else.	bothunder towers/Agnaar corpse summon
+105	2764	2	200	0	0	-275	10000	10000	85	The dead may not be summoned here. Try somewhere else.	codecay lower level
+106	2764	2	217	-500	-1000	-100	1500	1000	125	The dead may not be summoned here. Try somewhere else.	pofire after field 2 corpse summon
+437	16531	1	212	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	
+110	2433	1	71	0	0	0	0	0	0	You cannot cast that here.	
+111	2734	1	71	0	0	0	0	0	0	You cannot cast that here.	
+112	2944	1	71	0	0	0	0	0	0	You cannot cast that here.	
+113	2945	1	71	0	0	0	0	0	0	You cannot cast that here.	
+114	530	1	71	0	0	0	0	0	0	You cannot cast that here.	
+115	531	1	71	0	0	0	0	0	0	You cannot cast that here.	
+116	532	1	71	0	0	0	0	0	0	You cannot cast that here.	
+117	533	1	71	0	0	0	0	0	0	You cannot cast that here.	
+118	534	1	71	0	0	0	0	0	0	You cannot cast that here.	
+119	535	1	71	0	0	0	0	0	0	You cannot cast that here.	
+120	536	1	71	0	0	0	0	0	0	You cannot cast that here.	
+121	537	1	71	0	0	0	0	0	0	You cannot cast that here.	
+122	538	1	71	0	0	0	0	0	0	You cannot cast that here.	
+123	550	1	71	0	0	0	0	0	0	You cannot cast that here.	
+124	551	1	71	0	0	0	0	0	0	You cannot cast that here.	
+125	552	1	71	0	0	0	0	0	0	You cannot cast that here.	
+126	553	1	71	0	0	0	0	0	0	You cannot cast that here.	
+127	554	1	71	0	0	0	0	0	0	You cannot cast that here.	
+128	555	1	71	0	0	0	0	0	0	You cannot cast that here.	
+129	556	1	71	0	0	0	0	0	0	You cannot cast that here.	
+130	557	1	71	0	0	0	0	0	0	You cannot cast that here.	
+131	558	1	71	0	0	0	0	0	0	You cannot cast that here.	
+132	1398	1	71	0	0	0	0	0	0	You cannot cast that here.	
+133	1434	1	71	0	0	0	0	0	0	You cannot cast that here.	
+134	1438	1	71	0	0	0	0	0	0	You cannot cast that here.	
+135	1440	1	71	0	0	0	0	0	0	You cannot cast that here.	
+136	1517	1	71	0	0	0	0	0	0	You cannot cast that here.	
+137	2020	1	71	0	0	0	0	0	0	You cannot cast that here.	
+138	1326	1	71	0	0	0	0	0	0	You cannot cast that here.	
+139	1516	1	71	0	0	0	0	0	0	You cannot cast that here.	
+140	2021	1	71	0	0	0	0	0	0	You cannot cast that here.	
+141	2029	1	71	0	0	0	0	0	0	You cannot cast that here.	
+142	2030	1	71	0	0	0	0	0	0	You cannot cast that here.	
+143	2031	1	71	0	0	0	0	0	0	You cannot cast that here.	
+144	561	1	71	0	0	0	0	0	0	You cannot cast that here.	
+145	562	1	71	0	0	0	0	0	0	You cannot cast that here.	
+146	563	1	71	0	0	0	0	0	0	You cannot cast that here.	
+147	564	1	71	0	0	0	0	0	0	You cannot cast that here.	
+148	565	1	71	0	0	0	0	0	0	You cannot cast that here.	
+149	566	1	71	0	0	0	0	0	0	You cannot cast that here.	
+150	567	1	71	0	0	0	0	0	0	You cannot cast that here.	
+151	568	1	71	0	0	0	0	0	0	You cannot cast that here.	
+152	1399	1	71	0	0	0	0	0	0	You cannot cast that here.	
+153	1418	1	71	0	0	0	0	0	0	You cannot cast that here.	
+154	1423	1	71	0	0	0	0	0	0	You cannot cast that here.	
+155	1425	1	71	0	0	0	0	0	0	You cannot cast that here.	
+156	2420	1	71	0	0	0	0	0	0	You cannot cast that here.	
+157	1334	1	71	0	0	0	0	0	0	You cannot cast that here.	
+158	1336	1	71	0	0	0	0	0	0	You cannot cast that here.	
+159	1337	1	71	0	0	0	0	0	0	You cannot cast that here.	
+160	1338	1	71	0	0	0	0	0	0	You cannot cast that here.	
+161	1339	1	71	0	0	0	0	0	0	You cannot cast that here.	
+162	1371	1	71	0	0	0	0	0	0	You cannot cast that here.	
+163	1372	1	71	0	0	0	0	0	0	You cannot cast that here.	
+164	1373	1	71	0	0	0	0	0	0	You cannot cast that here.	
+165	1374	1	71	0	0	0	0	0	0	You cannot cast that here.	
+166	1375	1	71	0	0	0	0	0	0	You cannot cast that here.	
+167	1422	1	71	0	0	0	0	0	0	You cannot cast that here.	
+168	2022	1	71	0	0	0	0	0	0	You cannot cast that here.	
+169	2023	1	71	0	0	0	0	0	0	You cannot cast that here.	
+170	2024	1	71	0	0	0	0	0	0	You cannot cast that here.	
+171	2025	1	71	0	0	0	0	0	0	You cannot cast that here.	
+172	58	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+173	315	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+174	316	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+175	335	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+176	336	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+177	395	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+178	397	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+179	398	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+180	399	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+181	401	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+182	402	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+183	403	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+184	496	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+185	497	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+186	498	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+187	569	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+188	570	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+189	571	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+190	573	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+191	574	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+192	575	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+193	620	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+194	621	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+195	622	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+196	625	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+197	626	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+198	628	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+199	629	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+200	630	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+201	632	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+202	633	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+203	634	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+204	1400	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+205	1402	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+206	1404	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+207	1671	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+208	1672	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+209	1673	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+210	1675	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+211	1676	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+212	1677	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	description
+213	12582	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+214	12581	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+215	12580	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+216	12516	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+217	12515	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+218	12514	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+219	11552	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+220	8258	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+221	8257	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+222	8256	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+223	7867	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+224	6228	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+225	6227	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+226	6226	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+227	4554	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+228	4553	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+229	4552	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+230	4460	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+231	3870	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+232	3869	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+233	3807	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+234	3649	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+235	3640	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+236	3639	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+237	3635	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+238	3638	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+239	3637	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+240	3636	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+241	3634	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+242	3633	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+243	3288	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+244	3286	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+245	4566	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+246	4565	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+247	4564	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+248	3270	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+249	3287	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+250	3269	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+251	3268	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+252	12648	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+253	12647	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+254	12646	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+255	4827	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+256	4826	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+257	3285	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+258	3284	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+259	3283	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+260	12765	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+261	12766	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+262	12767	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+263	12829	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+264	36	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+265	541	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+266	542	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+267	543	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+268	544	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+269	545	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+270	546	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+271	547	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+272	548	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+273	1320	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+274	1325	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+275	1354	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+276	1417	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+277	2026	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+278	2027	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+279	2028	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+280	2418	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+281	2423	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+282	2428	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+283	3046	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+284	3183	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+285	3795	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+286	4963	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+287	5734	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+288	6176	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+289	6181	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+290	8238	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+291	8968	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+292	10876	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+293	10879	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+294	10882	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+295	11654	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+296	2425	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+297	2430	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+298	3134	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+299	3180	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+300	4965	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+301	5732	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+302	6178	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+303	6183	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+304	6836	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+305	8236	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+306	8966	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+307	10875	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+308	10878	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+309	10881	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+310	10991	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+311	11984	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+312	2419	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+313	2424	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+314	2429	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+315	2184	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+316	3792	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+317	4966	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+318	5731	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+319	6179	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+320	6184	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+321	8235	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+322	8965	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+323	9951	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+324	9954	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+325	9957	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+326	11981	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+327	2421	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+328	2426	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+329	2431	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+330	2943	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+331	3181	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+332	3243	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+333	3833	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+334	4964	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+335	5735	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+336	6177	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+337	6182	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+338	8239	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+339	8969	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+340	10874	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+341	10877	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+342	10880	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+343	11983	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+344	666	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+345	3849	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+346	8771	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+347	2931	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+348	1322	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+349	1264	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+350	1199	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+351	2293	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+352	2294	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+353	2295	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+354	2296	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+355	2297	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+356	2298	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+357	2299	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+358	2300	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+359	2301	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+360	2302	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+361	2303	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+362	2304	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+363	3612	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+364	3789	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+365	3790	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+366	3812	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+367	11204	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+368	11504	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+369	11505	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+370	1826	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+371	3782	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+372	1265	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+373	3615	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+374	602	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+375	603	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+376	604	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+377	605	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+378	606	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+379	607	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+380	608	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+381	609	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+382	610	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+383	611	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+384	1566	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+385	1567	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+386	1626	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+387	1627	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+388	1628	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+389	1737	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+390	1738	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+391	1739	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+392	2183	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+393	2558	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+394	2771	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+395	3244	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+396	354	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+397	375	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+398	528	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+399	739	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+400	872	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+401	35	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+402	6093	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+403	2272	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+404	3292	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+405	3293	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+406	3294	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+407	5110	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+408	5111	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+409	12759	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+410	12760	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+411	12761	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+412	480	1	71	0	0	0	0	0	0	You cannot cast that here.	No Swarm Pets in Plane of Sky
+413	34	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+414	42	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+415	247	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+416	522	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+417	719	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+418	2516	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+419	2537	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+420	2039	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+421	1435	2	151	0	0	0	10000	10000	10000	Cannot cast here.	Bazaar - Invis
+422	601	2	202	0	0	0	10000	10000	10000	This spell can not be cast in this zone.	Illusion Tree PoK
+423	3182	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+424	3184	1	71	0	0	0	0	0	0	You cannot cast that here.	No Gate spells in Plane of Sky
+425	4888	1	71	0	0	0	0	0	0	Unseen forces prevent you from doing that.	
+426	6883	2	344	0	0	0	10000	10000	10000	Expedient Recovery cannot be cast in this zone.	Prevent Exploit
+427	6883	2	187	0	0	0	10000	10000	10000	Expedient Recovery cannot be cast in this zone.	Prevent Exploit
+428	3188	1	344	0	0	0	0	0	0		
+429	2538	1	344	0	0	0	0	0	0		
+430	16531	2	217	-500	-1000	-100	1500	1000	125	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	pofire after field 2 CoH
+431	31597	2	217	-500	-1000	-100	1500	1000	125	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	pofire after field 2 CoH
+432	1771	1	298	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	
+433	16531	1	298	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	
+434	31597	1	298	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	
+435	1771	1	289	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here...	
+436	16531	1	289	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	
+442	31597	2	162	818	-325	401.7	208	143	15	A voice whispers in your mind: 	Prevent CoH in ssratemple before Emperor's Room
+443	16531	1	164	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+444	31597	1	164	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+445	16531	1	154	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+446	31597	1	154	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+447	16531	1	163	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+448	31597	1	163	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+449	16531	1	215	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+450	31597	1	215	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+451	16531	1	223	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+452	31597	1	223	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+453	16531	1	204	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	Prevent CoH
+454	31597	1	204	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	Prevent CoH
+455	16531	1	206	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	Prevent CoH
+456	31597	1	206	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	Prevent CoH
+457	16531	2	201	500	-1000	60	1000	500	60	A voice whispers in your mind: 	Prevent CoH
+461	16531	1	208	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+458	31597	2	201	500	-1000	60	1000	500	60	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent CoH
+459	16531	1	207	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	Prevent CoH
+460	31597	1	207	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..."	Prevent CoH
+462	31597	1	208	0	0	0	0	0	0	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+463	16531	2	205	1600	0	300	525	500	250	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+464	31597	2	205	1600	0	300	525	500	250	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+465	16531	2	214	-500	0	150	500	2200	60	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+466	31597	2	214	-500	0	150	500	2200	60	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+467	16531	2	209	0	0	1500	10000	10000	1400	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+468	31597	2	209	0	0	1500	10000	10000	1400	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+469	16531	2	200	0	0	-275	10000	10000	85	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+470	31597	2	200	0	0	-275	10000	10000	85	A voice whispers in your mind: "There are no heroes here..." Try somewhere else.	Prevent COH
+471	1768	1	202	0	0	0	0	0	0	You can't do that here	Sacrifice
+472	1771	1	290	0	0	0	0	0	0	A voice whispers in your mind: \\\\\\"There are no heroes here...	A voice whispers in your mind: "There are no heroes here...
+479	16531	1	290	0	0	0	0	0	0	A voice whispers in your mind: \\"There are no heroes here...	A voice whispers in your mind: "There are no heroes here...
+474	1771	1	292	0	0	0	0	0	0	A voice whispers in your mind: \\"There are no heroes here...	A voice whispers in your mind: "There are no heroes here...
+475	16531	1	292	0	0	0	0	0	0	A voice whispers in your mind: \\"There are no heroes here...	A voice whispers in your mind: "There are no heroes here...
+476	31597	1	289	0	0	0	0	0	0	A voice whispers in your mind: \\"There are no heroes here...	A voice whispers in your mind: "There are no heroes here...
+477	31597	1	290	0	0	0	0	0	0	A voice whispers in your mind: \\"There are no heroes here...	A voice whispers in your mind: "There are no heroes here...
+478	31597	1	292	0	0	0	0	0	0	A voice whispers in your mind: \\"There are no heroes here...	A voice whispers in your mind: "There are no heroes here...
+480	9177	1	71	0	0	0	0	0	0	This spell does not work on this plane.	
+481	24075	1	71	0	0	0	0	0	0	This spell does not work on this plane.	
+482	5824	1	71	0	0	0	0	0	0	This spell does not work on this plane.	
+483	1771	1	281	0	0	0	0	0	0	A voice whispers in your mind, 'There are no heroes here...'	
+484	16531	1	281	0	0	0	0	0	0	A voice whispers in your mind, 'There are no heroes here...'	
+485	31597	1	281	0	0	0	0	0	0	A voice whispers in your mind, 'There are no heroes here...'	
+486	40456	1	281	0	0	0	0	0	0	A voice whispers in your mind, 'There are no heroes here...'	

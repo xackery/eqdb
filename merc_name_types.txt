@@ -1,0 +1,14 @@
+1	0		mercenary
+2	0		hireling
+3	0	hired	
+4	1		defender
+4	2		soother
+4	4		fighter
+4	12		caster
+5	1		brawler
+5	2		mender
+5	4		
+5	12		
+6	2		acolyte
+7	1		nightlord
+8	2		mendicant

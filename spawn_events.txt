@@ -1,0 +1,71 @@
+1	eastwastes	1	Enable Night	1440	1	21	6	5	3804	1	0	1	0
+2	eastwastes	1	Disable Night	1440	0	7	6	5	3804	1	0	0	0
+3	burningwood	2	Naxot Spawn	1440	0	15	2	4	3804	1	0	1	0
+4	burningwood	2	Naxot Depsawn	1440	0	3	2	4	3804	1	0	0	0
+5	commons	2	Enable Day	1440	1	7	12	5	3804	1	0	1	0
+6	commons	2	Disable Day	1440	0	21	12	5	3804	1	0	0	0
+7	commons	1	Enable Night	1440	1	21	12	5	3804	1	0	1	0
+8	commons	1	Disable Night	1440	0	7	12	5	3804	1	0	0	0
+9	everfrost	2	Enable Day	1440	1	7	13	5	3804	1	0	1	0
+10	everfrost	2	Disable Day	1440	0	21	13	5	3804	1	0	0	0
+11	everfrost	1	Enable Night	1440	1	21	13	5	3804	1	0	1	0
+12	everfrost	1	Disable Night	1440	0	7	13	5	3804	1	0	0	0
+13	kithicor	2	Enable Day	1440	1	7	26	3	3804	1	0	1	0
+14	kithicor	2	Disable Day	1440	0	21	25	3	3804	1	0	0	0
+15	kithicor	1	Enable Night	1440	1	21	25	3	3804	1	0	1	0
+16	kithicor	1	Disable Night	1440	0	7	26	3	3804	1	0	0	0
+17	lakerathe	2	Enable Day	1440	1	7	12	5	3804	1	0	1	0
+18	lakerathe	2	Disable Day	1440	0	21	11	5	3804	1	0	0	0
+19	lakerathe	1	Enable Night	1440	1	21	11	5	3804	1	0	1	0
+20	lakerathe	1	Disable Night	1440	0	7	12	5	3804	1	0	0	0
+21	lfaydark	1	Enable Night	1440	1	21	9	5	3804	1	0	1	0
+22	lfaydark	1	Disable Night	1440	0	7	10	5	3804	1	0	0	0
+23	northkarana	2	Enable Day	1440	1	7	13	5	3804	1	0	1	0
+24	northkarana	2	Disable Day	1440	0	21	12	5	3804	1	0	0	0
+25	northkarana	1	Enable Night	1440	1	21	12	5	3804	1	0	1	0
+26	northkarana	1	Disable Night	1440	0	7	13	5	3804	1	0	0	0
+27	oggok	2	Enable Ryn	1440	1	9	1	5	3804	1	0	1	0
+28	oggok	2	Disable Ryn	1440	0	13	1	5	3804	1	0	0	0
+29	oggok	1	Enable Gronk	1440	1	13	1	5	3804	1	0	1	0
+30	oggok	1	Disable Gronk	1440	0	9	1	5	3804	1	0	0	0
+31	qey2hh1	2	Enable Day	1440	1	7	13	5	3804	1	0	1	0
+32	qey2hh1	2	Disable Day	1440	0	20	12	5	3804	1	0	0	0
+33	qey2hh1	1	Enable Night	1440	1	20	12	5	3804	1	0	1	0
+34	qey2hh1	1	Disable Night	1440	0	7	13	5	3804	1	0	0	0
+35	rathemtn	2	Enable Hasten	1440	1	7	2	6	3804	1	0	1	0
+36	rathemtn	2	Disable Hasten	1440	0	21	2	6	3804	1	0	0	0
+37	rathemtn	1	Enable Zephyl	1440	1	21	2	6	3804	1	0	1	0
+38	rathemtn	1	Disable Zephyl	1440	0	7	2	6	3804	1	0	0	0
+39	riwwi	1	Enable stonemites	1440	1	7	21	4	3804	1	0	1	0
+40	riwwi	1	Disable stonemites	1440	0	21	20	4	3804	1	0	0	0
+41	riwwi	2	Enable nightwatchman	1440	1	21	20	4	3804	1	0	1	0
+42	riwwi	2	Disable nightwatchman	1440	0	7	21	4	3804	1	0	0	0
+43	southkarana	2	Enable Day	1440	1	7	13	5	3804	1	0	1	0
+44	southkarana	2	Disable Day	1440	0	21	13	5	3804	1	0	0	0
+45	southkarana	1	Enable Night	1440	1	21	13	5	3804	1	0	1	0
+46	southkarana	1	Disable Night	1440	0	7	13	5	3804	1	0	0	0
+47	guildlobby	1	Time Keeper	1440	0	6	15	5	3804	1	0	0	0
+48	qeynos	2	Enable Day	1440	1	7	12	5	3804	1	0	1	0
+49	qeynos	2	Disable Day	1440	0	21	11	5	3804	1	0	0	0
+50	qeynos	1	Enable Night	1440	1	21	11	5	3804	1	0	1	0
+51	qeynos	1	Disable Night	1440	0	7	12	5	3804	1	0	0	0
+52	qeytoqrg	2	Enable Day	1440	1	7	12	5	3804	1	0	1	0
+53	qeytoqrg	2	Disable Day	1440	0	21	12	5	3804	1	0	0	0
+54	qeytoqrg	1	Enable Night	1440	1	21	12	5	3804	1	0	1	0
+55	qeytoqrg	1	Disable Night	1440	0	7	12	5	3804	1	0	0	0
+56	overthere	2	Enable Day	1440	1	1	10	5	3804	1	0	1	0
+57	overthere	2	Disable Day	1440	0	21	9	5	3804	1	0	0	0
+58	overthere	1	Enable Night	1440	1	21	9	5	3804	1	0	1	0
+59	overthere	1	Disable Night	1440	0	7	9	5	3804	1	0	0	0
+60	thurgadinb	2	Enable Day	1440	1	7	16	3	3801	1	0	1	0
+61	thurgadinb	2	Disable Day	1440	0	21	16	3	3801	1	0	0	0
+62	thurgadinb	1	Enable Night	1440	1	21	16	3	3801	1	0	1	0
+63	thurgadinb	1	Disable Night	1440	0	7	16	3	3801	1	0	0	0
+64	natimbi	1	SpawnCBQ	1440	1	1	15	5	3804	1	0	1	0
+65	natimbi	1	DespawnCBQ	1440	0	3	14	5	3804	1	0	0	0
+66	yxtta	1	SpawnCardiwi	1440	1	4	5	5	3804	1	0	1	0
+67	yxtta	1	DepopCardiwi	1440	0	6	5	5	3804	1	0	0	0
+68	southkarana	4	druid_enable_day	1440	21	1	14	5	3804	1	0	1	0
+69	southkarana	4	druid_disable_day	1440	58	23	13	5	3804	1	0	0	0
+70	southkarana	3	druid_enable_night	1440	59	23	13	5	3804	1	0	1	0
+71	southkarana	3	druid_disable_night	1440	20	1	14	5	3804	1	0	0	0

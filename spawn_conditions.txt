@@ -1,0 +1,142 @@
+burningwood	2	0	2	Naxot
+chambersa	1	1	2	FEAR_Images
+chambersa	2	0	2	FEAR_Event
+chambersa	3	0	2	HATE_Event
+chambersb	1	0	2	MPG_Weaponry
+chambersc	1	0	2	Subversion_Event
+chambersd	1	0	2	Wave_1
+chambersd	2	0	2	Wave_2
+chambersd	3	0	2	Wave_3
+chambersd	4	0	2	Wave_4
+chamberse	1	0	2	Ingenuity_Mobs
+chamberse	2	0	2	MPG Adaptation
+chambersf	1	0	2	Destruction_Mobs
+chambersf	2	0	2	MPG Corruption Event
+commons	1	1	2	CommonsNightMobs
+commons	2	0	2	CommonsDayMobs
+corathus	1	0	2	CorStartEvent
+corathus	2	1	2	CorCourtyard
+corathus	3	1	2	CorSporeAreaTrash
+corathus	4	1	2	CorMinotaurAreaTrash
+corathus	5	1	2	CorClockworkAreaTrash
+corathus	6	0	2	CorSporeAreaTrashBossDead
+corathus	7	0	2	CorMinotaurAreaTrashBossDead
+corathus	8	0	2	CorClockworkAreaTrashBossDead
+corathus	9	1	2	CorSporeBoss
+corathus	10	1	2	CorMinotaurBoss
+corathus	11	1	2	CorClockworkSpiderBoss
+corathus	12	1	2	CorEventPhase3
+dawnshroud	1	0	2	Sambata
+dawnshroud	2	1	2	Rockhopper
+eastwastes	1	0	2	Night (Unused)
+everfrost	1	1	2	EverfrostNight
+everfrost	2	0	2	EverfrostDay
+fearplane	1	1	2	Cazic_Spawned
+greatdivide	1	1	2	ColdainWar
+greatdivide	2	0	2	RingWarWave1
+greatdivide	3	0	2	RingWarWave2
+greatdivide	4	0	2	RingWarWave3
+greatdivide	5	0	2	RingWarWave4
+greatdivide	6	0	2	RingWarWave5
+greatdivide	7	0	2	RingWarWave6
+greatdivide	8	0	2	RingWarWave7
+greatdivide	9	0	2	RingWarWave8
+greatdivide	10	0	2	RingWarWave9
+greatdivide	11	0	2	RingWarWave10
+greatdivide	12	0	2	RingWarWave11
+greatdivide	13	0	2	RingWarWave12
+greatdivide	14	0	2	RingWarWave13
+greatdivide	15	0	2	RingWarWave14
+greatdivide	16	0	2	RingWarWave15
+greatdivide	17	0	2	RingWarWave16
+greatdivide	18	0	2	RingWarWave17
+greatdivide	19	0	2	RingWarWave18
+greatdivide	20	0	2	RingWarWave19
+greatdivide	21	0	2	RingWarWave20
+greatdivide	22	0	2	RingWarWave21
+grimling	1	1	2	Grimling
+grimling	2	0	2	Warwon
+guildlobby	1	1	0	Time Keeper
+hollowshade	1	1	2	North_Owl
+hollowshade	2	1	2	North_Wolf
+hollowshade	3	1	2	North_Grimling
+hollowshade	4	1	2	East_Owl
+hollowshade	5	1	2	East_Wolf
+hollowshade	6	1	2	East_Grimling
+hollowshade	7	1	2	South_Owl
+hollowshade	8	1	2	South_Wolf
+hollowshade	9	1	2	South_Grimling
+hollowshade	10	1	2	
+hollowshade	11	1	2	Camp Owl
+hollowshade	12	1	2	Camp Wolf
+hollowshade	13	1	2	Camp Grimling
+inktuta	1	0	2	Usher_Watcher
+kithicor	1	1	2	KithicorNight
+kithicor	2	0	2	KithicorDay
+lakerathe	1	0	2	RatheNightMobs
+lakerathe	2	1	2	RatheDayMobs
+lfaydark	1	0	2	lfaydarkNightMobs
+mischiefplane	1	0	2	Mischief 1.0
+mischiefplane	2	1	2	Mischief 2.0
+natimbi	1	0	3	CBQ
+northkarana	1	1	2	NKaranaNightMobs
+northkarana	2	0	2	NKaranaDayMobs
+oggok	1	1	2	Gronk
+oggok	2	0	2	Ryn 
+overthere	1	1	2	OverthereNight
+overthere	2	0	2	OverthereDay
+poeartha	1	0	2	poe_dust_event
+poeartha	2	0	2	poe_ stone_event
+poearthb	1	1	2	rathecouncil
+pofire	1	0	2	pofire_Fennin
+pofire	2	1	2	pofire_Fennin
+pofire	3	0	2	pofire_Guardian
+poinnovation	1	0	2	poiend
+poinnovation	2	0	2	poinendloot
+potimeb	1	0	2	potimeb_phase5
+potimeb	2	0	2	potimeb_p3wave1
+potimeb	3	0	2	potimeb_p3wave2
+potimeb	4	0	2	potimeb_p3wave3
+potimeb	5	0	2	potimeb_p3wave4
+potimeb	6	0	2	potimeb_p3wave5
+potimeb	7	0	2	potimeb_p3wave6
+potimeb	8	0	2	potimeb_p3wave7
+potimeb	9	0	2	potimeb_p3wave8
+potimeb	10	0	2	potimeb_phase2
+qey2hh1	1	1	2	WKaranaNightMobs
+qey2hh1	2	0	2	WKaranaDayMobs
+qeynos	1	1	2	QeynosNight
+qeynos	2	0	2	QeynosDay
+qeynos2	1	1	2	NorthQeynosNight
+qeynos2	2	0	2	NorthQeynosDay
+qeytoqrg	1	1	2	QeynosHillNight
+qeytoqrg	2	0	2	QeynosHillDay
+rathemtn	1	0	2	Zephyl
+rathemtn	2	1	2	Hasten
+riwwi	1	0	2	stonemites
+riwwi	2	0	2	nightwatchman
+sleeper	1	1	2	Warders
+sleeper	2	0	2	Ancients
+sncrematory	1	0	2	named_trigger
+snlair	1	0	2	named_trigger
+snlair	2	1	1	event
+snlair	3	0	2	flagging
+snplant	1	0	2	
+snplant	2	0	2	
+snpool	1	0	2	
+southkarana	1	1	2	SKWerewolfNight
+southkarana	2	0	2	SKSentryDay
+southkarana	3	1	2	druid_enable
+southkarana	4	0	2	druid_disable
+templeveeshan	1	0	3	Vulak
+thurgadinb	1	1	2	ThurgbNight
+thurgadinb	2	0	2	ThurgbDay
+txevu	1	0	2	Vrex_Invoker
+txevu	2	0	2	Decaying_Corpse
+txevu	3	0	2	Cragbeast_Bearers
+txevu	4	0	2	Ikaav_Nysf
+txevu	5	0	2	ZMTZ
+veeshan	1	0	2	VeeshanOld
+veeshan	2	1	2	VeeshanNew
+vxed	1	1	2	Instance_Trigger
+yxtta	1	0	3	Cardiwi

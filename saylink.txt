@@ -1,0 +1,4750 @@
+10	deliver to freeport
+11	what mail
+12	I am interested
+13	Butcherblock
+14	Commonlands
+15	Everfrost
+16	Nedaria's Landing
+17	South Ro
+18	North Ro
+19	Natimbi
+20	Abysmal Sea
+21	Nedaria
+22	bodies
+23	ready
+24	what information
+25	plea your case
+26	plant
+27	crematory
+28	pools
+29	lair
+30	illness
+31	wish to travel
+32	Tipt
+33	Vxed
+34	more
+35	ready to test
+36	background information
+37	trials
+38	grandeur
+39	some being
+40	prayed for the destruction
+41	mysteries
+42	come in
+43	specific order
+44	Singular Might
+45	Twin Struggles
+46	Tri-Fates
+47	Muramites
+48	portal to the Plane of Disease
+49	ward
+50	lore
+51	information
+52	I will give you a hand
+53	help
+54	emblem
+55	sewers
+56	crazy
+57	join him
+58	sneak around
+59	what was needed
+60	progress update
+61	instance
+62	rat steaks
+63	follow the path of the Fallen
+64	events
+65	move the portal
+66	fulfill the call of destiny
+67	efreeti
+68	poverty and ruin
+69	other tasks
+70	task
+71	test the machine
+72	challenge Bertoxxulous
+73	condition
+74	continent
+75	jeweled dagger
+76	Phanti
+77	what's in store
+78	test my mettle
+79	priests
+80	recover the artifacts
+81	ready to enter the temple
+82	four temples
+83	Plane of Air
+84	deal with
+85	work
+86	interesting ore
+87	like to hear
+88	tension
+89	assist me
+90	bury a corpse
+91	destroy a corpse
+92	Plane of Tranquility
+93	tortured by nightmares
+94	final test
+95	three beasts
+96	prove myself
+97	recover the relics
+98	ready to begin
+99	Martyrs Passage
+100	Pit of the Lost
+101	Crumbled Sanctuary
+102	ancient relics
+103	investigate
+104	understand
+105	deliver
+106	discover their plans
+107	Sanctuary of the Righteous
+108	Sanctuary of the Glorified
+109	Sanctuary of the Transcendent
+110	mystery
+111	inferior plane
+112	Mangler
+113	undo attention
+114	Diabolic Destroyer
+115	eradicate the beast
+116	ready to proceed
+117	me
+118	help you
+119	suspicions
+120	done
+121	key
+122	agree to help
+123	tied to the mast
+124	Diaku
+125	Drunder
+126	assist
+127	trades
+128	second book
+129	gotten stronger
+130	stop the ritual
+131	news
+132	upsetting reports
+133	stopped
+134	discovered
+135	interested in helping the Wayfarers Brotherhood
+136	powerful
+137	see Phara Dar
+138	loyal servant
+139	serious mission
+140	black cube
+141	Plane of Torment
+142	I will go
+143	dilemma
+144	continue
+145	portal's destination
+146	Solusek Ro
+147	story
+148	through your eyes
+149	learn
+150	dangers
+151	further instruction
+152	investigation
+153	city
+154	Qinimi
+155	Riwwi
+156	Barindu
+157	Ferubi
+158	slaves
+159	items
+160	she
+161	promise
+162	I will assist you
+163	friend
+164	trouble
+165	document
+166	Plane of Innovation
+167	new parts
+168	badly wounded
+169	supplies
+170	necklaces
+171	bracelets
+172	dye
+173	bring
+174	advanced tinkering
+175	construction
+176	instinct for survival
+177	batteries
+178	tasks
+179	mushrooms
+180	venom sacs
+181	diseased spiders
+182	interested
+183	try
+184	it
+185	duties
+186	favor
+187	who Kelekdrix
+188	consequences
+189	want to die
+190	Shakey
+191	leave
+192	set you free
+193	look for clues
+194	made of flesh
+195	strands of hair
+196	ritual
+197	more clues
+198	wish to live again
+199	collecting materials
+200	Altar of Destruction
+201	Icon of the Altar
+202	plan
+203	final step
+204	Yxtta
+205	frightful temple
+206	get
+207	special
+208	grab
+209	Inte Akera
+210	expedition
+211	leave 735
+212	leave 745
+213	leave 756
+214	leave 760
+215	leave 764
+216	leave 776
+217	leave 777
+218	leave 789
+219	leave 794
+220	leave 787
+221	leave 797
+222	leave 802
+223	leave 810
+224	leave 811
+225	leave 825
+226	leave 817
+227	leave 861
+228	leave 865
+229	leave 869
+230	leave 924
+231	leave 965
+232	thunder
+233	leave 1018
+234	leave 1010
+235	leave 1035
+236	leave 1036
+237	leave 1037
+238	leave 1038
+239	leave 1042
+240	leave 1043
+241	leave 1047
+242	leave 1048
+243	leave 1049
+244	leave 1051
+245	leave 1080
+246	leave 1124
+247	leave 1128
+248	leave 1129
+249	leave 1133
+250	leave 1134
+251	leave 1135
+252	leave 1136
+253	leave 1138
+254	leave 1146
+255	leave 1140
+256	leave 1150
+257	leave 1148
+258	leave 1212
+259	leave 1217
+260	leave 1218
+261	leave 1221
+262	leave 1220
+263	leave 1225
+264	leave 1224
+265	leave 1249
+266	leave 1251
+267	leave 1254
+268	leave 1255
+269	leave 1256
+270	leave 1261
+271	leave 1262
+272	leave 1263
+273	leave 1265
+274	leave 1266
+275	leave 1267
+276	leave 1297
+277	leave 1299
+278	leave 1302
+279	leave 1303
+280	leave 1304
+281	leave 1307
+282	leave 1308
+283	leave 1309
+284	leave 1310
+285	leave 1311
+286	leave 1312
+287	leave 1315
+288	leave 1316
+289	leave 1317
+290	leave 1319
+291	leave 1320
+292	leave 1321
+293	leave 1323
+294	leave 1324
+295	leave 1325
+296	matter
+297	drawback
+298	item
+299	leave 1328
+300	leave 1329
+301	leave 1330
+302	leave 1366
+303	leave 1367
+304	leave 1372
+305	leave 1373
+306	leave 1374
+307	leave 1375
+308	leave 1376
+309	leave 1378
+310	leave 1382
+311	leave 1384
+312	Karana
+313	trail to Karana's wisdom
+314	crops
+315	leave 1436
+316	leave 1456
+317	leave 1461
+318	leave 1463
+319	leave 1484
+320	leave 1486
+321	when you are done
+322	purpose
+323	knowledge
+324	balance
+325	path
+326	leave 1549
+327	leave 1552
+328	willing to look
+329	collect the artifacts
+330	stop it
+331	leave 1575
+332	leave 1576
+333	leave 1577
+334	leave 1586
+335	leave 1587
+336	leave 1600
+337	leave 1653
+338	leave 1658
+339	leave 1679
+340	leave 1685
+341	leave 1691
+342	leave 1695
+343	leave 1697
+344	leave 1696
+345	leave 1701
+346	leave 1698
+347	leave 1708
+348	leave 1727
+349	leave 1759
+350	leave 1810
+351	leave 1813
+352	leave 1850
+353	leave 1843
+354	leave 1858
+355	leave 1856
+356	leave 1857
+357	leave 1882
+358	leave 1889
+359	leave 1892
+360	leave 1894
+361	leave 1895
+362	leave 1896
+363	leave 1897
+364	leave 1899
+365	leave 1903
+366	leave 1917
+367	leave 1929
+368	leave 1933
+369	wish
+370	know more
+371	tome
+372	shards
+373	parchment
+374	leave 1934
+375	leave 1936
+376	leave 1947
+377	leave 1950
+378	leave 1951
+379	leave 1952
+380	leave 1954
+381	leave 1959
+382	leave 1961
+383	leave 1963
+384	leave 1986
+385	leave 1988
+386	leave 1989
+387	leave 1990
+388	leave 1987
+389	leave 2001
+390	leave 2007
+391	leave 2012
+392	leave 2042
+393	leave 2041
+394	leave 2044
+395	leave 2065
+396	leave 2082
+397	leave 2085
+398	leave 2089
+399	leave 2146
+400	leave 2397
+401	new to the world
+402	bravefoot helm
+403	bravefoot mail bracer
+404	bravefoot gauntlets
+405	bravefoot mail boots
+406	bravefoot vambraces
+407	bravefoot greaves
+408	bravefoot breastplate
+409	forge
+410	leave 2743
+411	Deputy Tagil
+412	quests
+413	leave 2923
+414	leave 3431
+415	boon
+416	like to read
+417	leave 5080
+418	leave 5090
+419	leave 5088
+420	leave 5123
+421	leave 5128
+422	leave 5133
+423	leave 5248
+424	leave 5270
+425	leave 5274
+426	leave 5275
+427	leave 5276
+428	leave 5277
+429	leave 5280
+430	leave 5281
+431	leave 5283
+432	leave 5285
+433	leave 5286
+434	leave 5287
+435	leave 5289
+436	leave 5329
+437	leave 5396
+438	leave 5429
+439	leave 5436
+440	leave 5445
+441	leave 5510
+442	leave 5565
+443	leave 5572
+444	leave 5574
+445	leave 5575
+446	leave 5583
+447	leave 5587
+448	leave 5590
+449	leave 5633
+450	leave 5641
+451	leave 5683
+452	leave 5696
+453	leave 5699
+454	leave 5702
+455	leave 5717
+456	leave 5734
+457	leave 5736
+458	leave 5738
+459	leave 5739
+460	leave 5763
+461	leave 5768
+462	leave 5775
+463	leave 5783
+464	leave 5787
+465	leave 5816
+466	leave 5830
+467	leave 5879
+468	leave 5883
+469	leave 5889
+470	leave 5892
+471	leave 5900
+472	leave 5909
+473	leave 5910
+474	leave 5915
+475	leave 5919
+476	leave 5922
+477	leave 5920
+478	leave 5924
+479	leave 5927
+480	leave 5943
+481	leave 5993
+482	leave 5999
+483	leave 5994
+484	leave 6004
+485	leave 6062
+486	leave 6067
+487	leave 6069
+488	leave 6070
+489	leave 6073
+490	leave 6076
+491	leave 6077
+492	leave 6079
+493	leave 6158
+494	leave 6161
+495	leave 6184
+496	leave 6236
+497	leave 6268
+498	leave 6270
+499	leave 6281
+500	leave 6282
+501	leave 6307
+502	leave 6315
+503	leave 6318
+504	leave 6320
+505	leave 6338
+506	leave 6347
+507	leave 6370
+508	leave 6383
+509	leave 6408
+510	leave 6420
+511	leave 6431
+512	leave 6433
+513	leave 6435
+514	leave 6430
+515	leave 6452
+516	sum wolf meat
+517	leave 6493
+518	leave 6533
+519	leave 6534
+520	leave 6558
+521	leave 6577
+522	leave 6572
+523	leave 6574
+524	leave 6573
+525	leave 6571
+526	leave 6596
+527	leave 6595
+528	leave 6597
+529	leave 6607
+530	leave 6608
+531	leave 6606
+532	leave 6612
+533	leave 6621
+534	leave 6643
+535	leave 6648
+536	leave 6692
+537	leave 6697
+538	leave 6699
+539	leave 6701
+540	leave 6710
+541	leave 6712
+542	leave 6711
+543	leave 6788
+544	leave 6795
+545	leave 6810
+546	leave 6813
+547	leave 6814
+548	leave 6815
+549	leave 6816
+550	leave 6818
+551	leave 6851
+552	leave 6855
+553	leave 6856
+554	leave 6854
+555	leave 6860
+556	leave 6861
+557	leave 6864
+558	leave 6880
+559	leave 6890
+560	leave 6919
+561	leave 6926
+562	leave 6927
+563	leave 6928
+564	leave 6937
+565	leave 6988
+566	leave 6990
+567	leave 6991
+568	leave 6993
+569	leave 6999
+570	leave 7000
+571	leave 7001
+572	leave 7002
+573	leave 7003
+574	leave 7006
+575	leave 7031
+576	leave 7039
+577	leave 7040
+578	leave 7042
+579	leave 7044
+580	leave 7118
+581	leave 7139
+582	leave 7159
+583	leave 7234
+584	leave 7235
+585	leave 7275
+586	leave 7277
+587	leave 7285
+588	leave 7287
+589	leave 7284
+590	leave 7345
+591	leave 7346
+592	leave 7347
+593	leave 7349
+594	leave 7353
+595	leave 7359
+596	leave 7391
+597	leave 7420
+598	leave 7421
+599	leave 7424
+600	leave 7425
+601	leave 7427
+602	leave 7429
+603	leave 7431
+604	leave 7432
+605	leave 7442
+606	leave 7538
+607	leave 7541
+608	leave 7545
+609	leave 7548
+610	leave 7553
+611	leave 7555
+612	leave 7558
+613	leave 7560
+614	leave 7562
+615	leave 7564
+616	leave 7607
+617	leave 7618
+618	leave 7625
+619	leave 7660
+620	leave 7666
+621	leave 7687
+622	leave 7688
+623	leave 7693
+624	leave 7703
+625	leave 7710
+626	leave 7712
+627	leave 7715
+628	leave 7714
+629	leave 7747
+630	leave 7754
+631	leave 7756
+632	leave 7827
+633	leave 7899
+634	leave 7900
+635	leave 7901
+636	leave 7903
+637	leave 7904
+638	leave 7905
+639	leave 7906
+640	leave 7930
+641	leave 7934
+642	leave 7936
+643	leave 7937
+644	leave 7924
+645	leave 7923
+646	leave 7939
+647	leave 7940
+648	leave 7945
+649	leave 7946
+650	leave 7949
+651	leave 7953
+652	leave 7955
+653	open the way
+654	Tkarish
+655	constructs
+656	Signet of Command
+657	leave 8000
+658	leave 8004
+659	leave 8001
+660	leave 8026
+661	leave 8031
+662	leave 8045
+663	leave 8051
+664	leave 8096
+665	leave 8104
+666	leave 8106
+667	leave 8116
+668	leave 8117
+669	leave 8139
+670	leave 8141
+671	leave 8149
+672	leave 8168
+673	leave 8172
+674	leave 8181
+675	leave 8182
+676	leave 8185
+677	leave 8197
+678	leave 8204
+679	leave 8210
+680	leave 8214
+681	leave 8235
+682	leave 8241
+683	leave 8242
+684	leave 8246
+685	leave 8272
+686	leave 8285
+687	leave 8287
+688	leave 8306
+689	leave 8308
+690	leave 8332
+691	leave 8334
+692	leave 8378
+693	leave 8391
+694	leave 8392
+695	leave 8396
+696	leave 8397
+697	leave 8399
+698	leave 8403
+699	leave 8404
+700	leave 8470
+701	leave 8521
+702	leave 8525
+703	leave 8551
+704	leave 8550
+705	leave 8552
+706	leave 8567
+707	leave 8589
+708	leave 8593
+709	leave 8595
+710	leave 8600
+711	leave 8606
+712	leave 8609
+713	leave 8695
+714	leave 8763
+715	leave 8767
+716	leave 8813
+717	leave 8816
+718	leave 8826
+719	leave 8828
+720	leave 8834
+721	leave 8887
+722	leave 8894
+723	leave 8911
+724	leave 8914
+725	leave 8916
+726	leave 8921
+727	leave 8923
+728	leave 8922
+729	leave 8924
+730	leave 8928
+731	leave 8929
+732	leave 8933
+733	leave 9090
+734	leave 9098
+735	leave 9164
+736	leave 9169
+737	leave 9171
+738	leave 9183
+739	leave 9192
+740	leave 9196
+741	leave 9229
+742	leave 9259
+743	time
+744	leave 9456
+745	leave 9461
+746	leave 9464
+747	leave 9474
+748	leave 9478
+749	leave 9503
+750	leave 9490
+751	leave 9536
+752	leave 9539
+753	leave 9540
+754	leave 9626
+755	leave 9637
+756	leave 9660
+757	leave 9663
+758	leave 9665
+759	leave 9667
+760	leave 9670
+761	leave 9679
+762	leave 9689
+763	leave 9695
+764	leave 9699
+765	leave 9885
+766	leave 9930
+767	leave 9933
+768	leave 10024
+769	leave 10029
+770	leave 10037
+771	leave 10049
+772	leave 10052
+773	leave 10101
+774	leave 10251
+775	leave 10260
+776	things
+777	leave 10428
+778	leave 10492
+779	leave 10569
+780	leave 10573
+781	prepared
+782	begin the trial of hanging
+783	leave 10677
+784	leave 10724
+785	leave 10727
+786	leave 10748
+787	leave 10754
+788	leave 10755
+789	leave 10756
+790	leave 10789
+791	leave 10797
+792	leave 10798
+793	leave 10799
+794	leave 10809
+795	leave 10820
+796	leave 10834
+797	leave 10842
+798	leave 10837
+799	leave 10844
+800	leave 10846
+801	leave 10848
+802	leave 10847
+803	leave 10849
+804	leave 10850
+805	leave 10845
+806	leave 10852
+807	leave 10853
+808	leave 10854
+809	leave 10851
+810	leave 10856
+811	leave 10857
+812	leave 10858
+813	leave 10859
+814	leave 10855
+815	ready to begin the trial of torture
+816	Lockouts
+817	leave 10875
+818	leave 10876
+819	leave 10877
+820	leave 10879
+821	leave 10883
+822	leave 10884
+823	leave 10885
+824	leave 10956
+825	leave 10957
+826	leave 10958
+827	leave 10959
+828	leave 10960
+829	leave 10961
+830	leave 10996
+831	leave 10998
+832	leave 10999
+833	leave 11087
+834	leave 11089
+835	leave 11091
+836	leave 11118
+837	ready to begin the trial of lashing
+838	ready to begin the trial of stoning
+839	leave 11119
+840	leave 11132
+841	leave 11134
+842	leave 11135
+843	leave 11136
+844	leave 11137
+845	leave 11138
+846	leave 11140
+847	leave 11141
+848	leave 11142
+849	leave 11157
+850	leave 11161
+851	leave 11162
+852	leave 11163
+853	leave 11170
+854	leave 11171
+855	leave 11172
+856	leave 11219
+857	leave 11278
+858	mail
+859	leave 11315
+860	leave 11316
+861	leave 11323
+862	leave 11331
+863	leave 11332
+864	leave 11349
+865	leave 11365
+866	leave 11366
+867	leave 11369
+868	leave 11371
+869	leave 11375
+870	leave 11384
+871	leave 11386
+872	leave 11390
+873	leave 11391
+874	leave 11406
+875	leave 11464
+876	leave 11465
+877	leave 11467
+878	leave 11468
+879	leave 11470
+880	leave 11472
+881	leave 11473
+882	leave 11474
+883	leave 11476
+884	leave 11478
+885	leave 11479
+886	leave 11481
+887	leave 11510
+888	leave 11514
+889	leave 11552
+890	leave 11553
+891	leave 11554
+892	leave 11556
+893	leave 11559
+894	leave 11598
+895	leave 11601
+896	leave 11609
+897	leave 11612
+898	leave 11643
+899	leave 11649
+900	leave 11676
+901	leave 11679
+902	leave 11693
+903	leave 11718
+904	leave 11722
+905	leave 11755
+906	leave 11762
+907	leave 11763
+908	leave 11767
+909	leave 11858
+910	leave 11860
+911	leave 11913
+912	leave 11917
+913	leave 11932
+914	leave 11934
+915	leave 11954
+916	leave 11955
+917	leave 11970
+918	leave 12008
+919	leave 12022
+920	leave 12023
+921	leave 12024
+922	leave 12030
+923	leave 12031
+924	leave 12029
+925	leave 12032
+926	leave 12045
+927	leave 12046
+928	leave 12049
+929	leave 12051
+930	leave 12050
+931	leave 12053
+932	leave 12058
+933	leave 12061
+934	leave 12067
+935	leave 12069
+936	leave 12082
+937	leave 12094
+938	leave 12095
+939	leave 12096
+940	leave 12174
+941	leave 12238
+942	leave 12303
+943	leave 12349
+944	leave 12350
+945	leave 12394
+946	leave 12403
+947	leave 12404
+948	leave 12406
+949	leave 12407
+950	dervish cutthroats
+951	leave 12497
+952	leave 12531
+953	leave 12536
+954	leave 12537
+955	leave 12538
+956	leave 12539
+957	leave 12540
+958	leave 12541
+959	leave 12542
+960	leave 12544
+961	leave 12543
+962	leave 12550
+963	leave 12551
+964	leave 12556
+965	leave 12557
+966	leave 12558
+967	leave 12553
+968	leave 12559
+969	leave 12561
+970	leave 12562
+971	leave 12563
+972	leave 12573
+973	leave 12574
+974	leave 12575
+975	leave 12576
+976	leave 12582
+977	leave 12590
+978	leave 12591
+979	leave 12592
+980	leave 12595
+981	leave 12596
+982	blessed
+983	review
+984	leave 12629
+985	bind
+986	jumjum juice
+987	leave 12632
+988	leave 12640
+989	leave 12642
+990	leave 12644
+991	leave 12645
+992	leave 12647
+993	join the crusade
+994	traveling
+995	business
+996	offer
+997	leave 12891
+998	leave 12903
+999	leave 12905
+1000	leave 12909
+1001	leave 12926
+1002	leave 12929
+1003	leave 12930
+1004	dare
+1005	leave 12952
+1006	leave 12992
+1007	leave 13146
+1008	leave 13152
+1009	leave 13184
+1010	leave 13186
+1011	leave 13187
+1012	leave 13188
+1013	leave 13190
+1014	leave 13193
+1015	leave 13195
+1016	leave 13197
+1017	leave 13200
+1018	leave 13203
+1019	leave 13205
+1020	leave 13278
+1021	leave 13279
+1022	leave 13280
+1023	leave 13291
+1024	leave 13293
+1025	leave 13325
+1026	leave 13329
+1027	make honey jum
+1028	leave 13330
+1029	leave 13341
+1030	leave 13351
+1031	leave 13353
+1032	leave 13354
+1033	leave 13355
+1034	leave 13404
+1035	leave 13403
+1036	leave 13412
+1037	leave 13418
+1038	leave 13440
+1039	leave 13441
+1040	leave 13432
+1041	leave 13449
+1042	leave 13451
+1043	leave 13453
+1044	leave 13454
+1045	leave 13468
+1046	leave 13462
+1047	1st - 10th
+1048	11th - 20th
+1049	21st - last day of the month
+1050	leave 13535
+1051	leave 13536
+1052	leave 13540
+1053	devoted to Innoruuk
+1054	leave 13581
+1055	leave 13588
+1056	leave 13594
+1057	leave 13596
+1058	leave 13610
+1059	leave 13613
+1060	leave 13657
+1061	leave 13702
+1062	leave 13709
+1063	leave 13717
+1064	leave 13718
+1065	leave 13720
+1066	leave 13723
+1067	leave 13724
+1068	leave 13725
+1069	leave 13727
+1070	leave 13730
+1071	leave 13734
+1072	leave 13753
+1073	leave 13763
+1074	leave 13774
+1075	leave 13775
+1076	leave 13778
+1077	leave 13782
+1078	leave 13823
+1079	leave 13845
+1080	leave 13880
+1081	leave 13882
+1082	leave 13883
+1083	leave 13894
+1084	leave 13915
+1085	leave 13938
+1086	leave 13944
+1087	leave 13945
+1088	leave 13947
+1089	leave 13950
+1090	leave 13951
+1091	leave 13955
+1092	leave 13959
+1093	leave 13976
+1094	leave 13979
+1095	leave 14005
+1096	leave 14011
+1097	leave 14013
+1098	leave 14112
+1099	leave 14141
+1100	leave 14143
+1101	leave 14224
+1102	leave 14225
+1103	leave 14228
+1104	leave 14232
+1105	leave 14226
+1106	leave 14234
+1107	leave 14236
+1108	leave 14230
+1109	leave 14235
+1110	leave 14237
+1111	leave 14242
+1112	leave 14262
+1113	leave 14269
+1114	leave 14266
+1115	leave 14277
+1116	leave 14278
+1117	leave 14279
+1118	leave 14293
+1119	leave 14304
+1120	leave 14306
+1121	leave 14307
+1122	leave 14308
+1123	leave 14310
+1124	leave 14312
+1125	leave 14313
+1126	leave 14314
+1127	leave 14316
+1128	leave 14320
+1129	leave 14321
+1130	leave 14324
+1131	leave 14328
+1132	leave 14331
+1133	leave 14336
+1134	leave 14330
+1135	leave 14341
+1136	leave 14342
+1137	leave 14343
+1138	leave 14344
+1139	leave 14345
+1140	leave 14348
+1141	leave 14349
+1142	leave 14339
+1143	leave 14357
+1144	leave 14518
+1145	leave 14550
+1146	leave 14554
+1147	leave 14668
+1148	leave 14690
+1149	leave 14691
+1150	leave 14693
+1151	leave 14713
+1152	leave 14718
+1153	leave 14723
+1154	leave 14748
+1155	leave 14750
+1156	leave 14749
+1157	leave 14751
+1158	leave 14755
+1159	leave 14757
+1160	leave 14756
+1161	leave 14760
+1162	leave 14762
+1163	leave 14792
+1164	leave 14837
+1165	leave 14838
+1166	leave 14839
+1167	leave 14841
+1168	leave 14855
+1169	leave 14871
+1170	leave 14874
+1171	leave 14876
+1172	leave 14895
+1173	leave 14925
+1174	leave 14942
+1175	leave 14945
+1176	leave 14962
+1177	leave 15000
+1178	leave 15002
+1179	leave 15005
+1180	leave 15011
+1181	leave 15020
+1182	leave 15037
+1183	leave 15133
+1184	leave 15134
+1185	leave 15174
+1186	leave 15178
+1187	leave 15179
+1188	leave 15183
+1189	leave 15234
+1190	leave 15236
+1191	leave 15254
+1192	leave 15256
+1193	leave 15268
+1194	leave 15275
+1195	leave 15278
+1196	leave 15280
+1197	leave 15281
+1198	leave 15282
+1199	Freeport
+1200	leave 15316
+1201	leave 15307
+1202	leave 15333
+1203	leave 15361
+1204	leave 15381
+1205	leave 15383
+1206	leave 15386
+1207	leave 15392
+1208	leave 15393
+1209	leave 15387
+1210	leave 15418
+1211	leave 15420
+1212	leave 15421
+1213	leave 15422
+1214	leave 15423
+1215	leave 15804
+1216	leave 15809
+1217	leave 15845
+1218	leave 15853
+1219	leave 15858
+1220	leave 15862
+1221	leave 15863
+1222	leave 15865
+1223	leave 15867
+1224	leave 15902
+1225	leave 15905
+1226	leave 16052
+1227	leave 16054
+1228	leave 16104
+1229	leave 16120
+1230	leave 16140
+1231	leave 16141
+1232	leave 16174
+1233	leave 16197
+1234	leave 16206
+1235	leave 16230
+1236	leave 16233
+1237	leave 16234
+1238	leave 16238
+1239	leave 16246
+1240	leave 16254
+1241	leave 16288
+1242	leave 16333
+1243	leave 16334
+1244	leave 16337
+1245	leave 16338
+1246	leave 16339
+1247	leave 16343
+1248	leave 16346
+1249	leave 16348
+1250	leave 16351
+1251	leave 16424
+1252	leave 16427
+1253	leave 16430
+1254	leave 16439
+1255	leave 16474
+1256	leave 16485
+1257	leave 16516
+1258	leave 16522
+1259	leave 16526
+1260	leave 16528
+1261	leave 16531
+1262	leave 16541
+1263	leave 16549
+1264	leave 16564
+1265	leave 16565
+1266	leave 16567
+1267	leave 16568
+1268	leave 16655
+1269	leave 16659
+1270	leave 16661
+1271	leave 16688
+1272	leave 16689
+1273	leave 16692
+1274	leave 16726
+1275	leave 16729
+1276	leave 16736
+1277	leave 16767
+1278	leave 16806
+1279	leave 16807
+1280	leave 16808
+1281	leave 16809
+1282	leave 16931
+1283	leave 16933
+1284	leave 16926
+1285	leave 17266
+1286	leave 17268
+1287	leave 17267
+1288	leave 17273
+1289	leave 17274
+1290	leave 17275
+1291	leave 17276
+1292	leave 17284
+1293	leave 17315
+1294	leave 17317
+1295	leave 17324
+1296	leave 17326
+1297	leave 17329
+1298	leave 17330
+1299	leave 17331
+1300	leave 17335
+1301	leave 17340
+1302	leave 17342
+1303	leave 17343
+1304	leave 17345
+1305	leave 17347
+1306	leave 17350
+1307	leave 17351
+1308	leave 17354
+1309	leave 17364
+1310	leave 17415
+1311	leave 17426
+1312	leave 17433
+1313	leave 17434
+1314	leave 17432
+1315	leave 17436
+1316	leave 17440
+1317	leave 17443
+1318	leave 17445
+1319	leave 17446
+1320	leave 17449
+1321	leave 17450
+1322	leave 17451
+1323	leave 17463
+1324	leave 17465
+1325	leave 17466
+1326	leave 17468
+1327	leave 17469
+1328	leave 17471
+1329	leave 17473
+1330	leave 17474
+1331	leave 17477
+1332	leave 17478
+1333	leave 17479
+1334	leave 17492
+1335	leave 17516
+1336	leave 17540
+1337	leave 17573
+1338	leave 17574
+1339	leave 17576
+1340	leave 17577
+1341	leave 17596
+1342	leave 17655
+1343	leave 17669
+1344	leave 17676
+1345	leave 17680
+1346	leave 17681
+1347	leave 17682
+1348	leave 17689
+1349	leave 17693
+1350	leave 17725
+1351	leave 17733
+1352	leave 17835
+1353	leave 17838
+1354	leave 17842
+1355	leave 17843
+1356	leave 17844
+1357	leave 17845
+1358	leave 17848
+1359	leave 17850
+1360	leave 17851
+1361	leave 17891
+1362	leave 17893
+1363	leave 17913
+1364	leave 17928
+1365	leave 17920
+1366	leave 17927
+1367	leave 17936
+1368	leave 17942
+1369	leave 17944
+1370	leave 17951
+1371	leave 17952
+1372	leave 17954
+1373	leave 17955
+1374	leave 17957
+1375	leave 17961
+1376	leave 17962
+1377	leave 17963
+1378	leave 17964
+1379	leave 17965
+1380	leave 17968
+1381	leave 17971
+1382	leave 17972
+1383	leave 17985
+1384	leave 18007
+1385	leave 18008
+1386	leave 18009
+1387	leave 18010
+1388	leave 18013
+1389	leave 18014
+1390	leave 18015
+1391	leave 18016
+1392	leave 18017
+1393	leave 18018
+1394	leave 18027
+1395	leave 18040
+1396	leave 18039
+1397	leave 18042
+1398	leave 18056
+1399	leave 18060
+1400	leave 18062
+1401	leave 18063
+1402	leave 18064
+1403	leave 18098
+1404	leave 18100
+1405	leave 18104
+1406	leave 18112
+1407	leave 18114
+1408	leave 18118
+1409	leave 18125
+1410	leave 18130
+1411	leave 18129
+1412	leave 18131
+1413	leave 18146
+1414	leave 18151
+1415	leave 18152
+1416	leave 18153
+1417	leave 18156
+1418	leave 18159
+1419	leave 18203
+1420	leave 18205
+1421	leave 18206
+1422	leave 18209
+1423	leave 18227
+1424	leave 18228
+1425	leave 18229
+1426	leave 18235
+1427	leave 18237
+1428	leave 18236
+1429	leave 18239
+1430	leave 18240
+1431	leave 18244
+1432	leave 18259
+1433	leave 18260
+1434	leave 18273
+1435	leave 18324
+1436	leave 18337
+1437	leave 18335
+1438	leave 18336
+1439	leave 18339
+1440	leave 18342
+1441	leave 18346
+1442	leave 18345
+1443	leave 18348
+1444	leave 18347
+1445	leave 18350
+1446	leave 18372
+1447	leave 18373
+1448	leave 18416
+1449	leave 18421
+1450	leave 18425
+1451	leave 18423
+1452	leave 18426
+1453	leave 18436
+1454	leave 18454
+1455	leave 18455
+1456	leave 18470
+1457	leave 18474
+1458	leave 18475
+1459	leave 18476
+1460	leave 18480
+1461	leave 18485
+1462	leave 18499
+1463	leave 18498
+1464	leave 18502
+1465	leave 18503
+1466	leave 18507
+1467	leave 18509
+1468	leave 18511
+1469	leave 18519
+1470	leave 18521
+1471	leave 18522
+1472	leave 18524
+1473	leave 18530
+1474	leave 18531
+1475	leave 18525
+1476	leave 18538
+1477	leave 18539
+1478	leave 18540
+1479	leave 18535
+1480	leave 18548
+1481	leave 18550
+1482	leave 18552
+1483	leave 18554
+1484	leave 18569
+1485	leave 18584
+1486	leave 18585
+1487	leave 18587
+1488	leave 18601
+1489	leave 18624
+1490	leave 18634
+1491	leave 18635
+1492	leave 18641
+1493	leave 18661
+1494	leave 18676
+1495	leave 18697
+1496	leave 18802
+1497	leave 18801
+1498	leave 18803
+1499	leave 18821
+1500	leave 18823
+1501	leave 18827
+1502	leave 18832
+1503	leave 18834
+1504	leave 18863
+1505	leave 18898
+1506	leave 18906
+1507	leave 18907
+1508	leave 18929
+1509	leave 18934
+1510	leave 18939
+1511	leave 18940
+1512	leave 18949
+1513	leave 18986
+1514	leave 18990
+1515	leave 18993
+1516	leave 19014
+1517	leave 19017
+1518	leave 19031
+1519	leave 19039
+1520	leave 19048
+1521	leave 19051
+1522	leave 19053
+1523	leave 19054
+1524	leave 19110
+1525	leave 19133
+1526	leave 19135
+1527	leave 19139
+1528	leave 19182
+1529	leave 19184
+1530	leave 19186
+1531	leave 19189
+1532	leave 19191
+1533	leave 19181
+1534	leave 19193
+1535	leave 19199
+1536	leave 19227
+1537	leave 19228
+1538	leave 19229
+1539	leave 19245
+1540	leave 19255
+1541	leave 19256
+1542	leave 19257
+1543	leave 19258
+1544	leave 19259
+1545	leave 19260
+1546	leave 19261
+1547	leave 19300
+1548	leave 19301
+1549	leave 19308
+1550	leave 19307
+1551	leave 19313
+1552	leave 19314
+1553	leave 19317
+1554	leave 19319
+1555	leave 19320
+1556	leave 19316
+1557	leave 19321
+1558	leave 19322
+1559	leave 19324
+1560	leave 19343
+1561	leave 19344
+1562	leave 19346
+1563	leave 19345
+1564	leave 19349
+1565	leave 19350
+1566	leave 19351
+1567	leave 19352
+1568	leave 19347
+1569	leave 19354
+1570	leave 19353
+1571	leave 19356
+1572	leave 19364
+1573	leave 19366
+1574	leave 19367
+1575	leave 19368
+1576	leave 19372
+1577	leave 19373
+1578	leave 19374
+1579	friend of Gardunk
+1580	ready to start
+1581	secretz
+1582	finish
+1583	bile temper
+1584	leave 19400
+1585	leave 19471
+1586	leave 19589
+1587	leave 19590
+1588	leave 19592
+1589	leave 19609
+1590	leave 19611
+1591	leave 19612
+1592	leave 19642
+1593	leave 19645
+1594	leave 19688
+1595	leave 19689
+1596	leave 19690
+1597	leave 19732
+1598	leave 19778
+1599	leave 19779
+1600	leave 19820
+1601	leave 65
+1602	leave 82
+1603	leave 128
+1604	leave 133
+1605	leave 140
+1606	leave 141
+1607	leave 153
+1608	leave 171
+1609	leave 177
+1610	leave 188
+1611	leave 190
+1612	leave 191
+1613	leave 202
+1614	leave 211
+1615	leave 213
+1616	leave 218
+1617	leave 230
+1618	leave 271
+1619	leave 390
+1620	leave 407
+1621	leave 413
+1622	leave 414
+1623	leave 418
+1624	leave 426
+1625	leave 429
+1626	leave 435
+1627	leave 442
+1628	leave 445
+1629	yes
+1630	unless
+1631	leave 492
+1632	leave 498
+1633	leave 527
+1634	leave 551
+1635	leave 550
+1636	leave 558
+1637	leave 565
+1638	leave 582
+1639	leave 583
+1640	leave 585
+1641	leave 587
+1642	leave 588
+1643	leave 589
+1644	leave 590
+1645	leave 598
+1646	leave 599
+1647	leave 600
+1648	leave 603
+1649	leave 608
+1650	leave 648
+1651	leave 652
+1652	leave 654
+1653	leave 655
+1654	leave 656
+1655	leave 665
+1656	leave 673
+1657	leave 678
+1658	leave 679
+1659	leave 681
+1660	leave 683
+1661	leave 703
+1662	leave 719
+1663	leave 721
+1664	leave 725
+1665	leave 727
+1666	leave 730
+1667	leave 731
+1668	leave 732
+1669	leave 733
+1670	leave 738
+1671	leave 734
+1672	leave 741
+1673	leave 743
+1674	leave 744
+1675	leave 751
+1676	leave 752
+1677	leave 753
+1678	leave 769
+1679	leave 770
+1680	leave 771
+1681	leave 772
+1682	leave 773
+1683	leave 774
+1684	leave 799
+1685	leave 806
+1686	leave 807
+1687	leave 829
+1688	leave 830
+1689	leave 831
+1690	leave 832
+1691	leave 834
+1692	leave 844
+1693	leave 845
+1694	leave 862
+1695	leave 863
+1696	leave 864
+1697	leave 876
+1698	leave 879
+1699	leave 882
+1700	leave 886
+1701	leave 888
+1702	leave 889
+1703	leave 892
+1704	leave 891
+1705	leave 896
+1706	leave 897
+1707	leave 899
+1708	leave 914
+1709	leave 925
+1710	leave 926
+1711	send
+1712	leave 1091
+1713	leave 1097
+1714	leave 1120
+1715	leave 1121
+1716	leave 1122
+1717	leave 1123
+1718	leave 1125
+1719	leave 1127
+1720	leave 1145
+1721	leave 1147
+1722	leave 1172
+1723	problem
+1724	find her
+1725	leave 1285
+1726	worst of it
+1727	There's more
+1728	last of it
+1729	leave 1398
+1730	leave 1399
+1731	leave 1400
+1732	leave 1401
+1733	leave 1409
+1734	leave 1420
+1735	leave 1424
+1736	leave 1423
+1737	leave 1425
+1738	leave 1453
+1739	leave 1458
+1740	leave 1450
+1741	leave 1476
+1742	leave 1485
+1743	leave 1487
+1744	leave 1488
+1745	leave 1489
+1746	leave 1502
+1747	leave 1503
+1748	leave 1505
+1749	leave 1507
+1750	leave 1527
+1751	leave 1529
+1752	leave 1530
+1753	leave 1531
+1754	leave 1550
+1755	leave 1555
+1756	leave 1557
+1757	leave 1559
+1758	leave 1565
+1759	leave 1640
+1760	stuffing
+1761	head
+1762	Cazic-Thule
+1763	research
+1764	leave 1726
+1765	leave 1734
+1766	leave 1741
+1767	leave 1743
+1768	leave 1747
+1769	leave 1751
+1770	leave 1757
+1771	leave 1760
+1772	leave 1765
+1773	leave 1770
+1774	leave 1776
+1775	leave 1808
+1776	leave 1815
+1777	leave 1817
+1778	leave 1818
+1779	leave 1863
+1780	leave 1916
+1781	leave 1937
+1782	leave 1943
+1783	leave 1946
+1784	leave 1991
+1785	leave 1994
+1786	leave 2021
+1787	leave 2032
+1788	leave 2097
+1789	leave 2144
+1790	leave 2147
+1791	leave 2155
+1792	leave 2159
+1793	leave 2167
+1794	leave 2233
+1795	leave 2239
+1796	leave 2262
+1797	leave 2269
+1798	leave 2261
+1799	leave 2306
+1800	leave 2304
+1801	leave 2309
+1802	leave 2317
+1803	leave 2319
+1804	leave 2321
+1805	leave 2327
+1806	leave 2377
+1807	shaman Darkone
+1808	leave 2401
+1809	leave 2408
+1810	leave 2424
+1811	leave 2433
+1812	leave 2436
+1813	leave 2444
+1814	fear
+1815	leave 2534
+1816	leave 2550
+1817	leave 2554
+1818	leave 2564
+1819	leave 2652
+1820	leave 2655
+1821	leave 2685
+1822	leave 2688
+1823	leave 2696
+1824	leave 2697
+1825	Ingenuity
+1826	leave 2698
+1827	leave 2702
+1828	leave 2721
+1829	begin
+1830	leave 2750
+1831	Subversion
+1832	small-scale
+1833	Efficiency
+1834	Weaponry
+1835	leave 2758
+1836	leave 2759
+1837	leave 2760
+1838	leave 2761
+1839	leave 2762
+1840	leave 2763
+1841	leave 2764
+1842	leave 2765
+1843	leave 2766
+1844	leave 2767
+1845	leave 2768
+1846	leave 2769
+1847	leave 2817
+1848	leave 2818
+1849	leave 2822
+1850	leave 2852
+1851	leave 2853
+1852	leave 2856
+1853	leave 2886
+1854	leave 2893
+1855	leave 2925
+1856	leave 2936
+1857	skills
+1858	Destruction
+1859	leave 3216
+1860	leave 3281
+1861	leave 3289
+1862	leave 3331
+1863	leave 3332
+1864	leave 3333
+1865	leave 3468
+1866	leave 3470
+1867	leave 3473
+1868	leave 3547
+1869	leave 3728
+1870	leave 3733
+1871	leave 3735
+1872	leave 3736
+1873	leave 3737
+1874	leave 3740
+1875	leave 3741
+1876	leave 3743
+1877	leave 3931
+1878	leave 3948
+1879	leave 4114
+1880	leave 4115
+1881	leave 4116
+1882	leave 4119
+1883	leave 4129
+1884	leave 4130
+1885	leave 4131
+1886	leave 4133
+1887	leave 4134
+1888	leave 4136
+1889	leave 4139
+1890	leave 4273
+1891	leave 4282
+1892	leave 4290
+1893	leave 4300
+1894	leave 4302
+1895	leave 4307
+1896	leave 4304
+1897	leave 4309
+1898	leave 4310
+1899	leave 4338
+1900	leave 4339
+1901	leave 4340
+1902	leave 4381
+1903	leave 4382
+1904	leave 4384
+1905	leave 4388
+1906	leave 4389
+1907	leave 4792
+1908	leave 4952
+1909	leave 4953
+1910	leave 4947
+1911	leave 4986
+1912	leave 4987
+1913	leave 4989
+1914	leave 4999
+1915	leave 5003
+1916	leave 5005
+1917	leave 5022
+1918	leave 5030
+1919	leave 5043
+1920	leave 5058
+1921	leave 5089
+1922	leave 5091
+1923	leave 5092
+1924	leave 5093
+1925	leave 5095
+1926	leave 5117
+1927	leave 5118
+1928	leave 5193
+1929	leave 5296
+1930	leave 5297
+1931	leave 5298
+1932	leave 5301
+1933	leave 5330
+1934	leave 5382
+1935	leave 5384
+1936	leave 5386
+1937	leave 5391
+1938	leave 5629
+1939	leave 5631
+1940	leave 5634
+1941	leave 5638
+1942	leave 5688
+1943	leave 5690
+1944	leave 5893
+1945	leave 5913
+1946	leave 5955
+1947	leave 6159
+1948	leave 6160
+1949	leave 6166
+1950	gather some things
+1951	leave 6332
+1952	leave 6333
+1953	leave 6331
+1954	leave 6376
+1955	leave 6377
+1956	leave 6411
+1957	leave 6412
+1958	leave 6432
+1959	leave 6439
+1960	leave 6443
+1961	leave 6444
+1962	leave 6453
+1963	leave 6454
+1964	leave 6445
+1965	leave 6458
+1966	leave 6467
+1967	leave 6464
+1968	leave 6580
+1969	leave 6657
+1970	leave 6660
+1971	leave 6666
+1972	leave 6667
+1973	leave 6672
+1974	leave 6698
+1975	leave 6736
+1976	leave 6738
+1977	leave 6755
+1978	leave 6757
+1979	leave 6760
+1980	leave 6761
+1981	leave 6762
+1982	leave 6764
+1983	leave 6771
+1984	leave 6772
+1985	leave 6812
+1986	leave 6820
+1987	leave 6819
+1988	leave 6823
+1989	leave 6825
+1990	leave 6837
+1991	leave 6879
+1992	leave 6891
+1993	leave 6894
+1994	leave 6896
+1995	leave 6897
+1996	leave 6904
+1997	leave 6917
+1998	leave 6918
+1999	leave 6935
+2000	leave 6942
+2001	leave 6950
+2002	leave 6976
+2003	leave 6977
+2004	leave 7007
+2005	leave 7008
+2006	leave 7010
+2007	leave 7015
+2008	leave 7083
+2009	leave 7084
+2010	leave 7092
+2011	leave 7094
+2012	leave 7097
+2013	leave 7114
+2014	leave 7115
+2015	leave 7116
+2016	leave 7123
+2017	leave 7124
+2018	leave 7154
+2019	leave 7155
+2020	leave 7162
+2021	leave 7163
+2022	leave 7231
+2023	leave 7238
+2024	leave 7350
+2025	leave 7388
+2026	wish majik power
+2027	leave 7416
+2028	leave 7418
+2029	leave 7440
+2030	leave 7496
+2031	leave 7513
+2032	leave 7516
+2033	leave 7517
+2034	leave 7594
+2035	leave 7596
+2036	hatred
+2037	leave 7770
+2038	Specialization
+2039	leave 7849
+2040	leave 7851
+2041	leave 7880
+2042	leave 7881
+2043	leave 7959
+2044	leave 7961
+2045	leave 7963
+2046	footsteps
+2047	source of his research
+2048	Great Library
+2049	pieces
+2050	Danvi
+2051	ascend beyond
+2052	two books
+2053	leave 8006
+2054	Are you prepared
+2055	demise
+2056	chest
+2057	power
+2058	errands
+2059	true warrior
+2060	reclaim da charge
+2061	new source
+2062	willing to help
+2063	thing
+2064	leave 8037
+2065	Water God
+2066	challenge
+2067	rock
+2068	smith
+2069	loose
+2070	leave 8041
+2071	journey
+2072	vision
+2073	cleaning up da hilt
+2074	shady jeweler
+2075	glimpse
+2076	young combatant
+2077	gorge
+2078	maze
+2079	field of blood
+2080	gemming tool
+2081	spell called Fire
+2082	upgraded
+2083	break Tagrin's steel
+2084	further
+2085	another image
+2086	Krekk
+2087	one
+2088	presence
+2089	going back
+2090	out of balance
+2091	inhabitants
+2092	destroy
+2093	Tunare
+2094	crook
+2095	Sabertooths
+2096	leave 8114
+2097	leave 8113
+2098	leave 8115
+2099	matters
+2100	Magician
+2101	Enchanter
+2102	Wizard
+2103	leave 8178
+2104	leave 8187
+2105	leave 8226
+2106	leave 8227
+2107	leave 8228
+2108	leave 8229
+2109	leave 8230
+2110	leave 8231
+2111	leave 8232
+2112	leave 8233
+2113	leave 8234
+2114	leave 8236
+2115	leave 8237
+2116	leave 8238
+2117	leave 8243
+2118	leave 8283
+2119	reward
+2120	leave 8294
+2121	leave 8295
+2122	leave 8296
+2123	leave 8326
+2124	leave 8333
+2125	leave 8335
+2126	leave 8367
+2127	leave 8368
+2128	leave 8385
+2129	leave 8386
+2130	leave 8387
+2131	leave 8389
+2132	leave 8390
+2133	leave 8393
+2134	leave 8426
+2135	leave 8429
+2136	leave 8479
+2137	leave 8480
+2138	leave 8488
+2139	leave 8489
+2140	leave 8491
+2141	leave 8495
+2142	leave 8492
+2143	leave 8496
+2144	leave 8504
+2145	leave 8505
+2146	leave 8506
+2147	leave 8507
+2148	leave 8569
+2149	leave 8571
+2150	leave 8576
+2151	leave 8577
+2152	leave 8578
+2153	leave 8592
+2154	leave 8602
+2155	leave 8603
+2156	leave 8604
+2157	leave 8613
+2158	leave 8614
+2159	leave 8615
+2160	leave 8633
+2161	leave 8646
+2162	leave 8647
+2163	leave 8649
+2164	leave 8650
+2165	leave 8652
+2166	leave 8653
+2167	leave 8654
+2168	leave 8655
+2169	leave 8651
+2170	leave 8656
+2171	leave 8658
+2172	leave 8662
+2173	leave 8664
+2174	leave 8665
+2175	leave 8667
+2176	leave 8668
+2177	leave 8670
+2178	leave 8672
+2179	leave 8676
+2180	leave 8691
+2181	leave 8696
+2182	leave 8701
+2183	leave 8729
+2184	leave 8743
+2185	leave 8830
+2186	this information
+2187	craft another blade
+2188	small job
+2189	leave 8903
+2190	leave 8904
+2191	stupid questions
+2192	small task
+2193	deal
+2194	General
+2195	Joren
+2196	tools
+2197	clear your name
+2198	open the portal
+2199	leave 8992
+2200	leave 8993
+2201	leave 8995
+2202	leave 8998
+2203	special bread
+2204	hehe meat
+2205	the Circle
+2206	leave 9021
+2207	leave 9028
+2208	leave 9030
+2209	leave 9032
+2210	leave 9034
+2211	leave 9029
+2212	leave 9035
+2213	leave 9036
+2214	leave 9040
+2215	leave 9049
+2216	leave 9059
+2217	leave 9065
+2218	Teir`dal
+2219	another problem
+2220	change their tune
+2221	line of work
+2222	leave 9086
+2223	leave 9084
+2224	leave 9088
+2225	leave 9087
+2226	leave 9092
+2227	leave 9141
+2228	father's murder
+2229	your head
+2230	leave 9376
+2231	leave 9414
+2232	leave 9449
+2233	leave 9448
+2234	leave 9450
+2235	leave 9451
+2236	leave 9457
+2237	leave 9458
+2238	leave 9462
+2239	leave 9973
+2240	leave 9975
+2241	leave 9978
+2242	leave 10006
+2243	leave 10010
+2244	leave 10014
+2245	leave 10016
+2246	leave 10017
+2247	leave 10081
+2248	leave 10135
+2249	leave 10145
+2250	leave 10150
+2251	leave 10149
+2252	leave 10152
+2253	leave 10157
+2254	leave 10158
+2255	leave 10159
+2256	leave 10161
+2257	leave 10168
+2258	leave 10169
+2259	leave 10177
+2260	leave 10180
+2261	leave 10188
+2262	leave 10190
+2263	leave 10253
+2264	leave 10254
+2265	leave 10258
+2266	leave 10264
+2267	leave 10315
+2268	leave 10316
+2269	leave 10318
+2270	leave 10339
+2271	leave 10342
+2272	leave 10343
+2273	leave 10344
+2274	leave 10345
+2275	leave 10346
+2276	leave 10347
+2277	leave 10348
+2278	leave 10370
+2279	leave 10374
+2280	leave 10375
+2281	leave 10377
+2282	leave 10382
+2283	leave 10386
+2284	leave 10389
+2285	leave 10393
+2286	leave 10401
+2287	leave 10402
+2288	leave 10434
+2289	leave 10446
+2290	leave 10449
+2291	leave 10450
+2292	leave 10474
+2293	leave 10477
+2294	leave 10482
+2295	leave 10496
+2296	leave 10497
+2297	leave 10498
+2298	leave 10499
+2299	leave 10511
+2300	agree
+2301	fluxing rod
+2302	gem
+2303	rune
+2304	ore
+2305	leave 10719
+2306	leave 10735
+2307	leave 10740
+2308	leave 10745
+2309	leave 10752
+2310	leave 10766
+2311	leave 10767
+2312	leave 10769
+2313	leave 10768
+2314	leave 10777
+2315	travel to the Ocean of Tears
+2316	leave 11005
+2317	leave 11007
+2318	leave 11056
+2319	leave 11093
+2320	leave 11184
+2321	leave 11186
+2322	leave 11187
+2323	powerful item
+2324	leave 11276
+2325	leave 11297
+2326	Corruption
+2327	expecting a fight
+2328	leave 11342
+2329	leave 11343
+2330	leave 11346
+2331	leave 11361
+2332	leave 11394
+2333	leave 11397
+2334	leave 11399
+2335	leave 11400
+2336	leave 11402
+2337	leave 11405
+2338	leave 11423
+2339	leave 11427
+2340	leave 11436
+2341	leave 11442
+2342	important book
+2343	pages
+2344	cursed dreams
+2345	power of the Immortals
+2346	rare finds
+2347	disciple of Kaiaren
+2348	Vortix
+2349	book
+2350	right price
+2351	defeat
+2352	searching
+2353	techniques
+2354	Celestial Guardians
+2355	find
+2356	Sun
+2357	Moon
+2358	Order
+2359	price
+2360	polished
+2361	being
+2362	place
+2363	insist
+2364	I am of the body
+2365	die
+2366	Endurance
+2367	Adaptation
+2368	leave 11616
+2369	infected
+2370	Helm
+2371	requirements
+2372	way
+2373	lands
+2374	read
+2375	wait
+2376	survive
+2377	learning
+2378	mastodon
+2379	believe
+2380	tortured and ruined
+2381	greater calling
+2382	track down
+2383	letter
+2384	majestic and unique creatures
+2385	no idea
+2386	been on Norrath
+2387	sphinxes
+2388	threatened
+2389	speak
+2390	endangered
+2391	happening
+2392	does not end
+2393	most dear
+2394	luck
+2395	not possible
+2396	beast
+2397	wish to continue to walk among the elders
+2398	prove
+2399	riddles
+2400	enemy
+2401	chaotic feeling
+2402	leave 11641
+2403	leave 11666
+2404	leave 11677
+2405	leave 11690
+2406	leave 11719
+2407	leave 11720
+2408	brings me here
+2409	like you to tell me
+2410	lot to learn
+2411	impress my new master
+2412	where the story ends
+2413	bad happened
+2414	remember little after that
+2415	saved me
+2416	outer Planes
+2417	unbelievable
+2418	transformation
+2419	consider
+2420	honored
+2421	require something of you
+2422	visions
+2423	what happened
+2424	try to find my sister
+2425	find anything
+2426	brother
+2427	assistance
+2428	wrong
+2429	ingredients
+2430	leave 11735
+2431	leave 11738
+2432	leave 11753
+2433	leave 11760
+2434	leave 11759
+2435	leave 11765
+2436	leave 11764
+2437	tell you about my master
+2438	Lheao
+2439	leave 11775
+2440	leave 11776
+2441	leave 11778
+2442	leave 11794
+2443	leave 11824
+2444	leave 11906
+2445	travel to Freeport
+2446	travel to Butcherblock
+2447	leave 11912
+2448	note
+2449	lambent stones
+2450	lambent armor
+2451	dragons
+2452	lambent gauntlets
+2453	lambent greaves
+2454	lambent boots
+2455	Pool of Jahnda
+2456	Frostbite
+2457	Koalindl
+2458	caves
+2459	leave 11972
+2460	leave 11974
+2461	leave 11975
+2462	children of Zek
+2463	leave 11973
+2464	leave 11976
+2465	leave 11979
+2466	leave 11980
+2467	leave 11983
+2468	leave 11996
+2469	leave 11997
+2470	leave 11999
+2471	leave 12000
+2472	leave 12014
+2473	leave 12015
+2474	leave 12017
+2475	leave 12018
+2476	leave 12016
+2477	leave 12019
+2478	leave 12026
+2479	leave 12027
+2480	catacombs
+2481	leave 12068
+2482	leave 12071
+2483	leave 12072
+2484	leave 12070
+2485	leave 12075
+2486	leave 12076
+2487	leave 12073
+2488	leave 12079
+2489	leave 12080
+2490	leave 12081
+2491	leave 12077
+2492	leave 12083
+2493	leave 12084
+2494	leave 12085
+2495	leave 12089
+2496	leave 12090
+2497	leave 12098
+2498	leave 12099
+2499	leave 12135
+2500	leave 12136
+2501	leave 12137
+2502	leave 12140
+2503	leave 12141
+2504	leave 12143
+2505	leave 12144
+2506	willing to do a task
+2507	leave 12156
+2508	leave 12157
+2509	leave 12159
+2510	leave 12160
+2511	leave 12170
+2512	leave 12161
+2513	leave 12172
+2514	leave 12173
+2515	leave 12169
+2516	leave 12179
+2517	leave 12180
+2518	leave 12189
+2519	leave 12190
+2520	perhaps
+2521	leave 12191
+2522	leave 12196
+2523	leave 12197
+2524	leave 12203
+2525	leave 12198
+2526	leave 12208
+2527	leave 12209
+2528	leave 12211
+2529	leave 12212
+2530	leave 12213
+2531	leave 12214
+2532	leave 12218
+2533	leave 12240
+2534	leave 12241
+2535	leave 12248
+2536	leave 12249
+2537	leave 12259
+2538	leave 12260
+2539	leave 12261
+2540	leave 12264
+2541	leave 12265
+2542	leave 12275
+2543	leave 12276
+2544	leave 12277
+2545	leave 12278
+2546	leave 12266
+2547	leave 12279
+2548	leave 12280
+2549	leave 12282
+2550	leave 12283
+2551	leave 12284
+2552	leave 12290
+2553	leave 12291
+2554	leave 12292
+2555	leave 12285
+2556	leave 12300
+2557	leave 12301
+2558	leave 12302
+2559	leave 12307
+2560	leave 12308
+2561	leave 12309
+2562	leave 12321
+2563	leave 12322
+2564	leave 12323
+2565	leave 12326
+2566	leave 12327
+2567	leave 12328
+2568	leave 12334
+2569	leave 12335
+2570	leave 12336
+2571	leave 12337
+2572	leave 12338
+2573	leave 12339
+2574	leave 12346
+2575	leave 12347
+2576	leave 12348
+2577	leave 12351
+2578	leave 12352
+2579	leave 12353
+2580	leave 12354
+2581	leave 12359
+2582	leave 12360
+2583	leave 12361
+2584	leave 12363
+2585	leave 12364
+2586	leave 12365
+2587	leave 12370
+2588	leave 12378
+2589	leave 12379
+2590	leave 12380
+2591	leave 12381
+2592	leave 12383
+2593	leave 12384
+2594	leave 12385
+2595	leave 12386
+2596	leave 12387
+2597	leave 12388
+2598	leave 12392
+2599	leave 12393
+2600	leave 12398
+2601	leave 12399
+2602	leave 12400
+2603	Foresight
+2604	special sewing kit
+2605	leave 12414
+2606	leave 12415
+2607	leave 12416
+2608	leave 12418
+2609	leave 12419
+2610	leave 12420
+2611	leave 12422
+2612	leave 12423
+2613	leave 12424
+2614	leave 12427
+2615	leave 12428
+2616	leave 12429
+2617	leave 12430
+2618	leave 12431
+2619	leave 12432
+2620	leave 12440
+2621	leave 12441
+2622	leave 12442
+2623	leave 12454
+2624	leave 12461
+2625	leave 12462
+2626	leave 12463
+2627	leave 12464
+2628	leave 12465
+2629	leave 12466
+2630	leave 12512
+2631	leave 12518
+2632	leave 12519
+2633	leave 12520
+2634	leave 12522
+2635	leave 12524
+2636	leave 12525
+2637	leave 12526
+2638	leave 12527
+2639	leave 12528
+2640	leave 12529
+2641	leave 12523
+2642	leave 12545
+2643	leave 12552
+2644	leave 12554
+2645	leave 12555
+2646	leave 12577
+2647	leave 12601
+2648	leave 12605
+2649	leave 12616
+2650	leave 12619
+2651	leave 12719
+2652	leave 12737
+2653	leave 12739
+2654	leave 12741
+2655	leave 12789
+2656	leave 12821
+2657	leave 12824
+2658	leave 12830
+2659	leave 12832
+2660	leave 12842
+2661	leave 12845
+2662	leave 12849
+2663	leave 12850
+2664	leave 12855
+2665	leave 12932
+2666	leave 12933
+2667	leave 13063
+2668	leave 13097
+2669	leave 13098
+2670	leave 13099
+2671	leave 13105
+2672	leave 13106
+2673	leave 13129
+2674	leave 13130
+2675	leave 13131
+2676	leave 13132
+2677	leave 13161
+2678	leave 13162
+2679	leave 13165
+2680	leave 13169
+2681	leave 13170
+2682	leave 13171
+2683	leave 13167
+2684	leave 13175
+2685	leave 13181
+2686	leave 13194
+2687	leave 13196
+2688	leave 13229
+2689	leave 13230
+2690	leave 13231
+2691	leave 13227
+2692	leave 13235
+2693	leave 13236
+2694	leave 13252
+2695	leave 13253
+2696	leave 13263
+2697	leave 13264
+2698	leave 13265
+2699	leave 13271
+2700	leave 13272
+2701	leave 13273
+2702	leave 13275
+2703	leave 13276
+2704	leave 13277
+2705	leave 13281
+2706	leave 13309
+2707	leave 13310
+2708	leave 13311
+2709	leave 13347
+2710	leave 13348
+2711	it is so
+2712	blow away
+2713	streams of the spirit world
+2714	find the will
+2715	leave 13398
+2716	leave 13399
+2717	been transpiring
+2718	find an egg
+2719	mask the sword's presence
+2720	leave 13476
+2721	leave 13484
+2722	leave 13488
+2723	leave 13493
+2724	leave 13492
+2725	leave 13501
+2726	leave 13502
+2727	leave 13500
+2728	leave 13507
+2729	leave 13517
+2730	leave 13582
+2731	leave 13585
+2732	up to it
+2733	much time
+2734	wasichu
+2735	dark creatures
+2736	great
+2737	wise
+2738	watched
+2739	rare gift
+2740	still more
+2741	trials of justice
+2742	Veshtaq
+2743	succeeded
+2744	troubled
+2745	meaningful way
+2746	leave 13598
+2747	leave 13639
+2748	void
+2749	padding
+2750	leave 13658
+2751	leave 13666
+2752	leave 13670
+2753	leave 13679
+2754	leave 13680
+2755	leave 13681
+2756	leave 13682
+2757	spy
+2758	proof
+2759	continue to aid
+2760	stolen
+2761	gruesome being
+2762	second beast
+2763	leave 13695
+2764	leave 13698
+2765	leave 13699
+2766	break down
+2767	skin
+2768	powder
+2769	tooth
+2770	goo
+2771	take part
+2772	acknowledge
+2773	prepared to carry on
+2774	leave 13752
+2775	leave 13755
+2776	leave 13756
+2777	leave 13758
+2778	leave 13762
+2779	leave 13765
+2780	leave 13767
+2781	leave 13769
+2782	leave 13770
+2783	leave 13771
+2784	leave 13772
+2785	leave 13773
+2786	leave 13776
+2787	leave 13777
+2788	leave 13779
+2789	leave 13780
+2790	leave 13781
+2791	leave 13783
+2792	leave 13784
+2793	leave 13786
+2794	leave 13787
+2795	leave 13788
+2796	leave 13789
+2797	leave 13790
+2798	leave 13793
+2799	adornments
+2800	leave 13811
+2801	leave 13812
+2802	leave 13813
+2803	leave 13817
+2804	leave 13818
+2805	leave 13820
+2806	leave 13832
+2807	leave 13863
+2808	travel to the Timorous Deep
+2809	leave 13890
+2810	leave 13889
+2811	leave 13898
+2812	leave 13900
+2813	leave 13901
+2814	study
+2815	Discord
+2816	is lost
+2817	Spear of Fate
+2818	Black Holes
+2819	powerful shaman
+2820	cosmos
+2821	breach
+2822	Ocean of Tears
+2823	leave 14001
+2824	leave 14002
+2825	leave 14003
+2826	leave 14012
+2827	leave 14020
+2828	leave 14021
+2829	leave 14022
+2830	leave 14025
+2831	leave 14027
+2832	leave 14028
+2833	leave 14029
+2834	leave 14030
+2835	leave 14031
+2836	leave 14064
+2837	leave 14065
+2838	leave 14066
+2839	leave 14081
+2840	leave 14082
+2841	leave 14083
+2842	leave 14087
+2843	leave 14088
+2844	leave 14089
+2845	leave 14092
+2846	leave 14093
+2847	leave 14125
+2848	leave 14127
+2849	leave 14150
+2850	leave 14182
+2851	leave 14192
+2852	leave 14198
+2853	leave 14187
+2854	leave 14211
+2855	leave 14240
+2856	leave 14241
+2857	leave 14243
+2858	leave 14244
+2859	leave 14264
+2860	leave 14265
+2861	leave 14261
+2862	leave 14281
+2863	leave 14296
+2864	leave 14297
+2865	leave 14298
+2866	leave 14300
+2867	leave 14301
+2868	leave 14302
+2869	leave 14303
+2870	leave 14305
+2871	leave 14311
+2872	leave 14315
+2873	leave 14317
+2874	leave 14318
+2875	leave 14319
+2876	leave 14346
+2877	leave 14347
+2878	leave 14367
+2879	leave 14368
+2880	leave 14369
+2881	leave 14388
+2882	leave 14395
+2883	leave 14390
+2884	leave 14404
+2885	leave 14405
+2886	leave 14400
+2887	leave 14411
+2888	leave 14412
+2889	leave 14409
+2890	leave 14439
+2891	leave 14440
+2892	leave 14441
+2893	leave 14449
+2894	leave 14450
+2895	leave 14453
+2896	leave 14452
+2897	leave 14461
+2898	leave 14466
+2899	leave 14507
+2900	leave 14508
+2901	leave 14509
+2902	leave 14510
+2903	leave 14511
+2904	leave 14512
+2905	leave 14540
+2906	leave 14583
+2907	leave 14584
+2908	leave 14585
+2909	leave 14605
+2910	leave 14606
+2911	leave 14607
+2912	leave 14609
+2913	leave 14610
+2914	leave 14611
+2915	leave 14621
+2916	leave 14622
+2917	leave 14624
+2918	leave 14625
+2919	leave 14626
+2920	leave 14627
+2921	leave 14632
+2922	leave 14633
+2923	leave 14634
+2924	leave 14638
+2925	leave 14639
+2926	leave 14640
+2927	leave 14661
+2928	leave 14662
+2929	leave 14665
+2930	leave 14666
+2931	leave 14667
+2932	leave 14671
+2933	leave 14694
+2934	leave 14695
+2935	leave 14697
+2936	leave 14698
+2937	leave 14699
+2938	leave 14689
+2939	leave 14701
+2940	leave 14707
+2941	leave 14712
+2942	leave 14714
+2943	leave 14719
+2944	leave 14720
+2945	leave 14722
+2946	leave 14747
+2947	leave 14746
+2948	leave 14752
+2949	leave 14754
+2950	leave 14759
+2951	leave 14761
+2952	leave 14758
+2953	leave 14763
+2954	leave 14764
+2955	leave 14768
+2956	leave 14774
+2957	leave 14780
+2958	leave 14781
+2959	leave 14782
+2960	leave 14783
+2961	leave 14784
+2962	leave 14785
+2963	leave 14807
+2964	leave 14815
+2965	leave 14813
+2966	leave 14814
+2967	leave 14816
+2968	leave 14817
+2969	leave 14848
+2970	leave 14859
+2971	leave 14864
+2972	leave 14866
+2973	leave 14868
+2974	leave 14878
+2975	leave 14879
+2976	leave 14881
+2977	leave 14883
+2978	leave 14884
+2979	leave 14885
+2980	leave 14967
+2981	leave 14948
+2982	leave 14965
+2983	leave 14970
+2984	leave 14972
+2985	leave 14976
+2986	leave 14999
+2987	leave 15001
+2988	leave 15003
+2989	leave 15004
+2990	leave 15006
+2991	leave 15019
+2992	leave 15021
+2993	leave 15018
+2994	leave 15047
+2995	leave 15082
+2996	leave 15083
+2997	leave 15093
+2998	leave 15153
+2999	leave 15154
+3000	leave 15158
+3001	leave 15182
+3002	leave 15184
+3003	leave 15191
+3004	leave 15192
+3005	leave 15194
+3006	leave 15193
+3007	leave 15200
+3008	leave 15201
+3009	leave 15198
+3010	leave 15202
+3011	leave 15205
+3012	leave 15214
+3013	leave 15216
+3014	leave 15220
+3015	leave 15221
+3016	leave 15222
+3017	leave 15213
+3018	leave 15225
+3019	leave 15227
+3020	leave 15223
+3021	leave 15217
+3022	leave 15235
+3023	leave 15237
+3024	leave 15238
+3025	leave 15239
+3026	leave 15249
+3027	leave 15250
+3028	leave 15252
+3029	leave 15255
+3030	leave 15251
+3031	leave 15257
+3032	leave 15258
+3033	leave 15259
+3034	leave 15262
+3035	leave 15261
+3036	leave 15263
+3037	leave 15270
+3038	leave 15269
+3039	leave 15273
+3040	leave 15274
+3041	leave 15272
+3042	leave 15277
+3043	leave 15283
+3044	leave 15298
+3045	leave 15299
+3046	leave 15301
+3047	leave 15302
+3048	leave 15303
+3049	leave 15311
+3050	leave 15327
+3051	leave 15328
+3052	leave 15326
+3053	leave 15332
+3054	leave 15329
+3055	leave 15345
+3056	leave 15346
+3057	leave 15334
+3058	leave 15350
+3059	leave 15351
+3060	leave 15364
+3061	leave 15365
+3062	leave 15366
+3063	leave 15373
+3064	leave 15374
+3065	leave 15375
+3066	leave 15371
+3067	leave 15377
+3068	leave 15376
+3069	leave 15388
+3070	leave 15389
+3071	leave 15391
+3072	leave 15395
+3073	leave 15398
+3074	leave 15385
+3075	leave 15400
+3076	leave 15401
+3077	leave 15407
+3078	leave 15408
+3079	leave 15410
+3080	leave 15411
+3081	leave 15404
+3082	leave 15396
+3083	leave 15413
+3084	leave 15416
+3085	leave 15414
+3086	leave 15424
+3087	leave 15427
+3088	leave 15428
+3089	leave 15430
+3090	leave 15432
+3091	leave 15431
+3092	leave 15434
+3093	leave 15436
+3094	leave 15439
+3095	leave 15440
+3096	leave 15425
+3097	leave 15449
+3098	leave 15450
+3099	leave 15457
+3100	leave 15458
+3101	leave 15459
+3102	leave 15460
+3103	leave 15461
+3104	leave 15462
+3105	leave 15463
+3106	leave 15464
+3107	leave 15465
+3108	leave 15435
+3109	leave 15467
+3110	leave 15452
+3111	leave 15469
+3112	leave 15473
+3113	leave 15474
+3114	leave 15475
+3115	leave 15476
+3116	leave 15477
+3117	leave 15478
+3118	leave 15482
+3119	leave 15486
+3120	leave 15487
+3121	leave 15488
+3122	leave 15489
+3123	leave 15490
+3124	leave 15491
+3125	leave 15492
+3126	leave 15493
+3127	leave 15494
+3128	leave 15510
+3129	leave 15538
+3130	leave 15539
+3131	leave 15551
+3132	leave 15552
+3133	leave 15563
+3134	leave 15564
+3135	leave 15576
+3136	leave 15578
+3137	leave 15580
+3138	leave 15582
+3139	leave 15583
+3140	leave 15584
+3141	leave 15585
+3142	leave 15586
+3143	leave 15588
+3144	leave 15589
+3145	leave 15591
+3146	leave 15592
+3147	leave 15594
+3148	leave 15595
+3149	leave 15581
+3150	leave 15625
+3151	leave 15626
+3152	leave 15627
+3153	leave 15649
+3154	leave 15707
+3155	leave 15706
+3156	leave 15708
+3157	leave 15711
+3158	leave 15723
+3159	leave 15761
+3160	leave 15762
+3161	leave 15765
+3162	leave 15766
+3163	leave 15768
+3164	leave 15769
+3165	leave 15763
+3166	leave 15771
+3167	leave 15772
+3168	leave 15767
+3169	leave 15775
+3170	leave 15776
+3171	leave 15770
+3172	leave 15778
+3173	leave 15779
+3174	leave 15777
+3175	leave 15781
+3176	leave 15782
+3177	leave 15773
+3178	leave 15784
+3179	leave 15785
+3180	leave 15786
+3181	leave 15796
+3182	leave 15797
+3183	leave 15798
+3184	leave 15780
+3185	leave 15806
+3186	leave 15807
+3187	leave 15783
+3188	leave 15812
+3189	leave 15813
+3190	leave 15817
+3191	leave 15818
+3192	leave 15819
+3193	leave 15820
+3194	leave 15821
+3195	leave 15822
+3196	leave 15823
+3197	leave 15824
+3198	leave 15814
+3199	leave 15825
+3200	leave 15826
+3201	leave 15808
+3202	leave 15830
+3203	leave 15831
+3204	leave 15836
+3205	leave 15837
+3206	leave 15838
+3207	leave 15835
+3208	leave 15842
+3209	leave 15843
+3210	leave 15844
+3211	leave 15846
+3212	leave 15847
+3213	leave 15848
+3214	leave 15849
+3215	leave 15850
+3216	leave 15841
+3217	leave 15851
+3218	leave 15856
+3219	leave 15859
+3220	leave 15860
+3221	leave 15861
+3222	leave 15864
+3223	leave 15868
+3224	leave 15872
+3225	leave 15873
+3226	leave 15878
+3227	leave 15879
+3228	leave 15880
+3229	leave 15882
+3230	leave 15883
+3231	leave 15885
+3232	leave 15886
+3233	leave 15891
+3234	leave 15892
+3235	leave 15893
+3236	idea
+3237	still desire it
+3238	leave 15986
+3239	leave 15987
+3240	leave 15988
+3241	leave 15978
+3242	leave 16009
+3243	leave 16010
+3244	leave 16011
+3245	leave 16042
+3246	leave 16043
+3247	leave 16044
+3248	leave 16047
+3249	leave 16048
+3250	leave 16049
+3251	legendary site
+3252	goblins
+3253	forgotten
+3254	prize
+3255	leave 16056
+3256	leave 16057
+3257	fair deal
+3258	sacrifice
+3259	bind my soul
+3260	problems
+3261	mad
+3262	Curse
+3263	free
+3264	song
+3265	i will do it
+3266	show it
+3267	leave 16129
+3268	leave 16202
+3269	tinkering mastery
+3270	i want to animate a skull
+3271	leave 16236
+3272	leave 16237
+3273	leave 16242
+3274	progress
+3275	leave 16284
+3276	victim
+3277	I will prove my worth
+3278	the way
+3279	leave 16304
+3280	leave 16305
+3281	leave 16391
+3282	leave 16392
+3283	leave 16393
+3284	leave 16396
+3285	leave 16397
+3286	leave 16398
+3287	leave 16399
+3288	leave 16404
+3289	leave 16405
+3290	leave 16406
+3291	leave 16415
+3292	leave 16416
+3293	leave 16417
+3294	leave 16418
+3295	leave 16419
+3296	leave 16420
+3297	leave 16421
+3298	leave 16422
+3299	leave 16449
+3300	leave 16478
+3301	leave 16487
+3302	leave 16492
+3303	leave 16499
+3304	leave 16500
+3305	leave 16507
+3306	leave 16517
+3307	leave 16534
+3308	leave 16536
+3309	leave 16590
+3310	leave 16592
+3311	leave 16593
+3312	leave 16595
+3313	leave 16616
+3314	leave 16617
+3315	leave 16619
+3316	leave 16620
+3317	leave 16621
+3318	leave 16622
+3319	leave 16623
+3320	leave 16624
+3321	leave 16674
+3322	leave 16696
+3323	leave 16719
+3324	leave 16720
+3325	leave 16743
+3326	leave 16745
+3327	leave 16759
+3328	here
+3329	us
+3330	we wait
+3331	an illusion
+3332	magical enhancements
+3333	disastrous
+3334	waitin
+3335	long time
+3336	Abe
+3337	a broken arrow
+3338	eyes
+3339	combine
+3340	give them the arrow
+3341	continue what you have started
+3342	dark point ear
+3343	Heyokah
+3344	rub it out
+3345	city's demise
+3346	how it all began
+3347	leave 16774
+3348	leave 16775
+3349	leave 16792
+3350	leave 16795
+3351	leave 16796
+3352	leave 16802
+3353	leave 16803
+3354	leave 16804
+3355	great heyokah
+3356	leave 16860
+3357	leave 16872
+3358	leave 16873
+3359	leave 16875
+3360	leave 16877
+3361	leave 16894
+3362	leave 16898
+3363	leave 16899
+3364	leave 16910
+3365	leave 16932
+3366	leave 16938
+3367	leave 16939
+3368	leave 16945
+3369	leave 16961
+3370	leave 16963
+3371	leave 16979
+3372	leave 16980
+3373	leave 16981
+3374	leave 16983
+3375	leave 16984
+3376	leave 16985
+3377	leave 16986
+3378	leave 16987
+3379	leave 16988
+3380	leave 16991
+3381	leave 17011
+3382	leave 17012
+3383	leave 17013
+3384	leave 17014
+3385	leave 17031
+3386	leave 17035
+3387	leave 17036
+3388	leave 17091
+3389	leave 17095
+3390	leave 17100
+3391	leave 17136
+3392	leave 17147
+3393	leave 17149
+3394	leave 17150
+3395	leave 17151
+3396	leave 17154
+3397	leave 17163
+3398	leave 17227
+3399	leave 17233
+3400	leave 17246
+3401	leave 17272
+3402	leave 17280
+3403	leave 17288
+3404	leave 17293
+3405	leave 17295
+3406	leave 17313
+3407	leave 17316
+3408	leave 17320
+3409	leave 17321
+3410	leave 17322
+3411	leave 17323
+3412	leave 17325
+3413	leave 17344
+3414	leave 17360
+3415	leave 17361
+3416	leave 17362
+3417	leave 17369
+3418	leave 17370
+3419	leave 17371
+3420	leave 17372
+3421	leave 17373
+3422	leave 17374
+3423	leave 17378
+3424	leave 17400
+3425	leave 17430
+3426	leave 17431
+3427	leave 17437
+3428	leave 17429
+3429	leave 17442
+3430	leave 17460
+3431	leave 17461
+3432	leave 17464
+3433	leave 17467
+3434	leave 17459
+3435	leave 17472
+3436	worlds
+3437	leave 17493
+3438	leave 17494
+3439	leave 17495
+3440	leave 17496
+3441	leave 17497
+3442	leave 17505
+3443	leave 17506
+3444	leave 17507
+3445	dared challenge
+3446	flaw
+3447	favors
+3448	leave 17525
+3449	leave 17527
+3450	leave 17528
+3451	leave 17529
+3452	leave 17530
+3453	leave 17531
+3454	leave 17532
+3455	leave 17533
+3456	leave 17534
+3457	leave 17535
+3458	leave 17536
+3459	leave 17537
+3460	leave 17550
+3461	leave 17551
+3462	leave 17552
+3463	leave 17554
+3464	leave 17555
+3465	leave 17556
+3466	leave 17558
+3467	leave 17559
+3468	leave 17560
+3469	leave 17561
+3470	leave 17562
+3471	leave 17563
+3472	leave 17578
+3473	leave 17579
+3474	leave 17580
+3475	leave 17581
+3476	leave 17582
+3477	leave 17583
+3478	leave 17584
+3479	leave 17604
+3480	leave 17605
+3481	leave 17606
+3482	leave 17607
+3483	leave 17608
+3484	leave 17609
+3485	leave 17618
+3486	leave 17619
+3487	leave 17620
+3488	leave 17623
+3489	leave 17624
+3490	leave 17625
+3491	leave 17626
+3492	leave 17627
+3493	leave 17628
+3494	leave 17630
+3495	leave 17631
+3496	leave 17632
+3497	leave 17646
+3498	leave 17647
+3499	leave 17648
+3500	leave 17661
+3501	leave 17662
+3502	leave 17664
+3503	leave 17665
+3504	leave 17660
+3505	leave 17667
+3506	leave 17668
+3507	leave 17663
+3508	leave 17670
+3509	leave 17671
+3510	leave 17666
+3511	leave 17672
+3512	leave 17673
+3513	leave 17677
+3514	leave 17679
+3515	leave 17678
+3516	leave 17683
+3517	leave 17684
+3518	leave 17685
+3519	leave 17686
+3520	leave 17694
+3521	leave 17695
+3522	leave 17700
+3523	leave 17701
+3524	leave 17704
+3525	leave 17705
+3526	leave 17706
+3527	leave 17707
+3528	leave 17708
+3529	leave 17709
+3530	leave 17687
+3531	leave 17710
+3532	leave 17711
+3533	leave 17716
+3534	leave 17717
+3535	leave 17726
+3536	leave 17727
+3537	leave 17728
+3538	leave 17732
+3539	leave 17734
+3540	leave 17739
+3541	leave 17740
+3542	leave 17741
+3543	leave 17742
+3544	leave 17743
+3545	leave 17744
+3546	leave 17746
+3547	leave 17747
+3548	leave 17748
+3549	leave 17755
+3550	leave 17756
+3551	leave 17757
+3552	leave 17758
+3553	leave 17759
+3554	leave 17760
+3555	leave 17761
+3556	leave 17762
+3557	leave 17763
+3558	leave 17764
+3559	leave 17765
+3560	leave 17766
+3561	leave 17771
+3562	leave 17772
+3563	leave 17773
+3564	leave 17774
+3565	leave 17775
+3566	leave 17776
+3567	leave 17782
+3568	leave 17783
+3569	leave 17784
+3570	leave 17787
+3571	leave 17788
+3572	leave 17789
+3573	leave 17781
+3574	leave 17794
+3575	leave 17795
+3576	leave 17797
+3577	leave 17798
+3578	leave 17799
+3579	leave 17800
+3580	leave 17801
+3581	leave 17806
+3582	leave 17807
+3583	leave 17809
+3584	leave 17810
+3585	leave 17791
+3586	leave 17814
+3587	leave 17818
+3588	leave 17819
+3589	leave 17820
+3590	leave 17822
+3591	leave 17823
+3592	leave 17824
+3593	leave 17825
+3594	leave 17826
+3595	leave 17827
+3596	leave 17828
+3597	leave 17829
+3598	leave 17831
+3599	leave 17832
+3600	hear
+3601	leave 17840
+3602	leave 17841
+3603	leave 17853
+3604	leave 17854
+3605	leave 17855
+3606	leave 17856
+3607	leave 17857
+3608	leave 17858
+3609	leave 17860
+3610	leave 17861
+3611	leave 17862
+3612	leave 17863
+3613	leave 17864
+3614	leave 17867
+3615	leave 17868
+3616	leave 17869
+3617	leave 17852
+3618	leave 17872
+3619	leave 17873
+3620	leave 17874
+3621	leave 17875
+3622	leave 17876
+3623	leave 17878
+3624	leave 17879
+3625	leave 17880
+3626	leave 17865
+3627	leave 17882
+3628	leave 17883
+3629	leave 17885
+3630	leave 17886
+3631	leave 17888
+3632	leave 17889
+3633	leave 17894
+3634	leave 17895
+3635	leave 17871
+3636	leave 17909
+3637	leave 17910
+3638	leave 17911
+3639	leave 17919
+3640	leave 17921
+3641	leave 17924
+3642	leave 17925
+3643	leave 17926
+3644	leave 18004
+3645	leave 18005
+3646	leave 18006
+3647	Oshiruk
+3648	leave 18079
+3649	leave 18080
+3650	leave 18084
+3651	leave 18085
+3652	leave 18091
+3653	leave 18092
+3654	leave 18105
+3655	leave 18115
+3656	leave 18116
+3657	leave 18117
+3658	leave 18120
+3659	leave 18121
+3660	leave 18138
+3661	leave 18139
+3662	leave 18140
+3663	leave 18141
+3664	leave 18142
+3665	leave 18143
+3666	leave 18147
+3667	leave 18148
+3668	leave 18149
+3669	leave 18154
+3670	leave 18155
+3671	leave 18158
+3672	leave 18161
+3673	leave 18162
+3674	leave 18165
+3675	leave 18166
+3676	leave 18167
+3677	leave 18168
+3678	leave 18169
+3679	leave 18170
+3680	leave 18160
+3681	leave 18171
+3682	leave 18172
+3683	leave 18175
+3684	leave 18176
+3685	leave 18178
+3686	leave 18179
+3687	leave 18180
+3688	leave 18183
+3689	leave 18184
+3690	leave 18185
+3691	leave 18190
+3692	leave 18192
+3693	leave 18193
+3694	leave 18188
+3695	leave 18189
+3696	leave 18199
+3697	leave 18197
+3698	leave 18201
+3699	leave 18202
+3700	leave 18207
+3701	leave 18200
+3702	leave 18208
+3703	tell
+3704	armies
+3705	darkness
+3706	orb
+3707	leave 18212
+3708	leave 18213
+3709	leave 18217
+3710	leave 18218
+3711	leave 18219
+3712	leave 18220
+3713	leave 18221
+3714	leave 18222
+3715	leave 18216
+3716	leave 18210
+3717	leave 18223
+3718	leave 18224
+3719	leave 18226
+3720	leave 18230
+3721	leave 18225
+3722	leave 18233
+3723	leave 18242
+3724	leave 18243
+3725	leave 18245
+3726	leave 18246
+3727	leave 18248
+3728	leave 18251
+3729	leave 18254
+3730	leave 18255
+3731	leave 18257
+3732	leave 18258
+3733	leave 18261
+3734	leave 18256
+3735	leave 18264
+3736	leave 18265
+3737	leave 18266
+3738	leave 18286
+3739	leave 18287
+3740	leave 18288
+3741	leave 18289
+3742	leave 18290
+3743	leave 18268
+3744	leave 18267
+3745	leave 18296
+3746	leave 18297
+3747	leave 18299
+3748	leave 18295
+3749	leave 18285
+3750	summon
+3751	leave 18305
+3752	leave 18306
+3753	leave 18377
+3754	leave 18355
+3755	leave 18380
+3756	leave 18358
+3757	leave 18387
+3758	leave 18388
+3759	leave 18385
+3760	leave 18396
+3761	leave 18398
+3762	leave 18399
+3763	leave 18407
+3764	leave 18408
+3765	leave 18415
+3766	leave 18422
+3767	leave 18432
+3768	leave 18433
+3769	leave 18435
+3770	leave 18438
+3771	leave 18439
+3772	leave 18440
+3773	leave 18437
+3774	leave 18429
+3775	leave 18431
+3776	leave 18448
+3777	leave 18449
+3778	leave 18450
+3779	leave 18451
+3780	leave 18452
+3781	leave 18453
+3782	leave 18458
+3783	leave 18459
+3784	leave 18460
+3785	leave 18487
+3786	leave 18477
+3787	leave 18500
+3788	leave 18501
+3789	leave 18517
+3790	leave 18520
+3791	leave 18527
+3792	leave 18528
+3793	leave 18534
+3794	leave 18541
+3795	leave 18542
+3796	leave 18543
+3797	leave 18544
+3798	leave 18545
+3799	leave 18563
+3800	leave 18564
+3801	leave 18565
+3802	leave 18566
+3803	leave 18567
+3804	leave 18568
+3805	leave 18570
+3806	leave 18571
+3807	leave 18575
+3808	leave 18576
+3809	leave 18577
+3810	leave 18581
+3811	leave 18582
+3812	leave 18583
+3813	leave 18561
+3814	leave 18560
+3815	leave 18573
+3816	leave 18588
+3817	leave 18589
+3818	leave 18590
+3819	leave 18595
+3820	leave 18596
+3821	leave 18597
+3822	leave 18593
+3823	leave 18602
+3824	leave 18603
+3825	leave 18604
+3826	leave 18613
+3827	expecting
+3828	simple task
+3829	delicacies
+3830	menace
+3831	sunless nectar
+3832	ancient creature
+3833	choose to continue
+3834	battle
+3835	leave 18621
+3836	leave 18616
+3837	leave 18623
+3838	final task
+3839	leave 18639
+3840	leave 18637
+3841	leave 18638
+3842	leave 18643
+3843	leave 18654
+3844	leave 18646
+3845	leave 18651
+3846	leave 18679
+3847	leave 18683
+3848	leave 18685
+3849	leave 18690
+3850	leave 18696
+3851	leave 18695
+3852	leave 18702
+3853	leave 18705
+3854	leave 18720
+3855	leave 18736
+3856	leave 18737
+3857	leave 18739
+3858	leave 18741
+3859	leave 18742
+3860	leave 18743
+3861	leave 18735
+3862	leave 18748
+3863	leave 18751
+3864	leave 18767
+3865	leave 18768
+3866	leave 18769
+3867	leave 18770
+3868	leave 18771
+3869	leave 18772
+3870	leave 18773
+3871	leave 18775
+3872	leave 18782
+3873	leave 18783
+3874	leave 18784
+3875	leave 18788
+3876	leave 18789
+3877	leave 18796
+3878	leave 18807
+3879	leave 18795
+3880	leave 18793
+3881	leave 18816
+3882	leave 18817
+3883	leave 18818
+3884	leave 18819
+3885	leave 18820
+3886	leave 18822
+3887	leave 18824
+3888	leave 18841
+3889	leave 18842
+3890	leave 18848
+3891	leave 18849
+3892	leave 18843
+3893	leave 18851
+3894	leave 18852
+3895	leave 18864
+3896	leave 18878
+3897	leave 18875
+3898	leave 18904
+3899	leave 18905
+3900	leave 18885
+3901	leave 18908
+3902	leave 18900
+3903	leave 18921
+3904	leave 18924
+3905	leave 18925
+3906	leave 18926
+3907	leave 18928
+3908	leave 18943
+3909	leave 18945
+3910	leave 18968
+3911	leave 18970
+3912	leave 18971
+3913	leave 18969
+3914	leave 18979
+3915	leave 18983
+3916	leave 19043
+3917	leave 19046
+3918	leave 19055
+3919	leave 19063
+3920	leave 19064
+3921	leave 19065
+3922	leave 19056
+3923	leave 19073
+3924	leave 19075
+3925	leave 19076
+3926	leave 19081
+3927	leave 19082
+3928	leave 19083
+3929	leave 19072
+3930	leave 19087
+3931	leave 19088
+3932	leave 19101
+3933	leave 19099
+3934	leave 19105
+3935	leave 19108
+3936	leave 19109
+3937	leave 19111
+3938	leave 19116
+3939	leave 19117
+3940	leave 19112
+3941	leave 19118
+3942	leave 19122
+3943	leave 19123
+3944	leave 19124
+3945	leave 19119
+3946	leave 19127
+3947	leave 19128
+3948	leave 19129
+3949	leave 19134
+3950	leave 19142
+3951	leave 19149
+3952	leave 19145
+3953	leave 19160
+3954	leave 19161
+3955	leave 19172
+3956	leave 19170
+3957	leave 19180
+3958	leave 19187
+3959	leave 19196
+3960	leave 19200
+3961	leave 19218
+3962	leave 19239
+3963	leave 19240
+3964	leave 19242
+3965	leave 19243
+3966	leave 19244
+3967	leave 19237
+3968	leave 19241
+3969	leave 19252
+3970	leave 19264
+3971	leave 19248
+3972	leave 19272
+3973	leave 19273
+3974	leave 19275
+3975	leave 19276
+3976	leave 19277
+3977	leave 19274
+3978	leave 19280
+3979	leave 19281
+3980	test
+3981	leave 19305
+3982	leave 19306
+3983	leave 19348
+3984	leave 19341
+3985	leave 19380
+3986	leave 19381
+3987	leave 19382
+3988	leave 19389
+3989	leave 19402
+3990	leave 19403
+3991	leave 19410
+3992	leave 19411
+3993	leave 19412
+3994	leave 19413
+3995	leave 19414
+3996	leave 19415
+3997	leave 19404
+3998	leave 19420
+3999	leave 19421
+4000	leave 19422
+4001	leave 19423
+4002	leave 19424
+4003	leave 19409
+4004	leave 19426
+4005	leave 19427
+4006	leave 19428
+4007	leave 19429
+4008	leave 19430
+4009	leave 19431
+4010	leave 19432
+4011	leave 19433
+4012	leave 19434
+4013	leave 19435
+4014	leave 19436
+4015	leave 19437
+4016	leave 19447
+4017	leave 19448
+4018	leave 19449
+4019	leave 19441
+4020	leave 19442
+4021	leave 19456
+4022	leave 19462
+4023	leave 19472
+4024	leave 19473
+4025	leave 19474
+4026	leave 19475
+4027	leave 19476
+4028	leave 19480
+4029	leave 19481
+4030	leave 19482
+4031	leave 19483
+4032	leave 19484
+4033	leave 19485
+4034	leave 19486
+4035	leave 19487
+4036	leave 19488
+4037	leave 19489
+4038	leave 19490
+4039	leave 19546
+4040	leave 19573
+4041	leave 19574
+4042	leave 19575
+4043	leave 19581
+4044	leave 19582
+4045	leave 19583
+4046	leave 19584
+4047	leave 19585
+4048	leave 19586
+4049	leave 19587
+4050	leave 19588
+4051	leave 19591
+4052	leave 19637
+4053	leave 19638
+4054	leave 19644
+4055	leave 19643
+4056	leave 19646
+4057	leave 19647
+4058	leave 19657
+4059	leave 19662
+4060	leave 19667
+4061	leave 19672
+4062	leave 19693
+4063	leave 19696
+4064	leave 19714
+4065	leave 19715
+4066	leave 19716
+4067	leave 19723
+4068	leave 19724
+4069	leave 19725
+4070	leave 19722
+4071	leave 19729
+4072	leave 19730
+4073	leave 19731
+4074	leave 19757
+4075	leave 19758
+4076	leave 19759
+4077	leave 19764
+4078	leave 19765
+4079	leave 19766
+4080	leave 19767
+4081	leave 19768
+4082	leave 19769
+4083	leave 19770
+4084	leave 19771
+4085	leave 19773
+4086	leave 19774
+4087	leave 19785
+4088	leave 19797
+4089	leave 19801
+4090	leave 19802
+4091	leave 19803
+4092	leave 19811
+4093	leave 19815
+4094	leave 19816
+4095	leave 19817
+4096	leave 19818
+4097	leave 19819
+4098	leave 19821
+4099	leave 19823
+4100	leave 19824
+4101	leave 19825
+4102	leave 19826
+4103	leave 19827
+4104	leave 19832
+4105	leave 19870
+4106	leave 19871
+4107	leave 19872
+4108	leave 19873
+4109	leave 19874
+4110	leave 19876
+4111	leave 19877
+4112	leave 19879
+4113	leave 19880
+4114	leave 19894
+4115	leave 19895
+4116	leave 19897
+4117	leave 19900
+4118	leave 19901
+4119	leave 19902
+4120	leave 19903
+4121	leave 19905
+4122	leave 19906
+4123	leave 19919
+4124	leave 19931
+4125	leave 19934
+4126	leave 19940
+4127	leave 19936
+4128	leave 19946
+4129	leave 19947
+4130	leave 19948
+4131	leave 19944
+4132	leave 19938
+4133	like the wasichu
+4134	find him
+4135	taken by force
+4136	protected
+4137	trusik
+4138	prevailed
+4139	see
+4140	great gift
+4141	talisman
+4142	Bantil
+4143	Primals
+4144	seek
+4145	spiritcaller
+4146	caller
+4147	fooled
+4148	prepared for the ceremony
+4149	faithful heyokah
+4150	leave 19977
+4151	leave 19978
+4152	leave 19980
+4153	leave 19981
+4154	leave 19982
+4155	leave 19983
+4156	leave 19984
+4157	leave 19976
+4158	leave 19999
+4159	leave 20000
+4160	leave 20001
+4161	leave 20002
+4162	leave 20003
+4163	leave 20005
+4164	leave 20006
+4165	leave 20007
+4166	leave 20008
+4167	leave 20009
+4168	leave 20011
+4169	leave 20012
+4170	leave 20015
+4171	leave 20016
+4172	leave 20018
+4173	leave 20019
+4174	leave 20022
+4175	leave 20023
+4176	leave 20024
+4177	leave 20020
+4178	leave 20030
+4179	leave 20013
+4180	leave 20032
+4181	leave 20033
+4182	leave 20031
+4183	leave 20010
+4184	leave 20035
+4185	leave 20039
+4186	leave 20040
+4187	leave 20034
+4188	leave 20043
+4189	leave 20044
+4190	leave 20049
+4191	leave 20048
+4192	leave 20067
+4193	leave 20068
+4194	leave 20072
+4195	leave 20074
+4196	leave 20088
+4197	leave 20104
+4198	leave 20103
+4199	leave 20106
+4200	leave 20107
+4201	leave 20121
+4202	leave 20123
+4203	purification expert
+4204	leave 20131
+4205	leave 20142
+4206	leave 20143
+4207	leave 20145
+4208	leave 20146
+4209	plan to find
+4210	travel to Iceclad
+4211	map
+4212	plans
+4213	shank
+4214	job
+4215	leave 20167
+4216	leave 20168
+4217	leave 20171
+4218	leave 20172
+4219	leave 20173
+4220	leave 20174
+4221	leave 20175
+4222	leave 20191
+4223	leave 20192
+4224	go home
+4225	kit
+4226	last items
+4227	last item
+4228	leave 20190
+4229	won't give you da sword
+4230	leave 20196
+4231	leave 20198
+4232	leave 20199
+4233	leave 20200
+4234	leave 20201
+4235	leave 20202
+4236	leave 20203
+4237	leave 20204
+4238	leave 20205
+4239	leave 20207
+4240	leave 20208
+4241	leave 20209
+4242	leave 20210
+4243	leave 20213
+4244	leave 20214
+4245	leave 20217
+4246	leave 20218
+4247	leave 20206
+4248	leave 20221
+4249	leave 20222
+4250	leave 20223
+4251	leave 20224
+4252	leave 20225
+4253	leave 20215
+4254	leave 20227
+4255	leave 20228
+4256	leave 20229
+4257	leave 20232
+4258	leave 20233
+4259	leave 20234
+4260	leave 20220
+4261	leave 20238
+4262	leave 20239
+4263	leave 20212
+4264	leave 20244
+4265	travel to North Ro
+4266	teleport you near there
+4267	souvenirs
+4268	special brew
+4269	leave 20260
+4270	leave 20261
+4271	leave 20262
+4272	leave 20263
+4273	leave 20264
+4274	know
+4275	There is more
+4276	world
+4277	trapped spirits
+4278	keep
+4279	agree to take on this charge
+4280	strong
+4281	lost
+4282	leave 20310
+4283	leave 20311
+4284	leave 20312
+4285	leave 20322
+4286	leave 20324
+4287	leave 20331
+4288	leave 20332
+4289	leave 20334
+4290	leave 20335
+4291	leave 20337
+4292	leave 20338
+4293	leave 20341
+4294	leave 20342
+4295	leave 20344
+4296	leave 20345
+4297	leave 20348
+4298	leave 20349
+4299	leave 20350
+4300	leave 20351
+4301	leave 20352
+4302	leave 20329
+4303	leave 20357
+4304	leave 20358
+4305	leave 20359
+4306	leave 20364
+4307	leave 20365
+4308	leave 20366
+4309	adventurers
+4310	leave 20374
+4311	leave 20377
+4312	leave 20376
+4313	leave 20392
+4314	leave 20393
+4315	leave 20394
+4316	leave 20395
+4317	leave 20396
+4318	leave 20397
+4319	leave 20387
+4320	leave 20447
+4321	leave 20448
+4322	leave 20449
+4323	leave 20451
+4324	leave 20452
+4325	leave 20453
+4326	leave 20454
+4327	leave 20455
+4328	leave 20456
+4329	leave 20457
+4330	leave 20458
+4331	leave 20460
+4332	leave 20461
+4333	leave 20462
+4334	leave 20476
+4335	leave 20477
+4336	leave 20481
+4337	leave 20482
+4338	leave 20485
+4339	leave 20486
+4340	leave 20487
+4341	leave 20494
+4342	leave 20506
+4343	leave 20510
+4344	leave 20511
+4345	leave 20512
+4346	leave 20513
+4347	leave 20514
+4348	leave 20515
+4349	leave 20516
+4350	leave 20517
+4351	leave 20518
+4352	leave 20519
+4353	leave 20520
+4354	leave 20521
+4355	leave 20522
+4356	leave 20523
+4357	leave 20524
+4358	leave 20527
+4359	leave 20528
+4360	leave 20539
+4361	leave 20540
+4362	leave 20530
+4363	leave 20542
+4364	leave 20541
+4365	leave 20545
+4366	leave 20546
+4367	leave 20547
+4368	leave 20548
+4369	leave 20549
+4370	leave 20550
+4371	leave 20551
+4372	leave 20552
+4373	leave 20554
+4374	leave 20555
+4375	leave 20553
+4376	leave 20556
+4377	leave 20557
+4378	leave 20558
+4379	leave 20564
+4380	leave 20565
+4381	leave 20559
+4382	leave 20574
+4383	leave 20575
+4384	leave 20576
+4385	leave 20570
+4386	leave 20581
+4387	leave 20582
+4388	leave 20583
+4389	leave 20588
+4390	leave 20589
+4391	leave 20590
+4392	leave 20594
+4393	leave 20595
+4394	leave 20596
+4395	leave 20603
+4396	leave 20604
+4397	leave 20606
+4398	leave 20607
+4399	leave 20609
+4400	leave 20610
+4401	leave 20611
+4402	leave 20612
+4403	leave 20613
+4404	leave 20614
+4405	leave 20605
+4406	leave 20618
+4407	leave 20619
+4408	leave 20620
+4409	leave 20600
+4410	leave 20608
+4411	leave 20627
+4412	leave 20628
+4413	leave 20629
+4414	leave 20630
+4415	leave 20631
+4416	leave 20632
+4417	leave 20625
+4418	leave 20637
+4419	leave 20638
+4420	leave 20639
+4421	leave 20640
+4422	leave 20641
+4423	leave 20643
+4424	leave 20644
+4425	leave 20645
+4426	leave 20646
+4427	leave 20647
+4428	leave 20642
+4429	leave 20654
+4430	leave 20655
+4431	leave 20648
+4432	leave 20659
+4433	leave 20660
+4434	leave 20649
+4435	leave 20663
+4436	leave 20661
+4437	leave 20665
+4438	leave 20666
+4439	leave 20667
+4440	leave 20668
+4441	leave 20669
+4442	leave 20670
+4443	leave 20671
+4444	leave 20672
+4445	leave 20673
+4446	leave 20695
+4447	leave 20696
+4448	leave 20697
+4449	leave 20710
+4450	leave 20711
+4451	leave 20741
+4452	leave 20746
+4453	leave 20747
+4454	leave 20749
+4455	leave 20750
+4456	leave 20752
+4457	leave 20753
+4458	leave 20744
+4459	leave 20751
+4460	leave 20760
+4461	leave 20761
+4462	leave 20771
+4463	leave 20772
+4464	leave 20762
+4465	leave 20774
+4466	leave 20775
+4467	leave 20776
+4468	leave 20773
+4469	leave 20777
+4470	leave 20778
+4471	leave 20789
+4472	leave 20794
+4473	leave 20823
+4474	leave 20824
+4475	leave 20827
+4476	leave 20828
+4477	leave 20849
+4478	leave 20850
+4479	leave 20840
+4480	leave 20851
+4481	leave 20855
+4482	leave 20856
+4483	leave 20857
+4484	leave 20863
+4485	leave 20864
+4486	leave 20865
+4487	leave 20872
+4488	leave 20873
+4489	leave 20875
+4490	leave 20886
+4491	leave 20882
+4492	make the totem
+4493	here to help
+4494	leave 20892
+4495	leave 20894
+4496	leave 20896
+4497	leave 20897
+4498	leave 20898
+4499	leave 20899
+4500	leave 20900
+4501	leave 20901
+4502	leave 20903
+4503	leave 20904
+4504	leave 20906
+4505	bronze breastplate
+4506	Lairyn Debeian
+4507	Wren Simsy
+4508	Longarm Larithim
+4509	Durgin Skell
+4510	Keetra the Lost
+4511	know who is guilty
+4512	leave 20907
+4513	hear the tale
+4514	what happened then
+4515	leave 20912
+4516	one crime
+4517	leave 20940
+4518	into a martyr
+4519	no one wants needless bloodshed
+4520	leave 20950
+4521	leave 20955
+4522	leave 20966
+4523	leave 20977
+4524	leave 20979
+4525	leave 20980
+4526	leave 20987
+4527	leave 20990
+4528	leave 20992
+4529	leave 20993
+4530	leave 20994
+4531	leave 20989
+4532	Another way
+4533	learn about da animals
+4534	second
+4535	third
+4536	final
+4537	leave 21011
+4538	leave 21018
+4539	fight like da alligator
+4540	next part of your training
+4541	one more task
+4542	leave 21069
+4543	leave 21070
+4544	leave 21072
+4545	leave 21073
+4546	leave 21074
+4547	leave 21071
+4548	leave 21077
+4549	leave 21078
+4550	leave 21080
+4551	leave 21081
+4552	leave 21091
+4553	leave 21094
+4554	leave 21099
+4555	leave 21100
+4556	leave 21103
+4557	leave 21096
+4558	leave 21112
+4559	leave 21113
+4560	leave 21114
+4561	leave 21120
+4562	leave 21121
+4563	leave 21122
+4564	leave 21126
+4565	leave 21127
+4566	leave 21128
+4567	leave 21129
+4568	leave 21130
+4569	leave 21131
+4570	leave 21134
+4571	leave 21135
+4572	leave 21137
+4573	leave 21138
+4574	leave 21136
+4575	leave 21141
+4576	leave 21142
+4577	leave 21144
+4578	leave 21145
+4579	leave 21147
+4580	leave 21148
+4581	leave 21150
+4582	leave 21151
+4583	leave 21154
+4584	leave 21155
+4585	leave 21152
+4586	leave 21159
+4587	leave 21160
+4588	leave 21163
+4589	leave 21164
+4590	leave 21165
+4591	leave 21166
+4592	leave 21167
+4593	leave 21168
+4594	leave 21169
+4595	leave 21170
+4596	leave 21171
+4597	leave 21172
+4598	leave 21173
+4599	leave 21174
+4600	leave 21175
+4601	leave 21176
+4602	leave 21177
+4603	leave 21180
+4604	leave 21181
+4605	leave 21182
+4606	leave 21183
+4607	leave 21184
+4608	leave 21187
+4609	leave 21188
+4610	leave 21189
+4611	leave 21190
+4612	leave 21191
+4613	leave 21178
+4614	leave 21185
+4615	leave 21193
+4616	leave 21194
+4617	leave 21196
+4618	leave 21197
+4619	leave 21198
+4620	leave 21200
+4621	leave 21201
+4622	leave 21202
+4623	leave 21204
+4624	leave 21205
+4625	leave 21206
+4626	leave 21208
+4627	leave 21209
+4628	leave 21210
+4629	leave 21212
+4630	leave 21213
+4631	leave 21215
+4632	leave 21216
+4633	leave 21217
+4634	leave 21218
+4635	leave 21219
+4636	leave 21220
+4637	leave 21221
+4638	leave 21229
+4639	leave 21230
+4640	leave 21231
+4641	leave 21232
+4642	leave 21233
+4643	leave 21234
+4644	leave 21235
+4645	leave 21236
+4646	leave 21237
+4647	leave 21239
+4648	leave 21240
+4649	leave 21241
+4650	leave 21244
+4651	leave 21245
+4652	leave 21246
+4653	leave 21247
+4654	leave 21248
+4655	leave 21260
+4656	leave 21261
+4657	leave 21262
+4658	leave 21263
+4659	leave 21264
+4660	leave 21268
+4661	leave 21269
+4662	leave 21282
+4663	leave 21283
+4664	leave 21284
+4665	leave 21285
+4666	leave 21286
+4667	leave 21288
+4668	leave 21289
+4669	leave 21292
+4670	leave 21293
+4671	leave 21305
+4672	leave 21304
+4673	leave 21308
+4674	leave 21309
+4675	leave 21310
+4676	leave 21313
+4677	leave 21314
+4678	leave 21315
+4679	leave 21317
+4680	leave 21318
+4681	leave 21320
+4682	leave 21321
+4683	leave 21323
+4684	leave 21324
+4685	leave 21325
+4686	leave 21326
+4687	leave 21327
+4688	leave 21319
+4689	leave 21330
+4690	leave 21331
+4691	leave 21328
+4692	leave 21333
+4693	leave 21334
+4694	leave 21332
+4695	leave 21335
+4696	leave 21338
+4697	leave 21339
+4698	leave 21351
+4699	leave 21352
+4700	leave 21353
+4701	leave 21354
+4702	leave 21355
+4703	leave 21356
+4704	leave 21359
+4705	leave 21360
+4706	leave 21361
+4707	leave 21363
+4708	leave 21364
+4709	leave 21367
+4710	leave 21368
+4711	leave 21369
+4712	leave 21365
+4713	leave 21372
+4714	leave 21373
+4715	leave 21374
+4716	leave 21380
+4717	leave 21381
+4718	leave 21382
+4719	leave 21387
+4720	leave 21388
+4721	leave 21389
+4722	leave 21394
+4723	leave 21395
+4724	leave 21396
+4725	leave 21398
+4726	leave 21399
+4727	leave 21419
+4728	leave 21420
+4729	leave 21421
+4730	leave 21423
+4731	leave 21424
+4732	leave 21425
+4733	leave 21432
+4734	leave 21433
+4735	leave 21434
+4736	leave 21435
+4737	leave 21436
+4738	leave 21437
+4739	leave 21472
+4740	leave 21473
+4741	leave 21475
+4742	leave 21476
+4743	leave 21495
+4744	leave 21499
+4745	leave 21500
+4746	leave 21502
+4747	leave 21503
+4748	leave 21535
+4749	leave 21540
+4750	leave 21581
+4751	leave 21592
+4752	leave 21644
+4753	leave 21655
+4754	leave 21656
+4755	leave 21657
+4756	leave 21676
+4757	leave 21677
+4758	leave 21695
+4759	leave 21696

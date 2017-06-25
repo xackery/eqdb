@@ -1,0 +1,501 @@
+1	Agents of Mistmoore	-1100
+2	Agnarr	-1000
+3	Akheva	-900
+4	Allize Taeew	-850
+5	Allize Volew	-650
+6	Anchorites of Brell Serilis	-100
+8	Anti-mage	0
+9	Antonius Bayle	0
+10	Arboreans of Faydark	-500
+11	Arcane Scientists	0
+12	Ashen Order	0
+13	Askr the Lost	0
+14	Aviak	-350
+15	Banker	0
+16	Battalion of Marr	-600
+17	Befallen Inhabitants	-1000
+18	Beta Neutral	0
+19	Betrayers of Di`Zok	-1000
+20	Bloodgills	0
+21	Bloodsabers	0
+22	Broken Skull Clan	0
+23	Brood of Di`Zok	-250
+24	Brood of Kotiz	-700
+25	Brood of Ssraeshza	-1000
+26	Brownie	-701
+27	Burning Dead	0
+28	Burynai Legion	-400
+29	Butcherblock Bandits	-800
+30	Cabilis Residents	-700
+31	Carson McCabe	0
+32	Chetari	0
+33	Circle of Unseen Hands	0
+35	Citizens of Gukta	0
+36	Citizens of Qeynos	0
+37	Citizens of Seru	0
+38	Citizens of Takish-Hiz	-701
+39	Clan Grikbar	-1000
+40	Clan Kolbok	-750
+41	Clan RunnyEye	-750
+42	Claws of Veeshan	-250
+43	Clerics of Tunare	-100
+44	Clerics of Underfoot	0
+45	Clockwork Gnome	0
+46	Clurg	0
+47	Coalition of Trade Folk	0
+48	Coalition of Tradefolk Underground	0
+49	Coldain	-100
+50	Combine Empire	0
+51	Commons Residents	0
+52	Concillium Universus	0
+53	Corrupt Qeynos Guards	0
+54	Coterie Elite	0
+55	Coterie of the Eternal Night	-1000
+56	Craftkeepers	0
+57	Craknek Warriors	0
+58	Creatures of Justice	0
+59	Creatures of Taelosia	-500
+60	Crimson Hands	0
+61	Critters of Jaggedpine	0
+62	Crusaders of Greenmist	-1101
+63	Crushbone Orcs	-750
+64	Cult of the Arisen	0
+65	Cult of the Great Saprophyte	0
+66	Da Bashers	-1001
+67	Dain Frostreaver IV	-100
+68	Dar Khura	0
+69	Dark Bargainers	0
+70	Dark Ones	0
+71	Dark Reflection	0
+72	Dark Sendings	-701
+73	Darkpaws of Jaggedpine	-999
+74	Dawnhoppers	-350
+75	Deathfist Orcs	-800
+76	Deep Muses	0
+77	Deeppockets	0
+78	Deepshade Collective	-1000
+79	Deepwater Knights	0
+80	Defective Clockwork	-350
+81	Defenders of the Haven	-100
+82	Denizens of Fear	-1000
+83	Dervish Cutthroats	-100
+84	Disciples of Kerafyrm	0
+85	Disciples of Rhag`Zadune	-600
+86	Dismal Rage	0
+87	Dreadguard Inner	-500
+88	Dreadguard Outer	-500
+89	Drusella Sathir	-1000
+90	Ebon Mask	0
+91	Eldritch Collective	0
+92	Emerald Warriors	-100
+93	Emperor Ssraeshza	-1000
+94	Evil Eye	0
+95	Exiled Frogloks	0
+96	Eye of Seru	0
+97	Faerie	500
+98	Fallen of Bloody Kithicor	-1000
+99	Faydark's Champions	-100
+100	FelGuard	0
+101	Firiona Vie	-100
+102	Fizzlethorpe	0
+103	Followers of Korucust	-1000
+104	Forgotten Guktan Spirits	-701
+105	Freeport Militia	-100
+106	Frogloks of Guk	-100
+107	Frogloks of Krup	0
+108	Frogloks of Kunark	-200
+109	Frogloks of Sebilis	-700
+110	Frostfoot Goblins	-701
+111	Fungus Man	-550
+112	Gate Callers	0
+113	Gate Keepers	0
+114	Gelistial	0
+115	Gem Choppers	-100
+116	Geonid Collective	-100
+117	Ghouls of Neriak	-1500
+118	Goblin	-750
+119	Goblins of Cleaving Tooth	-750
+120	Goblins of Fire Peak	-1000
+121	Goblins of Mountain Death	-850
+122	Gor Taku	0
+123	Gralloks	0
+124	Greater Brann Giants	-900
+125	Greater Jord Giants	-900
+126	Greater Vann Giants	-900
+127	Greater Vind Giants	-900
+128	Green Blood Knights	0
+129	Grieg	-701
+130	Grimlings of the Moor	-1000
+131	Grobb Merchants	-1000
+132	Guardians of Shar Vahl	0
+133	Guardians of the Vale	0
+134	Guardians of Veeshan	-1000
+135	Guards of Qeynos	-100
+136	Guktan Elders	0
+137	Hall of the Ebon Mask	0
+138	Hand Legionnaries	0
+139	Hand of Seru	0
+140	Haven Defenders	-100
+141	Haven Smugglers	0
+142	Heart of Seru	0
+143	Heretics	-701
+144	Hexxt	-1000
+145	High Council of Erudin	0
+146	High Council of Gukta	0
+147	High Guard of Erudin	-100
+148	HighHold Citizens	0
+149	Highpass Guards	-100
+150	Holgresh	-250
+151	Horde of Xalgoz	-1000
+152	House of Fordel	-500
+153	House of Midst	-500
+154	House of Stout	-100
+155	Indigo Brotherhood	-500
+156	Inhabitants of Hate	-1000
+157	Inhabitants of Tanaan	0
+158	Innoruuk's Curse of the Cauldron	-1000
+159	Jaggedpine Treefolk	0
+160	Jaled-Dar	0
+161	Johanius Barleou	0
+162	Kaladim Citizens	0
+164	Kane Bayle	0
+165	Karana	0
+166	Karana Bandits	-800
+167	Karana Residents	0
+168	Katta Castellum Citizens	0
+169	Kazon Stormhammer	0
+170	Keepers of the Art	0
+171	Keepers of the Claw	0
+172	Kejek Village	0
+173	Kejekan	250
+174	Kelethin Merchants	-100
+175	Kerra Isle	0
+176	King Ak'Anon	-100
+177	King Naythox Thex	0
+178	King Tearis Thex	0
+179	King Tormax	-1000
+180	King Xorbb	-1200
+181	Kingdom of Above and Below	0
+182	Kithicor Residents	0
+183	Knights of Thunder	0
+184	Knights of Truth	-100
+185	Kobold	0
+186	Kobolds of Fire Pit	-1000
+187	Krag	-200
+188	Kromrif	-100
+189	Kromzek	-1000
+190	Kunark Fire Giants	-900
+191	Lake Recondite Bandits	-1000
+192	League of Antonican Bards	0
+193	Legion of Cabilis	-1101
+194	Legion of Mata Muram	-1000
+195	Lesser Brann Giants	-900
+196	Lesser Jord Giants	-900
+197	Lesser Vann Giants	-900
+198	Lesser Vind Giants	-900
+199	Lithiniath	0
+200	Lizard Man	0
+201	Lodikai	-1500
+202	Lorekeepers of Gukta	0
+203	Lost Kingdom of Lok	-1000
+204	Lost Minions of Miragul	-1000
+205	Luclin	0
+206	Magus Conlegium	0
+207	Mayong Mistmoore	-1250
+208	Mayor Gubbin	0
+209	Meldrath	0
+210	Merchants of Ak'Anon	-100
+211	Merchants of Erudin	-99
+212	Merchants of Felwithe	-100
+213	Merchants of Halas	-100
+214	Merchants of Highpass	-100
+215	Merchants of Kaladim	-100
+216	Merchants of Ogguk	-1000
+217	Merchants of Qeynos	0
+218	Merchants of Rivervale	-100
+219	Miners Guild 249	0
+220	Miners Guild 628	0
+221	Minions of Scale	0
+222	Minions of the Sunlord	0
+223	Minions of Underfoot	-801
+224	Mucktail Gnolls	-75
+225	Nadox Initiate	-701
+226	Nagafen	-900
+227	Najena	-1000
+228	Nathyn Illuminious	0
+229	Neriak Trolls	0
+230	New Alliance of Stone	0
+231	Nihil	-699
+232	Oggok Guards	-1000
+233	Oggok Citizens	0
+234	Ogre Warriors	0
+235	Opal Dark Briar	0
+236	Oracle of Karnon	0
+237	Oracle of Marud	0
+238	Orc	-700
+239	Order of Autarkic Umbrage	0
+240	Order of Three	0
+241	Othmir	-50
+242	Outcasts and Mutants	0
+243	Pack of Tomar	-800
+244	Paebala	-200
+245	Paladins of Gukta	0
+246	Paladins of Underfoot	0
+247	Peace Keepers	0
+248	Phinigel Autropos	-701
+249	Pickclaw Goblins	-1000
+250	Pirates of Gunthak	-800
+251	Pirates of Iceclad	0
+252	Pirates of the Pine	-701
+253	Pixie	-50
+254	Pixtt	-1000
+255	Prexuz	0
+256	Priests of Innoruuk	-600
+257	Priests of Life	0
+258	Priests of Marr	0
+259	Priests of Mischief	0
+260	Primordial Malice	0
+261	Prisoners of Justice	0
+262	Progeny	-701
+263	Protectors of Growth	0
+264	Protectors of Gukta	0
+265	Protectors of Pine	-100
+267	QRG Protected Animals	0
+268	Queen Cristanos Thex	0
+269	Rallos Zek	0
+270	Rav	-1000
+271	Residents of Jaggedpine	-100
+272	Residents of Karanas	0
+273	Ring of Scale	-500
+274	Riptide Goblins	-750
+275	Rogues of the White Rose	0
+276	Root of Innuruuk	0
+277	Rujarkian Slavers	-701
+278	Rygorr Clan Snow Orcs	-750
+279	Sabertooths of Blackburrow	-700
+280	Sandworkers	-701
+281	Sarnak Collective	-700
+282	Scaled Mystics	-1100
+283	Tunare's Scouts	-100
+284	Seru	0
+285	Servants of Aero	0
+286	Servants of Hydro	0
+287	Servants of Inferno	0
+288	Servants of Saryrn	-1000
+289	Servants of Terra	0
+290	Servants of Tunare	0
+291	Shadowed Men	-1000
+292	Shadowknights of Night Keep	0
+293	Shak Dratha	-701
+294	Shamen of Justice	0
+295	Shamen of War	0
+296	Shei Vinitras	0
+297	Shik Nar	0
+298	Shoulders of Seru	0
+299	Shralock Orcs	-600
+300	Silent Fist Clan	0
+301	Sirens of the Grotto	-750
+302	Skytalons	50
+303	Snowfang Gnolls	-25
+304	Soldiers of Tunare	-100
+305	Solusek Mining Co	0
+306	Song Weavers	0
+307	Spirits of Katta Castellum	0
+308	Spirocs of Timorous	25
+309	Splitpaw Clan	-600
+310	Sporali	0
+311	Steel Warriors	0
+312	Steelslaves	-701
+313	Stone Hive Bixies	-1000
+314	Storm Guard	-100
+315	Storm Guardians	0
+316	Storm Reapers	0
+317	Swift Tails	-700
+318	Syrik Iceblood	0
+319	Taruun	0
+320	Temple of Solusek Ro	0
+321	The Cral Ligi Clan	0
+322	The Dead	0
+323	The Forsaken	-1000
+324	The Grol Baku Clan	0
+325	The HotWingz	-500
+326	The Kromdek	-900
+327	The Kromdul	-850
+328	The Rainkeeper	0
+329	The Recuso	0
+330	The Sambata Tribe	0
+331	The Spurned	0
+332	The Tro Jeg Clan	0
+333	The Truth	0
+334	The Vas Ren Clan	0
+335	Thought Leeches	-1000
+336	Thrall of Kly	-1000
+337	TizmakClan	0
+338	Traders of the Haven	-500
+339	Trakanon	-1000
+340	Treants of Jaggedpine	-50
+341	Tribe Vrodak	-1000
+342	True Spirit	0
+343	Tserrina Syl'Tor	-900
+344	Tunarean Court	0
+345	Ulthork	-650
+346	Undead Frogloks of Guk	-1000
+347	Unkempt Druids	-1000
+348	VahShir Crusaders	0
+349	Valdanov Zevfeer	0
+350	Validus Custodus	0
+351	Veeshan	0
+352	Velketor	-850
+353	Venril Sathir	0
+354	Vornol Transon	0
+355	Vox	-900
+356	Wayfarers Brotherhood	0
+357	Werewolf	-1000
+358	Whisperling	0
+359	Whistling Fist Brotherhood	0
+360	Wizards of Gukta	0
+361	Wolves of the North	-100
+362	Yelinak	0
+363	Yunjo Slave Resistance	-500
+364	Zazamoukh	0
+365	Zlandicar	-500
+366	KOS	-1000
+367	KOS_animal	0
+368	Cazic Thule	-1500
+369	Coalition of TradeFolk III	0
+370	Swamp Giants of Kunark	0
+371	Iksar	0
+372	Murrissa Sandwhisper	0
+373	Harbingers Clan	-1000
+374	Elementals	0
+375	Mermaids	0
+376	Unrest Inhabitants	-701
+377	Class 41	0
+378	Neriak Ogre	0
+379	King Aythox Thex	0
+380	Erudite Citizen	0
+381	Undead Residents of Kithicor	-1000
+382	Bertoxxulous	-900
+383	Cleaving Tooth Clan	-900
+384	Mountain Death Clan	-900
+385	Zordakalicus Ragefire	-1000
+386	Giant Spider	0
+388	Spire Spirits	0
+389	The Bloodtribe	0
+390	Tarmok Tribe	0
+391	Denizens of Mischief	0
+392	Grimlings of the Forest	-500
+393	Witnesses of Hate	-701
+394	Noobie Monsters KOS to Guards	0
+395	Crystal Caverns Terrors/Spiders/Crawlers	-1200
+396	Agents of Dreadspire	0
+397	Ankhefenmut	0
+398	Children of Dranik	0
+399	Citizens of Froststone	0
+400	Creatures of Darkhollow	0
+401	Creatures of Gloomingdeep	0
+402	Creep Reapers	0
+403	Cursed Drakes	0
+404	Dark Reign	0
+405	Death Fist Orcs	0
+406	Deep Sporali	0
+407	Defenders of the Broodlands	0
+408	Deklean Korgad	0
+409	Denizens of Discord	-1000
+410	Dranik Loyalists	-1000
+411	Expedition 328	0
+412	Fallen Guard of Illsalin	0
+414	Fizzlethorp	0
+415	Free Traders of Malgrinnor	0
+416	Gladiators of Mata Muram	-1000
+417	Greenfoot Goblins	0
+418	Inhabitants of Firiona Vie	-100
+419	Kaladim Merchants	0
+420	Kedge	0
+421	Kerra	0
+422	Kessdona	0
+423	Khati Sha	0
+424	Kobolds of Gloomingdeep	-1000
+425	Lanys T`Vyl	0
+426	Mermaid	0
+427	Minions of Tirranun	0
+428	Nest Guardians	0
+429	Norrath's Keepers	0
+430	Ogguk Residents	0
+431	Ogre	0
+432	Overlord Mata Muram	-1000
+433	Phingel Autropos	0
+434	Qeynos Citizens	0
+435	Riftseekers	-1000
+436	Rikkukin	0
+437	Scions of Dreadspire	0
+438	Scorchclaw Goblins	0
+439	Sky Talons	0
+440	Sporali Collective	0
+441	Stillmoon Acolytes	0
+442	Temple Of Sol Ro	0
+443	The Dark Alliance	0
+444	The Guardians	0
+445	Thunder Guardians	0
+446	Tirranun	0
+447	Trusik Tribe	-1000
+448	Vishimtar	0
+449	Volkara	0
+450	Volkara's Brood	0
+451	Yar`lir	0
+452	Orphans	0
+453	Sustainers	0
+454	Loyals	0
+455	Planar Collective	-600
+456	Verish Mal	-600
+457	Beetle	-700
+458	Gunthaks Clan	-1000
+459	Dulaks Clan	-1000
+460	Needlite	-700
+461	Underbulks	-700
+462	Wisps	0
+463	Indifferent	0
+464	Inhabitants of Air	0
+465	KOS Inhabitants of Air	-2000
+466	KOS Plane of Disease	-2000
+467	KOS Plane of Nightmare	-2000
+468	KOS Plane of Innovation	-2000
+469	KOS Plane of Time	-2000
+470	WehateThelin	0
+471	HoHMaiden	0
+472	Nadox Clan	-1000
+473	Warlord Ngrub	-2000
+474	Nitram	0
+475	Guards of Gloomingdeep	0
+476	Residents of Gloomingdeep	0
+480	Madmen	-1000
+481	Ancient Cyclops	-1000
+482	VillagerRoom	0
+483	Citizens of Sharvahl	0
+484	Guktan Suppliers	0
+485	OmensBatRat	0
+486	Neriak Merchants	0
+487	OmensMurks	-1500
+488	Planes_Neutral	0
+489	KOS Plane of Storms	-2000
+490	Paludal_Mushrooms	-1000
+491	Paludal_Underbulk	-500
+492	The_Angry_Sambata	-30000
+493	Crescent Guards	0
+494	Army of Light	-250
+496	Silla Herald	-250
+497	Ak'Anon Strike Force V	-250
+498	Ancestors of Valdeholm	-250
+499	Ancestors of the Crypt	-250
+500	Spider	0
+501	Koka'Vor Tribe	-800
+502	Zun'Muram	-1001
+503	Invaders of the Moor	0
+504	Wolves of the Moor	-1000
+505	Owlbears of the Moor	-1000
+506	Human	0
+507	Donovon	0
+508	Servants of the First Witness	-1100
+509	Asylum of Anguish	-2000
+510	dubious	-300
+511	dubious-storms	-300

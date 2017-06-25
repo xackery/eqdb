@@ -1,0 +1,24 @@
+1	Default Human Mercenaries	
+2	Default Barbarian Mercenaries	
+3	Default Erudite Mercenaries	
+4	Default Wood Elf Mercenaries	
+5	Default High Elf Mercenaries	
+6	Default Dark Elf Mercenaries	
+7	Default Half Elf Mercenaries	
+8	Default Dwarf Mercenaries	
+9	Default Troll Mercenaries	
+10	Default Ogre Mercenaries	
+11	Default Halfling Mercenaries	
+12	Default Gnome Mercenaries	
+13	Default Froglok Mercenaries	
+14	Default Kobold Mercenaries	
+15	Default Lizard Man Mercenaries	
+16	Default Iksar Mercenaries	
+17	Default Vah Shir Mercenaries	
+18	Default Kunark Goblin Mercenaries	
+19	Default Guktan Mercenaries	
+20	Default Goblin Mercenaries	
+21	Default Sporali Mercenaries	
+22	Default Orc Mercenaries	
+23	Default Drakkin Mercenaries	
+24	Default Brownie Mercenaries	

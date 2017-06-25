@@ -1,0 +1,370 @@
+Vase	379	0
+Spectre Pirate Boss	334	0
+Giant Spider	38	1
+Sarnak Golem	164	0
+Orc	54	0
+Gnome	12	0
+Sabertooth Cat	119	1
+Boat	141	0
+Undead Froglok	350	0
+Freeport Guards	44	0
+Aviak	13	0
+Yeti	138	0
+High Elf	5	0
+Velious Dragons	184	0
+StoneGrabber	220	0
+Bubonian	269	0
+Pusling	270	0
+Cockatrice	96	1
+Flying Monkey	168	1
+Chest	378	0
+Rujakian Orc	361	0
+Storm Celestial	312	0
+Shark	61	1
+Prismatic Dragon	198	0
+Evil Eye	21	0
+Kunark Goblin	137	0
+Troll Sea Rover	333	0
+Zombie	70	0
+Forest Giant	140	0
+Coldain	183	0
+Efreeti	101	0
+Gorilla	41	1
+Junk Beast	273	0
+Goo	145	0
+Kerra	23	0
+Griffin	47	0
+Cazic-Thule	95	0
+Djinn	126	0
+Wasp	109	1
+Minotaur	53	0
+Tunare	62	0
+Human Beggar	55	0
+Froglok	330	0
+Mouths of Insanity	281	0
+Walrus Man	191	0
+Ghost Dragon	196	0
+Kedge	103	0
+Gnoll	39	0
+Evil Eye New	375	0
+Undead Footman	324	0
+Teleport Man	240	0
+Halfling	11	0
+Ghoul	33	0
+Giant/Cyclops	18	0
+Iksar Scorpion	149	0
+Mermaid	110	0
+Snow Bunny	176	1
+Armadillo	87	1
+Synarcana	363	0
+Vallon Zek	289	0
+Box	376	0
+Ent	244	0
+Scorpion	129	0
+Elemental	75	0
+Fungal Fiend	218	0
+Invisible Man	127	0
+Golem New	374	0
+Tallon Zek	290	0
+Spectral Banshee	250	0
+Grobb Citizen	92	0
+Golem	17	0
+ShikNar	199	0
+Spectre	85	0
+Imp	46	0
+Froglok Skeleton	349	0
+Shade	224	0
+Wyvern	157	0
+Will O' Wisp	69	0
+Table	380	1
+Black Knight	322	0
+Blood Raven	279	1
+Giant Rat	36	1
+Iksar Golem	160	0
+Walrus	177	1
+Hag	185	0
+Gelatinous Cube	31	0
+Manticore	172	0
+War Wraith	313	0
+Ogre	10	0
+Mimic	52	0
+Mosquito	134	1
+Xalgoz	136	0
+Human Pirate	341	0
+Clockwork Beetle	276	0
+Daisy Man	97	0
+Hippogriff	186	0
+Wrulon	314	0
+Fly Man	245	0
+Bixie	79	0
+Human	1	0
+Troll	9	0
+Iksar Hand	166	0
+Luggald Armored	346	0
+Ogre Pirate	340	0
+Spire Spirit	231	0
+Akheva	230	0
+Vampire	65	0
+Wolf	42	1
+Tentacle	68	1
+Succulent	167	0
+Bones	383	0
+The Rathe	298	0
+Sun Revenant	226	0
+Ghost	32	0
+Rallos Zek	66	0
+Mammoth	107	1
+Lava Dragon	49	0
+Eye of Zomm	108	0
+Oggok Citizen	93	0
+Tegi	215	0
+Bone Golem	362	0
+Pirate Boss	335	0
+Cold Spectre	174	0
+Scarlet Cheetah	221	0
+Old Froglok Ghoul	27	0
+Fungusman	28	0
+Spectral Sarnak	146	0
+Mummy New	368	0
+Pirate Dark Shaman	336	0
+Disease Boss	253	0
+Guard of Justice	251	0
+Clockwork Brain	249	0
+Seru	236	0
+Fairy	25	0
+Ghost Dwarf	117	0
+Ratman	156	0
+Alligator	91	1
+Leech	104	1
+Valorian	318	0
+Skeletal Horse	282	0
+Vah Shir King	238	0
+Gargoyle	29	0
+Raptor	163	1
+Zebuxoruk	295	0
+New Rallos Zek	288	0
+Harpie	111	0
+Unknown 180	180	0
+Enchanted Armor	175	0
+Launch	73	0
+Rujakian Orc Elite	366	0
+Luggald Robed	347	0
+Nightmare Goblin	277	0
+Broken Clockwork	274	0
+Faun	182	1
+Owlbear	206	1
+Sarnak	131	0
+Rhino	135	1
+Clockwork Dragon	192	1
+Troll Zombie	344	0
+Gnome Pirate	338	0
+Qeynos Citizen	71	0
+Wurm	158	0
+Ronnie Test	197	0
+Troll Freebooter	332	0
+Unknown_252	252	0
+Ottermen	190	0
+Barbarian	2	0
+Erudite Pirate	342	0
+PoP Efreeti	320	0
+Invalid	0	1
+Tribunal	151	0
+Tormentor	285	0
+Fish	24	1
+Lion	50	1
+Ship	72	0
+Rivervale Citizen	81	0
+Unicorn	124	1
+Water Dragon	165	0
+Chosen Wizard	352	0
+Fennin Ro	284	0
+Saryn	283	0
+Naiad	242	0
+Yak Man	181	0
+Puma	76	1
+Erollisi	150	0
+Unknown 142	142	0
+Queztocoatal	317	0
+Storm Mana	310	0
+Dragon Skeleton	122	0
+Skunk	83	1
+Unknown 143	143	0
+Water Elemental	211	0
+Old Froglok Tadpole	102	0
+Dire Wolf	171	1
+War Boar Unarmored	321	1
+Shrieker	227	0
+Highpass Citizen	67	0
+Innoruuk	123	0
+Scarecrow	82	0
+Pixie	56	0
+Piranha	74	1
+Poison Frog	316	1
+Gorgon	121	0
+Xegony	299	0
+Rock-gem Men	178	0
+Unknown 179	179	0
+Treant	64	0
+Mithaniel Marr	296	0
+Recuso	237	0
+Galorian	228	0
+Vacuum Worm	203	0
+Vampyre	208	0
+Mutant Humanoid	235	0
+Clockwork Gnome	88	0
+Tiger	63	1
+Iksar	128	0
+Sand Elf	364	0
+Troll Buccaneer	331	0
+Rallos Zek Minion	325	0
+Storm Satuur	307	0
+PoP Bear	305	0
+Weapons Rack	381	0
+Doppleganger	20	1
+Neriak Citizen	77	0
+Vampire Elite	360	0
+Zeb Cage	328	0
+Vah Shir	130	0
+Siren	187	0
+Demi Lich	45	0
+Giant Snake	37	1
+Totem	173	0
+Abhorent	193	0
+Shissar	217	0
+Grimling	202	0
+Barrel	377	1
+Animated Armor	323	0
+PoP Dragon	304	0
+Sonic Wolf	232	1
+Dwarf	8	0
+Pegasus	125	0
+Kunark Fish	148	1
+Fayguard	112	0
+Denizen	99	0
+Dark Elf Pirate	339	0
+Giant Clockwork	275	0
+Sphinx	86	0
+Devourer	159	0
+Veksar Boss	355	0
+BoT Portal	329	1
+Fire Mephit	293	0
+Lujein	241	0
+Ground Shaker	233	0
+Kaladim Citizen	94	0
+Half-Elf	7	0
+Bristlebane	153	0
+Lycanthrope	133	0
+Erudin Citizen	78	0
+Vampire Volatalis	219	0
+Vah Shir Guard	239	0
+Zelniak	222	0
+Wetfang Minnow	213	0
+Spectral Iksar	147	0
+Clockwork Golem	248	0
+Sunflower	225	1
+Old Froglok	26	0
+Fay Drake	154	0
+Snake Elemental	84	0
+Beetle	22	1
+Insect	370	1
+Veksar	353	0
+Netherbian	229	0
+Sea Horse	116	1
+Wood Elf	4	0
+Jokester	384	0
+Skeleton New	367	0
+Storm Fire	311	0
+Test Object	301	0
+Sol Ro	247	0
+Solusek Ro	58	0
+Kobold	48	0
+Frost Giant	188	0
+Kahli Shah	205	0
+Skeleton	60	0
+Halas Citizen	90	0
+New Bertox	255	0
+Iksar Citizen	139	0
+Underbulk	201	0
+Undead Veksar	358	0
+Undead Chokadai	357	0
+Crystal Spider	327	1
+Iksar Skeleton	161	0
+Chokadai	356	0
+Crab	302	1
+Undead Knight	297	0
+Vah Shir Skeleton	234	0
+Lizard Man	51	0
+Bertoxxulous	152	0
+Poison Dart Frog	343	1
+Earth Mephit	292	0
+Air Mephit	291	0
+Stormrider	272	0
+Ghost Ship	114	0
+Elf Vampire	98	0
+Erudite Ghost	118	0
+Sea Turtle	194	0
+Drake	89	0
+Greater Veksar	354	0
+Sol Ro Guard	254	0
+Brownie	15	0
+Storm Giant	189	0
+Pirate Officer	337	0
+Phoenix	303	0
+Chosen Warrior	351	0
+Storm Taarid	306	0
+Bear	43	1
+Coffin	382	0
+Air Elemental	210	0
+Thought Horror	214	0
+Swordfish	105	1
+Clam	115	1
+Were Wolf	14	0
+Earth Elemental	209	0
+Giant Eel	35	1
+War Boar	319	1
+Brontotherium	169	0
+Centaur	16	0
+Froglok Ghost	371	0
+Storm Kuraaln	308	0
+Nightmare Gargoyle	280	0
+Vampire Master	365	0
+Arachnid	326	1
+Karana	278	0
+Felguard	106	0
+Evan Test	204	0
+Trakanon	19	1
+Shadow Creatue	373	0
+Drixie	113	0
+Dark Elf	6	0
+Sarnak Skeleton	155	0
+Necro Priest	286	0
+Goblin New	369	0
+Luggald Land	345	0
+Storm Volaas	309	0
+Goblin	40	0
+Man Eating Plant	162	1
+Rhino Beetle	207	1
+Bloodgills	59	0
+Vampire Lesser	359	0
+Fiend	300	0
+Nightmare Mephit	294	0
+Snow Dervish	170	0
+Dervish New	372	0
+Froglok Mount	348	0
+Tarew Marr	246	0
+Rockhopper	200	1
+Wolf Elemental	120	0
+Dervish	100	0
+Dracnid	57	0
+Fire Elemental	212	0
+Horse	216	1
+Reanimated Hand	80	0
+Kraken	315	0
+Nymph	243	0
+Lightcrawler	223	0
+Giant Bat	34	1
+Erudite	3	0
+Nightmare	287	0
+Draglock	132	0
+Black and White Dragons	195	0
+Burynai	144	0

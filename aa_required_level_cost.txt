@@ -1,0 +1,359 @@
+7800	1	0	Harm Touch
+7801	6	0	Harm Touch
+7802	11	0	Harm Touch
+7803	16	0	Harm Touch
+7804	21	0	Harm Touch
+7805	26	0	Harm Touch
+7806	31	0	Harm Touch
+7807	36	0	Harm Touch
+7808	41	0	Harm Touch
+7809	46	0	Harm Touch
+7810	51	3	Harm Touch
+7811	56	4	Harm Touch
+7812	61	5	Harm Touch
+7813	66	6	Harm Touch
+7814	71	7	Harm Touch
+7815	76	8	Harm Touch
+7816	81	8	Harm Touch
+7817	83	9	Harm Touch
+7850	5	0	Lay on Hands
+7851	11	0	Lay on Hands
+7852	16	0	Lay on Hands
+7853	21	0	Lay on Hands
+7854	26	0	Lay on Hands
+7855	31	0	Lay on Hands
+7856	36	0	Lay on Hands
+7857	41	0	Lay on Hands
+7858	46	0	Lay on Hands
+7859	51	0	Lay on Hands
+7860	56	3	Lay on Hands
+7861	61	4	Lay on Hands
+7862	66	5	Lay on Hands
+7863	71	6	Lay on Hands
+7864	76	7	Lay on Hands
+7865	81	8	Lay on Hands
+7866	85	9	Lay on Hands
+593	61	2	Fervent Blessing
+594	63	4	Fervent Blessing
+595	65	6	Fervent Blessing
+292	61	1	Advanced Innate Strength
+293	61	1	Advanced Innate Strength
+294	62	1	Advanced Innate Strength
+295	62	1	Advanced Innate Strength
+296	63	1	Advanced Innate Strength
+297	63	1	Advanced Innate Strength
+298	64	1	Advanced Innate Strength
+299	64	1	Advanced Innate Strength
+300	65	1	Advanced Innate Strength
+301	65	1	Advanced Innate Strength
+302	61	1	Advanced Innate Stamina
+303	61	1	Advanced Innate Stamina
+304	62	1	Advanced Innate Stamina
+305	62	1	Advanced Innate Stamina
+306	63	1	Advanced Innate Stamina
+307	63	1	Advanced Innate Stamina
+308	64	1	Advanced Innate Stamina
+309	64	1	Advanced Innate Stamina
+310	65	1	Advanced Innate Stamina
+311	65	1	Advanced Innate Stamina
+312	61	1	Advanced Innate Agility
+313	61	1	Advanced Innate Agility
+314	62	1	Advanced Innate Agility
+315	62	1	Advanced Innate Agility
+316	63	1	Advanced Innate Agility
+317	63	1	Advanced Innate Agility
+318	64	1	Advanced Innate Agility
+319	64	1	Advanced Innate Agility
+320	65	1	Advanced Innate Agility
+321	65	1	Advanced Innate Agility
+322	61	1	Advanced Innate Dexterity
+323	61	1	Advanced Innate Dexterity
+324	62	1	Advanced Innate Dexterity
+325	62	1	Advanced Innate Dexterity
+326	63	1	Advanced Innate Dexterity
+327	63	1	Advanced Innate Dexterity
+328	64	1	Advanced Innate Dexterity
+329	64	1	Advanced Innate Dexterity
+330	65	1	Advanced Innate Dexterity
+331	65	1	Advanced Innate Dexterity
+332	61	1	Advanced Innate Intelligence
+333	61	1	Advanced Innate Intelligence
+334	62	1	Advanced Innate Intelligence
+335	62	1	Advanced Innate Intelligence
+336	63	1	Advanced Innate Intelligence
+337	63	1	Advanced Innate Intelligence
+338	64	1	Advanced Innate Intelligence
+339	64	1	Advanced Innate Intelligence
+340	65	1	Advanced Innate Intelligence
+341	65	1	Advanced Innate Intelligence
+342	61	1	Advanced Innate Wisdom
+343	61	1	Advanced Innate Wisdom
+344	62	1	Advanced Innate Wisdom
+345	62	1	Advanced Innate Wisdom
+346	63	1	Advanced Innate Wisdom
+347	63	1	Advanced Innate Wisdom
+348	64	1	Advanced Innate Wisdom
+349	64	1	Advanced Innate Wisdom
+350	65	1	Advanced Innate Wisdom
+351	65	1	Advanced Innate Wisdom
+352	61	1	Advanced Innate Charisma
+353	61	1	Advanced Innate Charisma
+354	62	1	Advanced Innate Charisma
+355	62	1	Advanced Innate Charisma
+356	63	1	Advanced Innate Charisma
+357	63	1	Advanced Innate Charisma
+358	64	1	Advanced Innate Charisma
+359	64	1	Advanced Innate Charisma
+360	65	1	Advanced Innate Charisma
+361	65	1	Advanced Innate Charisma
+362	61	1	Warding of Solusek
+363	61	1	Warding of Solusek
+364	62	1	Warding of Solusek
+365	62	1	Warding of Solusek
+366	63	1	Warding of Solusek
+367	63	1	Warding of Solusek
+368	64	1	Warding of Solusek
+369	64	1	Warding of Solusek
+370	65	1	Warding of Solusek
+371	65	1	Warding of Solusek
+372	61	1	Blessing of E'ci
+373	61	1	Blessing of E'ci
+374	62	1	Blessing of E'ci
+375	62	1	Blessing of E'ci
+376	63	1	Blessing of E'ci
+377	63	1	Blessing of E'ci
+378	64	1	Blessing of E'ci
+379	64	1	Blessing of E'ci
+380	65	1	Blessing of E'ci
+381	65	1	Blessing of E'ci
+382	61	1	Marr's Protection
+383	61	1	Marr's Protection
+384	62	1	Marr's Protection
+385	62	1	Marr's Protection
+386	63	1	Marr's Protection
+387	63	1	Marr's Protection
+388	64	1	Marr's Protection
+389	64	1	Marr's Protection
+390	65	1	Marr's Protection
+391	65	1	Marr's Protection
+392	61	1	Shroud of the Faceless
+393	61	1	Shroud of the Faceless
+394	62	1	Shroud of the Faceless
+395	62	1	Shroud of the Faceless
+396	63	1	Shroud of the Faceless
+397	63	1	Shroud of the Faceless
+398	64	1	Shroud of the Faceless
+399	64	1	Shroud of the Faceless
+400	65	1	Shroud of the Faceless
+401	65	1	Shroud of the Faceless
+402	61	1	Bertoxxulous' Gift
+403	61	1	Bertoxxulous' Gift
+404	62	1	Bertoxxulous' Gift
+405	62	1	Bertoxxulous' Gift
+406	63	1	Bertoxxulous' Gift
+407	63	1	Bertoxxulous' Gift
+408	64	1	Bertoxxulous' Gift
+409	64	1	Bertoxxulous' Gift
+410	65	1	Bertoxxulous' Gift
+411	65	1	Bertoxxulous' Gift
+418	61	2	Planar Power
+419	62	2	Planar Power
+420	63	2	Planar Power
+421	64	2	Planar Power
+422	65	2	Planar Power
+423	61	3	Planar Durability
+424	63	3	Planar Durability
+425	65	3	Planar Durability
+426	61	3	Innate Enlightenment
+427	62	3	Innate Enlightenment
+428	63	3	Innate Enlightenment
+429	64	3	Innate Enlightenment
+430	65	3	Innate Enlightenment
+434	62	2	Advanced Healing Adept
+435	63	4	Advanced Healing Adept
+436	64	6	Advanced Healing Adept
+437	62	2	Advanced Healing Gift
+438	63	4	Advanced Healing Gift
+439	64	6	Advanced Healing Gift
+440	62	2	Coup de Grace
+441	63	2	Coup de Grace
+442	64	2	Coup de Grace
+443	62	3	Fury of the Ages
+444	63	3	Fury of the Ages
+445	64	3	Fury of the Ages
+446	62	3	Mastery of the Past
+447	63	3	Mastery of the Past
+448	64	3	Mastery of the Past
+449	61	3	Lightning Reflexes
+7539	80	5	Mystical Attuning III
+1025	65	5	Mystical Attuning
+1024	65	5	Mystical Attuning
+1023	60	5	Mystical Attuning
+7540	85	5	Mystical Attuning III
+7541	85	5	Mystical Attuning III
+459	61	2	Radiant Cure
+460	63	4	Radiant Cure
+461	65	6	Radiant Cure
+462	63	2	Hastened Divinity
+463	64	2	Hastened Divinity
+464	65	2	Hastened Divinity
+468	63	2	Hastened Purification of the Soul
+469	64	2	Hastened Purification of the Soul
+470	65	2	Hastened Purification of the Soul
+471	63	2	Hastened Gathering
+472	64	2	Hastened Gathering
+473	65	2	Hastened Gathering
+474	63	2	Hastened Rabidity
+475	64	2	Hastened Rabidity
+476	65	2	Hastened Rabidity
+477	63	2	Hastened Exodus
+478	64	2	Hastened Exodus
+479	65	2	Hastened Exodus
+480	63	2	Hastened Root
+481	64	2	Hastened Root
+482	65	2	Hastened Root
+483	63	2	Hastened Mending
+484	64	2	Hastened Mending
+485	65	2	Hastened Mending
+486	63	2	Hastened Banishment
+487	64	4	Hastened Banishment
+488	65	6	Hastened Banishment
+489	63	2	Hastened Instigation
+490	64	2	Hastened Instigation
+491	65	2	Hastened Instigation
+492	63	2	Furious Rampage
+493	64	2	Furious Rampage
+494	65	2	Furious Rampage
+495	63	2	Hastened Purification of the Body
+496	64	2	Hastened Purification of the Body
+497	65	2	Hastened Purification of the Body
+498	63	2	Hasty Exit
+499	64	2	Hasty Exit
+500	65	2	Hasty Exit
+501	63	2	Hastened Purification
+502	64	2	Hastened Purification
+503	65	2	Hastened Purification
+504	62	3	Flash of Steel
+505	63	3	Flash of Steel
+506	64	3	Flash of Steel
+507	61	3	Divine Arbitration
+508	63	3	Divine Arbitration
+509	65	3	Divine Arbitration
+510	61	3	Wrath of the Wild
+511	63	3	Wrath of the Wild
+512	65	3	Wrath of the Wild
+513	61	3	Virulent Paralysis
+514	63	3	Virulent Paralysis
+515	65	3	Virulent Paralysis
+517	61	3	Eldritch Rune
+518	63	3	Eldritch Rune
+519	65	3	Eldritch Rune
+520	61	3	Servant of Ro
+521	63	3	Servant of Ro
+522	65	3	Servant of Ro
+523	61	3	Wake the Dead
+524	63	2	Wake the Dead
+525	65	1	Wake the Dead
+526	62	5	Suspended Minion
+527	64	3	Suspended Minion
+528	61	4	Spirit Call
+529	63	3	Spirit Call
+530	65	2	Spirit Call
+531	63	3	Celestial Renewal
+532	64	6	Celestial Renewal
+534	61	3	Hand of Piety
+535	63	3	Hand of Piety
+536	65	3	Hand of Piety
+537	63	3	Mithaniel's Binding
+538	64	3	Mithaniel's Binding
+539	63	2	Mending of the Tranquil
+540	64	4	Mending of the Tranquil
+541	65	6	Mending of the Tranquil
+542	63	2	Raging Flurry
+543	64	4	Raging Flurry
+544	65	6	Raging Flurry
+545	61	3	Guardian of the Forest
+546	63	3	Guardian of the Forest
+547	65	3	Guradian of the Forest
+548	61	4	Spirit of the Wood
+549	63	3	Spirit of the Wood
+550	65	2	Spirit of the Wood
+551	61	2	Bestial Frenzy
+552	62	2	Bestial Frenzy
+553	63	2	Bestial Frenzy
+554	64	2	Bestial Frenzy
+555	65	2	Bestial Frenzy
+556	61	2	Harmonious Attack
+557	62	2	Harmonious Attack
+558	63	2	Harmonious Attack
+559	64	2	Harmonious Attack
+560	65	2	Harmonious Attack
+561	61	2	Knight's Advantage
+562	63	4	Knight's Advantage
+563	65	6	Knight's Advantage
+564	61	3	Ferocity
+565	63	3	Ferocity
+566	65	3	Ferocity
+568	63	2	Sionachie's Crescendo
+569	64	2	Sionachie's Crescendo
+570	65	2	Sionachie's Crescendo
+571	63	2	Ayonae's Tutelage
+572	64	2	Ayonae's Tutelage
+573	65	2	Ayonae's Tutelage
+574	61	3	Feigned Minion
+575	63	3	Feigned Minion
+576	65	3	Feigned Minion
+577	61	2	Unfailing Divinity
+578	63	4	Unfailing Divinity
+579	65	6	Unfailing Divinity
+580	61	4	Animation Empathy
+581	63	3	Animation Empathy
+582	65	2	Animation Empathy
+583	63	2	Rush to Judgment
+584	64	2	Rush to Judgment
+585	65	2	Rush to Judgment
+586	61	2	Living Shield
+587	63	4	Living Shield
+588	65	6	Living Shield
+589	61	3	Consumption of the Soul
+590	63	3	Consumption of the Soul
+591	65	3	Consumption of the Soul
+596	61	2	Touch of the Wicked
+597	63	2	Touch of the Wicked
+598	65	2	Touch of the Wicked
+599	61	2	Punishing Blade
+600	63	4	Punishing Blade
+601	65	6	Punishing Blade
+602	61	3	Speed of the Knight
+603	63	3	Speed of the Knight
+604	65	3	Speed of the Knight
+606	61	1	Nimble Evasion
+607	62	1	Nimble Evasion
+608	63	1	Nimble Evasion
+609	64	1	Nimble Evasion
+610	65	1	Nimble Evasion
+616	63	5	Host of the Elements
+617	64	4	Host of the Elements
+618	65	3	Host of the Elements
+619	61	3	Call of Xuzl
+620	63	2	Call of Xuzl
+621	65	1	Call of Xuzl
+622	61	3	Hastened Stealth
+623	62	3	Hastened Stealth
+624	63	3	Hastened Stealth
+625	61	1	Ingenuity
+626	63	2	Ingenuity
+627	65	3	Ingenuity
+628	62	2	Fleet of Foot
+629	64	4	Fleet of Foot
+631	61	2	Tactical Mastery
+632	63	3	Tactical Mastery
+633	65	4	Tactical Mastery
+646	61	2	Unholy Touch
+647	63	4	Unholy Touch
+648	65	6	Unholy Touch
+652	61	2	Stalwart Endurance
+1022	55	5	Mystical Attuning
+1021	51	5	Mystical Attuning
+7542	85	5	Mystical Attuning III
+7543	85	5	Mystical Attuning III

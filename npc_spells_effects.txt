@@ -1,0 +1,30 @@
+1	Critical Melee [All Skills]	0
+2	Damage Shield	0
+3	Melee Haste	0
+4	Resist Spell Chance	0
+5	Resist Direct Dmg Spell Chance	0
+6	Reflect Spell Chance	0
+7	Spell Damage Shield	0
+8	Melee Mitigation [All]	0
+9	Avoid Melee	0
+10	Riposte Chance	0
+11	Dodge Chance	0
+12	Parry Chance	0
+13	Decrease Dmg Taken [2HS]	0
+14	Increase Dmg Taken [1HS]	0
+15	Block Chance	0
+16	Melee Lifetap	0
+17	Hit Chance	0
+18	Increase Dmg [1HS]	0
+19	Increase Archery Dmg	0
+20	Flurry Chance	0
+21	Add Damage [2HS]	0
+22	Divine Aura	0
+23	Cast CH on Kill	0
+24	Critical Heal	0
+25	Critical Direct Dmg	0
+26	Heal Rate	0
+27	Negate Damage Shield	0
+28	Increase Spell Vulnerability [All]	0
+29	Decrease Spell Vulnerability [FR]	0
+30	Movement Speed	0

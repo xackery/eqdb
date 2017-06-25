@@ -1,0 +1,22 @@
+AAXPMod	0.75	AA Experience multipler. Increase to increase exp rate	2010-09-06 20:03:51
+ACfail	15	the percentage of time AC fails to protect. 0 would mean there was always some level of protection, 100 would mean AC has no affect. When AC fails, it will be possible to get a max dmg hit.	2010-09-06 20:03:51
+ACrandom	20		2010-09-06 20:03:51
+ACreduction	3		2010-09-06 20:03:51
+ailevel	6		2010-09-06 20:03:51
+curInstFlagNum	2002	Determines what instance flag will be handed out next	2010-09-06 20:03:51
+DBVersion	070_pop	DB version info	2010-09-06 20:03:51
+decaytime 1 54	480	Corpse decay time for Level's 1 to 54	2010-09-06 20:03:51
+decaytime 55 100	1800	Corpse decay time for Level's 55 to 100	2010-09-06 20:03:51
+dfltInstZflag	1000	Used to determine if a zone is instanced, must be 1000 or greater	2010-09-06 20:03:51
+disablecommandline	0	Allow command lines to be run from world.exe | 0 - off | 1 - on |	2010-09-06 20:03:51
+Expansions	16383	Accessible expansions for each player	2010-09-06 20:03:51
+EXPMod	0.75	Experience multipler. Increase to increase exp rate	2010-09-06 20:03:51
+GroupEXPBonus	0.60	Experience multipler. Increase to increase group exp rate	2010-09-06 20:03:51
+GuildWars	0	Enable Guild Wars Type Server | 0 - off | 1 - on |	2010-09-06 20:03:51
+holdzones	0	Restart Crashed Zone Servers | 0 - off | 1 - on |	2010-09-06 20:03:51
+leavecorpses	0	Players leave corpses | 0 - off | 1 - on |	2010-09-06 20:03:51
+loglevel	7	Commands,Merchants,Trades,Loot	2017-05-11 06:06:35
+Max_AAXP	21626880	Max AA Experience	2010-09-06 20:03:51
+MerchantsKeepItems	1	Merchants keep items sold to them | 0 - off | 1 - on |	2010-09-06 20:03:51
+MOTD	Welcome to PEQ: http://www.peqtgc.com/.  In the [General] Forum read "Forum Activation","PEQ Login Server","RoF2 Client Setup".  RoF2 is the best & preferred client. For MQ2/E3 questions visit: http://forums.weareninjas.org/phpBB3/ If you are having problmes with old zones (Tox, Commonlands, Freeport, etc) please follow Creamo's instructions on the Wareninjas Forums.  Bug Point reward system revamp coming after 7/15/17.  BANKED PLAYERS POINTS WILL BE ZEROED.  See forums for details.		2017-06-15 21:24:51
+hotfix_name			2016-11-18 16:07:03

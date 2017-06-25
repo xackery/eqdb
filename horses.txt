@@ -1,0 +1,159 @@
+SumChimeraFast	582	2	0	1.75	Bridle of the Seething Chimera
+SumCragslither1Fast	597	2	0	1.75	Bridle of the Crimson Cragslither
+SumCragslither2Fast	597	2	1	1.75	Bridle of the Viridian Cragslither
+SumCragslither3Fast	597	2	2	1.75	Bridle of the Plagued Cragslither
+SumHorseBlFast	216	0	2	1.75	Black Ornate Chain Bridle
+SumHorseBlRun1	216	0	2	1.25	Black Silken Bridle
+SumHorseBlRun2	216	0	2	1.50	Black Chain Bridle
+SumHorseBlSlow1	216	0	2	0.75	Black Rope Bridle
+SumHorseBlSlow2	216	0	2	1.00	Black Leather Bridle
+SumHorseBrFast	216	0	0	1.75	Brown Ornate Chain Bridle
+SumHorseBrRun1	216	0	0	1.25	Brown Silken Bridle
+SumHorseBrRun2	216	0	0	1.50	Brown Chain Bridle
+SumHorseBrSlow1	216	0	0	0.75	Brown Rope Bridle
+SumHorseBrSlow2	216	0	0	1.00	Brown Leather Bridle
+SumHorseTaFast	216	0	3	1.75	None
+SumHorseTaRun1	216	0	3	1.25	Tan Silken Bridle
+SumHorseTaRun2	216	0	3	1.50	Tan Chain Bridle
+SumHorseTaSlow1	216	0	3	0.75	Tan Rope Bridle
+SumHorseTaSlow2	216	0	3	1.00	Tan Leather Bridle
+SumHorseWhFast	216	0	1	1.75	White Ornate Chain Bridle
+SumHorseWhRun1	216	0	1	1.25	White Silken Bridle
+SumHorseWhRun2	216	0	1	1.50	White Chain Bridle
+SumHorseWhSlow1	216	0	1	0.75	White Rope Bridle
+SumHorseWhSlow2	216	0	1	1.00	White Leather Bridle
+SumKirin0Fast	583	2	0	1.75	Bridle of the Mystical Kirin
+SumKirin2Fast	583	2	1	1.75	Bridle of the Cursed Kirin
+SumLizardBlkFast	216	1	1	1.75	Glowing Black Drum
+SumLizardBlkRun1	216	1	1	1.25	Large Black Drum
+SumLizardBlkRun2	216	1	1	1.50	Giant Black Drum
+SumLizardBlkSlow1	216	1	1	0.75	Small Black Drum
+SumLizardBlkSlow2	216	1	1	1.00	Black Drum
+SumLizardGrnFast	216	1	2	1.75	Glowing Green Drum
+SumLizardGrnRun1	216	1	2	1.25	Large Green Drum
+SumLizardGrnRun2	216	1	2	1.50	Giant Green Drum
+SumLizardGrnSlow1	216	1	2	0.75	Small Green Drum
+SumLizardGrnSlow2	216	1	2	1.00	Green Drum
+SumLizardRedFast	216	1	3	1.75	Glowing Red Drum
+SumLizardRedRun1	216	1	3	1.25	Large Red Drum
+SumLizardRedRun2	216	1	3	1.50	Giant Red Drum
+SumLizardRedSlow1	216	1	3	0.75	Small Red Drum
+SumLizardRedSlow2	216	1	3	1.00	Red Drum
+SumLizardWhtFast	216	1	0	1.75	Glowing White Drum
+SumLizardWhtRun1	216	1	0	1.25	Large White Drum
+SumLizardWhtRun2	216	1	0	1.50	Giant White Drum
+SumLizardWhtSlow1	216	1	0	0.75	Small White Drum
+SumLizardWhtSlow2	216	1	0	1.00	White Drum
+SumNightmareFast	517	2	1	1.75	Shadow Knight AA/Bridle of the Cursed
+SumPuma1Fast	584	2	1	1.75	Bridle of the Shadow Panther
+SumPuma3Fast	584	2	0	1.75	Bridle of the Snow Leopard
+SumRoboboar	472	2	0	1.00	Collapsable Roboboar
+SumRoboboarFast	472	2	0	1.75	Class V Collapsable Roboboar
+SumRoboboarRun1	472	2	0	1.25	Class III Collapsable Roboboar
+SumRoboboarRun2	472	2	0	1.50	Class IV Collapsable Roboboar
+SumRoboboarSlow2	472	2	0	1.00	None
+SumUnicornFast	517	2	0	1.75	Paladin AA
+SumWarHorseBlFast	492	2	8	1.75	Black Ornate Chain Bridle and Barding
+SumWarHorseBlRun1	492	2	8	1.25	Black Silken Bridle and Barding
+SumWarHorseBlRun2	492	2	8	1.50	Black Chain Bridle and Barding
+SumWarHorseBlSlow1	492	2	8	0.75	Black Rope Bridle and Barding
+SumWarHorseBlSlow2	492	2	8	1.00	Black Leather Bridle and Barding
+SumWarHorseBrFast	492	2	6	1.75	Brown Ornate Chain Bridle and Barding
+SumWarHorseBrRun1	492	2	6	1.25	Brown Silken Bridle and Barding
+SumWarHorseBrRun2	492	2	6	1.50	Brown Chain Bridle and Barding
+SumWarHorseBrSlow1	492	2	6	0.75	Brown Rope Bridle and Barding
+SumWarHorseBrSlow2	492	2	6	1.00	Brown Leather Bridle and Barding
+SumWarHorseTaFast	492	2	6	1.75	None
+SumWarHorseTaRun1	492	2	6	1.25	Tan Silken Bridle and Barding
+SumWarHorseTaRun2	492	2	6	1.50	Tan Chain Bridle and Barding
+SumWarHorseTaSlow1	492	2	6	0.75	Tan Rope Bridle and Barding
+SumWarHorseTaSlow2	492	2	6	1.00	Tan Leather Bridle and Barding
+SumWarHorseWhFast	492	2	7	1.75	White Ornate Chain Bridle and Barding
+SumWarHorseWhRun1	492	2	7	1.25	White Silken Bridle and Barding
+SumWarHorseWhRun2	492	2	7	1.50	White Chain Bridle and Barding
+SumWarHorseWhSlow1	492	2	7	0.75	White Rope Bridle and Barding
+SumWarHorseWhSlow2	492	2	7	1.00	White Leather Bridle and Barding
+SumWorgFastClaimDigital	594	2	1	1.75	None
+SumWorgFastClaimRetailBox	594	2	1	1.75	Black Ornate Chain Worg Bridle
+SumWorgRun1ClaimDigital	594	2	1	1.25	None
+SumWorgRun1ClaimRetailBox	594	2	1	1.25	Black Silken Worg Bridle
+SumWorgRun2ClaimDigital	594	2	1	1.50	None
+SumWorgRun2ClaimRetailBox	594	2	1	1.50	Black Chain Worg Bridle
+SumWorgSlow2ClaimDigital	594	2	1	1.00	None
+SumWorgSlow2ClaimRetailBox	594	2	1	1.00	Mottled Worg Bridle
+TestHorseA	216	0	0	1.00	None
+TestWarHorseA	492	2	6	1.00	None
+SumSokokar5Fast	625	2	1	1.75	Bridle of the Flying Imperial Sokokar
+SumSokokar1Fast	625	2	0	1.75	Bridle of the Emerald Sokokar
+SumSokokar2Fast	625	2	1	1.75	Bridle of the Bloodied Sokokar
+SumSokokar4Run2	625	2	0	1.50	None
+SumFeran1Fast	623	2	1	1.75	Bridle of the Commanded Feran
+SumFeran2Fast	623	2	0	1.75	Bridle of the Ferocious Feran
+SumSokokar3Run1	625	2	0	1.25	Bridle of the Corrupted Sokokar
+SumHydraGrnFast	631	2	0	1.75	Jade Hydra Saddle
+SumHydraBlkFast	631	2	1	1.75	Onyx Hydra Saddle
+SumSpider1Fast	654	2	0	1.75	Skittering Mount Saddle
+SumSpider2Fast	654	2	1	1.75	Wiring Mount Saddle
+SumBear1Fast	655	2	0	1.75	Bear Saddle
+SumBear2Fast	655	2	5	1.75	War Bear Saddle
+SumWrulon1Fast	598	2	0	1.75	Bridle of the Wrulon Guardian
+SumWrulon2Fast	598	2	1	1.75	Bridle of the Wrulon Protector
+SumWrulon3Fast	598	2	2	1.75	Bridle of the Wrulon Warder
+SumLionBrownFast	584	2	2	1.75	Bridle of the Highland Lion
+SumLionWhiteFast	584	2	3	1.75	Bridle of King Kalakor
+SumShinyRoboboarSlow1	472	2	1	1.00	Shiny New Collapsable Roboboar
+SumShinyRoboboarRun2	472	2	1	1.50	Shiny New Class IV Collapsable Roboboar
+SumShinyRoboboarFast	472	2	1	1.75	Shiny New Class V Collapsable Roboboar
+SumCliknarBlackFast	652	2	0	1.75	Prime Cliknar Mount Saddle
+SumCliknarRaidFast	652	2	1	1.75	Queens Prime Minion Saddle
+SumCliknarRedRun2	652	2	2	1.50	Strong Captured Cliknar Mount Saddle
+SumMRDm2Run2	672	2	2	1.50	Albino Rotdog Saddle
+SumMRKm0Run2	684	2	0	1.50	Anizoks Steam Escalator
+SumUNMm8Run2	517	2	8	1.50	Armored Battle Shire Saddle
+SumUNMm5Run2	517	2	5	1.50	Armored Planar Ardennes Saddle
+SumUNMm6Run2	517	2	6	1.50	Armored Royal Ardennes Saddle
+SumUNMm7Run2	517	2	7	1.50	Armored Royal Shire Saddle
+SumMPUm4Run2	584	2	4	1.50	Armored Snow Puma Saddle
+SumUNMm9Run2	517	2	9	1.50	Balebris Horse Saddle
+SumMPGm2Run2	709	2	2	1.50	Battle Armored Pegasus Saddle
+SumMSDm3Run2	657	2	3	1.50	Armored Sessiloid Saddle
+SumMPGm7Run2	709	2	7	1.50	Blazing Skystrider Saddle
+SumMWMm1Run2	679	2	1	1.50	Ember Wurm Saddle
+SumMWMm4Run2	679	2	4	1.50	Frost Wurm Saddle
+SumMPGm10Run2	709	2	10	1.50	Celestial Skystrider Saddle
+SumMRDm0Run2	672	2	0	1.50	Charred Rotdog Saddle
+SumUNMm10Run2	517	2	10	1.50	Dallyns Horse Saddle
+SumMKGm2Run2	677	2	2	1.50	Desert Kangon Saddle
+SumMTAm2Run2	654	2	2	1.50	Desert Tarantula Saddle
+SumMTLm1Run2	671	2	1	1.50	Dessicated Hedgerow Leaf
+SumMPGm11Run2	709	2	11	1.50	Dragonscale Skystrider Saddle
+SumMPGm6Run2	709	2	6	1.50	Dreadmare Saddle
+SumMBXm6Run2	676	2	6	1.50	Festive Braxi Saddle
+SumMWRm1Run2	598	2	3	1.50	Firescale Wrulon Saddle
+SumMRDm1Run2	672	2	1	1.50	Fleshless Rotdog Saddle
+SumMPUm6Run2	584	2	6	1.50	Forest Jaguar Saddle
+SumMKGm1Run2	677	2	1	1.50	Forest Kangon Saddle
+SumMWMm2Run2	679	2	2	1.50	Golden Wurm Saddle
+SumMGLm0Run2	673	2	0	1.50	Goral Stalker Saddle
+SumMPUm7Run2	584	2	7	1.50	Grassland Tiger Saddle
+SumHobbyHorse	492	2	0	0.00	Hobby Horse
+SumMPGm9Run2	709	2	9	1.50	Mechanical Skystrider Saddle
+SumUNMm11Run2	517	2	11	1.50	Meleens Horse Saddle
+SumMWMm3Run2	679	2	3	1.50	Nature Touched Wurm Saddle
+SumMBLm0Run2	683	2	0	1.50	Ognits Mini Dirigible Device
+SumMPGm3Run2	709	2	3	1.50	Onyx Skystrider Saddle
+SumMPGm4Run2	709	2	4	1.50	Parade Armored Onyx Skystrider Saddle
+SumMPGm0Run2	709	2	0	1.50	Pegasus Saddle
+SumMPUm5Run2	584	2	5	1.50	Plains Puma Saddle
+SumMSLm5Fast	674	2	5	1.75	Prismatic Selyrah Saddle
+SumMWMm0Run2	679	2	0	1.50	Shadow Wurm Saddle
+SumTigerWhiteRun2	584	2	8	1.50	Bridle of the Alabaster Jungle
+SumUNMm13Run2	517	2	13	1.50	Tahkas Horse Saddle
+SumMSDm0Run2	657	2	0	1.50	Sessiloid Saddle
+SumMRPm1Run2	680	2	1	1.50	Tiger Raptor Saddle
+SumMBLm1Run2	683	2	1	1.50	Veilbreaker Escape Module
+SumMRPm0Run2	680	2	0	1.50	Venemous Raptor Saddle
+SumMSLm0Run2	674	2	0	1.50	Verdant Selyrah Whistle
+SumMTLm0Run2	671	2	0	1.50	Verdant Hedgerow Leaf
+SumMWIm0Fast	682	2	0	1.75	Whirligig Flyer Control Device
+SumLionBrownRun2	584	2	2	1.50	Bridle of the Highland Lion 2014

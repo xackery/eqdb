@@ -1,0 +1,8 @@
+3	merc_test
+1	default
+2	pop+
+10	EQEmu_Default
+4	GoD
+5	raidzone
+6	OOW
+20	fix_pathing_z

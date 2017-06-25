@@ -1,0 +1,10 @@
+1	The wicked immortals in the caverns and halls of Mistmoore's Catacombs are as foul to one another as they are to us. It makes it difficult for us to find out more about the area. We are looking for some brave adventurers willing to face the evils of that dark place. Could it be that you are willing to fate those creatures in the dark?
+2	Its a cold and strange world in the halls of Miragul's\
+Menagerie. We are looking for good folk to help us learn\
+more about the place. Before you ask if you can assist us, be\
+sure you are of strong mind. The ways of the menagerie are\
+enough to make you mad.\
+
+3	You dare enter that cursed place in the deepest caverns in Guk? You are a brave one! I've been waiting for someone who can assist me and the Wayfarers Brotherhood. Perhaps it might be you!
+4	Well, then. I suppose you're here about the orcs over in the Rujarkian Hills? They aren't just any orcs. These ones are a might tougher and organized than any we've seen before. I'm keeping my senses sharp for my next visit. I'd advise you to do the same.
+5	The elves in Takish-Hiz are mere shadows of their former selves. Much to our surprise they continually attack anything or anyone that is foreign to them -- no matter how often we try to communicate with them and offer a hand of friendship. As a result we need strong adventurers to move among them to gather information for us. I wonder if you could survive in there...
