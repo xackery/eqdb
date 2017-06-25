@@ -1,0 +1,2 @@
+# eqdb
+Everquest Database Snapshot
