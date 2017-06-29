@@ -102,6 +102,9 @@ CREATE TABLE `zone` (
   `gravity` float NOT NULL DEFAULT '0.4',
   `type` int(3) NOT NULL DEFAULT '0',
   `skylock` tinyint(4) NOT NULL DEFAULT '0',
+  `levels` int(4) unsigned NOT NULL DEFAULT '0',
+  `description` varchar(128) NOT NULL DEFAULT '',
+  `sort` int(4) unsigned NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`),
   KEY `zoneidnumber` (`zoneidnumber`),
   KEY `zonename` (`short_name`)
