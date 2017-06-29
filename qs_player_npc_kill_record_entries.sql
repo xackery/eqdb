@@ -34,4 +34,3 @@ CREATE TABLE `qs_player_npc_kill_record_entries` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2017-06-25 23:37:10
