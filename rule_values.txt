@@ -1,344 +1,483 @@
 2	NPC:EmptyNPCCorpseDecayTimeMS	0	notation
 2	NPC:LastFightingDelayMovingMax	20000	Maximum time (in ms) before mob goes home after all aggro loss
-1	Skills:MaxTrainSpecializations	50	Max level a GM trainer will train casting specializations
-1	World:IsGMPetitionWindowEnabled	false	
-1	Spells:ReflectType	3	0 = disabled, 1 = single target player spells only, 2 = all player spells, 3 = all single target spells, 4 = all spells
-1	Character:UseNewStatsWindow	true	
-1	Character:ItemDSMitigationCap	50	Mitigates the effect of a damage shield
-1	Character:ItemSpellDmgCap	250	Spell Dmg adds to DD spells based on their cast & recast time
-1	Character:ItemHealAmtCap	250	Heal Amt adds to heal spells based on their cast & recast time
-1	Character:ItemClairvoyanceCap	250	Clairvoyance returns mana after a cast under certain circumstances
-1	Spells:EnableBlockedBuffs	true	
-1	Combat:NPCBashKickStunChance	15	Percent chance that a bash/kick will stun
-1	Character:ItemEnduranceRegenCap	15	Endurance cap from items
-1	Character:RespawnFromHoverTimer	300	Respawn Window Timer in Seconds.
-1	Character:RespawnFromHover	false	Enable Respawn Window for SoF and later clients.
-1	Combat:AdjustSpecialProcPerMinute	false	Allow PPM for special abilities HeadShot, Assassinate, Decap ect.
-1	Spells:MaxTotalSlotsNPC	85	
-1	Spells:MaxSongSlotsNPC	10	
-1	Spells:MaxDiscSlotsNPC	1	
-1	Spells:MaxBuffSlotsNPC	85	
-1	Character:SoDClientUseSoDHPManaEnd	true	Setting this to true will allow SoD clients to use the SoD HP/Mana/End formulas and previous clients will use the old formulas
-1	Skills:MaxTradeskillSearchSkillDiff	50	The maximum difference in skill between the trivial of an item and the skill of the player if the trivial is higher than the skill. Recipes that have not been learnt or made at least once via the Experiment mode will be removed from searches based on this criteria.
-1	Skills:UseLimitTradeskillSearchSkillDiff	true	Enables the limit for the maximum difference between trivial and skill for recipe searches and favorites.
-1	Character:DeathExpLossMaxLevel	255	Any level greater than this will no longer lose exp on death
-1	World:GuildBankZoneID	345	ID of zone the Guild Bank works in. Default 345, guildhall
-1	NPC:ReturnNonQuestNoDropItems	true	Return NO DROP items on NPCs that do not have an EVENT_ITEM sub in their script
-1	Spells:EnableSpellGlobals	false	If true, spells check the spell_globals table against quest globals before allowing spells to scribe via quest::scribespell
-1	Zone:MarkMQWarpLT	false	
-1	Zone:HotZoneBonus	0.75	hot zone XP bonus
-1	Chat:GlobalChatLevelLimit	5	level limit you need to of reached to talk in ooc/auction/chat if your karma is too low.
-1	Chat:KarmaGlobalChatLimit	72	amount of karma you need to be able to talk in ooc/auction/chat below the level limit
+1	Skills:MaxTrainSpecializations	50	\N
+1	Skills:SwimmingStartValue	100	\N
+1	World:IsGMPetitionWindowEnabled	false	\N
+1	Spells:ReflectType	3	\N
+1	Spells:AI_EngagedNoSpellMaxRecast	1000	\N
+1	Spells:AI_EngagedBeneficialSelfChance	100	\N
+1	Character:UseNewStatsWindow	true	\N
+1	Character:ItemDSMitigationCap	50	\N
+1	Character:ItemSpellDmgCap	250	\N
+1	Character:TradeskillUpBlacksmithing	2	\N
+1	Character:ItemHealAmtCap	250	\N
+1	Character:TradeskillUpBrewing	3	\N
+1	Character:ItemClairvoyanceCap	250	\N
+1	Character:TradeskillUpBaking	2	\N
+1	Spells:EnableBlockedBuffs	true	\N
+1	Combat:NPCBashKickStunChance	15	\N
+1	Combat:MeleeCritDifficulty	8900	\N
+1	Character:ItemEnduranceRegenCap	15	\N
+1	Character:RespawnFromHoverTimer	300	\N
+1	Character:RespawnFromHover	false	\N
+1	Character:MarqueeHPUpdates	false	\N
+1	Combat:AdjustSpecialProcPerMinute	false	\N
+1	Combat:UseOldDamageIntervalRules	false	\N
+1	Spells:MaxTotalSlotsNPC	85	\N
+1	Spells:MaxSongSlotsNPC	10	\N
+1	Spells:MaxDiscSlotsNPC	1	\N
+1	Spells:MaxBuffSlotsNPC	85	\N
+1	Character:SoDClientUseSoDHPManaEnd	true	\N
+1	Character:UseOldClassExpPenalties	false	\N
+1	Skills:MaxTradeskillSearchSkillDiff	50	\N
+1	Skills:SenseHeadingStartValue	200	\N
+1	GM:MinStatusToSummonItem	250	\N
+1	Combat:HitCapPre10	20	\N
+1	Combat:MinHastedDelay	400	\N
+1	Combat:ArcheryBonusChance	50	\N
+1	Skills:UseLimitTradeskillSearchSkillDiff	true	\N
+1	Skills:TrainSenseHeading	false	\N
+1	Spells:SwarmPetTargetLock	false	\N
+1	Character:DeathExpLossMaxLevel	255	\N
+1	Character:GreenModifier	20	\N
+1	World:GuildBankZoneID	345	\N
+1	Combat:DefaultRampageTargets	1	\N
+1	NPC:ReturnNonQuestNoDropItems	true	\N
+1	Aggro:AllowTickPulling	false	\N
+1	Spells:EnableSpellGlobals	false	\N
+1	Spells:UseCHAScribeHack	false	\N
+1	Spells:UseLiveSpellProjectileGFX	false	\N
+1	Zone:MarkMQWarpLT	false	\N
+1	Zone:HotZoneBonus	0.75000000	\N
+1	Chat:GlobalChatLevelLimit	5	\N
+1	Combat:LowChainLeatherACSoftcapReturn	0.17000000	\N
+1	Chat:KarmaGlobalChatLimit	72	\N
+1	Combat:CasterACSoftcapReturn	0.05999999	\N
 1	Combat:FleeSnareHPRatio	21	HP at which snare will halt movement of a fleeing NPC.
-1	World:MaxClientsSetByStatus	false	If True, IP Limiting will be set to the status on the account as long as the status is > MaxClientsPerIP
-1	AA:ExpPerPoint	23976503	Amount of exp per AA. Is the same as the amount of exp to go from level 51 to level 52.
-1	Character:MaxFearDurationForPlayerCharacter	4	4 tics, each tic calculates every 6 seconds.
-1	Character:MaxCharmDurationForPlayerCharacter	15	15 tics, each tic calculates every 6 seconds.
+1	World:MaxClientsSetByStatus	false	\N
+1	Zone:EnableLoggedOffReplenishments	true	\N
+1	Zone:UseZoneController	true	\N
+1	AA:ExpPerPoint	23976503	\N
+1	Character:MaxFearDurationForPlayerCharacter	4	\N
+1	Character:MaxCharmDurationForPlayerCharacter	15	\N
+1	Character:BaseHPRegenBonusRaces	4352	\N
 1	AA:MaxEffectSlots	7	the highest slot # used in the aa_effects table. have to use MAX_AA_EFFECT_SLOTS for now
-1	Combat:RoundKickBonus	5	% Modifier that this skill gets to str and skill bonuses
-1	Combat:TigerClawBonus	10	% Modifier that this skill gets to str and skill bonuses
-1	Combat:EagleStrikeBonus	15	% Modifier that this skill gets to str and skill bonuses
-1	Combat:DragonPunchBonus	20	% Modifier that this skill gets to str and skill bonuses
-1	Combat:FlyingKickBonus	25	% Modifier that this skill gets to str and skill bonuses
-1	Combat:MonkDamageTableBonus	10	% bonus monks get to their damage table calcs
-1	Combat:MaxFlurryHits	2	max number of extra hits from flurry
-1	Combat:MaxRampageTargets	3	max number of people hit with rampage
-1	Spells:SacrificeItemID	9963	Item ID of the item Sacrifice will return. Defaults to an Essence Emerald.
-1	Spells:SacrificeMaxLevel	70	Last level Sacrifice will work on
-1	Spells:SacrificeMinLevel	46	First level Sacrifice will work on
+1	Combat:RoundKickBonus	5	\N
+1	Combat:BackstabBonus	0	\N
+1	Combat:TigerClawBonus	10	\N
+1	Combat:ClothACSoftcap	75	\N
+1	Combat:EagleStrikeBonus	15	\N
+1	Combat:LeatherACSoftcap	100	\N
+1	Combat:DragonPunchBonus	20	\N
+1	Combat:MonkACSoftcap	120	\N
+1	Combat:FlyingKickBonus	25	\N
+1	Combat:ChainACSoftcap	200	\N
+1	Combat:MonkDamageTableBonus	10	\N
+1	Combat:PlateACSoftcap	300	\N
+1	Combat:MaxFlurryHits	2	\N
+1	Combat:MaxRampageTargets	3	\N
+1	Spells:SacrificeItemID	9963	\N
+1	Spells:MaxTotalSlotsPET	30	\N
+1	Spells:SacrificeMaxLevel	70	\N
+1	Spells:SacrificeMinLevel	46	\N
 1	Map:UseClosestZ	true	
-1	Map:FindBestZHeightAdjust	1.0	
-1	Pathing:ZDiffThreshold	10.0000000	
-1	Pathing:RouteUpdateFrequencyShort	1000	
-1	Pathing:RouteUpdateFrequencyNodeCount	5	
-1	Pathing:MinDistanceForLOSCheckShort	40000.0000	
-1	Pathing:MinNodesTraversedForLOSCheck	3	
-1	Pathing:RouteUpdateFrequencyLong	5000	
-1	Pathing:LOSCheckFrequency	1000	
+1	Map:FindBestZHeightAdjust	1	\N
+1	Pathing:ZDiffThreshold	10.0000000	\N
+1	Pathing:RouteUpdateFrequencyShort	1000	\N
+1	Pathing:RouteUpdateFrequencyNodeCount	5	\N
+1	Pathing:MinDistanceForLOSCheckShort	40000.0000	\N
+1	Pathing:MinNodesTraversedForLOSCheck	3	\N
+1	Pathing:RouteUpdateFrequencyLong	5000	\N
+1	Pathing:LOSCheckFrequency	1000	\N
 1	Pathing:MaxNodesLeftForLOSCheck	4	
-1	Pathing:MinDistanceForLOSCheckLong	1000000.00	
-1	Pathing:Guard	true	
-1	Combat:ArcheryBaseDamageBonus	1	Modifier to Base Archery Damage .5 = 50%, 1 = 100%, 2 = 200%
-1	Pathing:Fear	true	
-1	Pathing:CullNodesFromStart	1	
-1	Pathing:CullNodesFromEnd	1	
-1	Pathing:CandidateNodeRangeZ	50.0000000	
-1	NPC:SmartLastFightingDelayMoving	true	When true, mobs that started going home previously will do so again immediately if still on FD hate list
-1	Combat:ArcheryBonusRequiresStationary	true	does the 2x archery bonus chance require a stationary npc
-1	NPC:LastFightingDelayMovingMax	30000	Maximum time (in ms) before mob goes home after all aggro loss
-1	NPC:LastFightingDelayMovingMin	5000	Minimum time (in ms) before mob goes home after all aggro loss
-1	Zone:PEQZoneDebuff2	2209	Second debuff casted by #peqzone Default is Tendrils of Apathy.
-1	Zone:PEQZoneDebuff1	4454	First debuff casted by #peqzone Default is Cursed Keepers Blight.
-1	Zone:PEQZoneReuseTime	300	Amount of time, in seconds, before you can reuse the #peqzone command
-1	Pathing:AggroReturnToGrid	true	
-1	Pathing:CandidateNodeRangeXY	400.000000	
-1	Pathing:Aggro	true	
-1	Adventure:DistanceForRescueComplete	2500.0	
-1	Adventure:NumberKillsForBossSpawn	40	
-1	Adventure:DistanceForRescueAccept	10000.0	
-1	Adventure:MaxNumberForRaid	36	
-1	Adventure:MaxLevelRange	9	
-1	Adventure:MaxNumberForGroup	6	
-1	Adventure:MinNumberForRaid	18	
-1	Adventure:MinNumberForGroup	2	
-1	Adventure:ItemIDToEnablePorts	41000	
-1	Character:KillsPerGroupLeadershipAA	250	
-1	Character:KillsPerRaidLeadershipAA	250	
-1	Character:YellowModifier	110	
-1	Character:RedModifier	120	
-1	Character:WhiteModifier	100	
-1	Character:LightBlueModifier	50	
-1	Character:BlueModifier	90	
-1	Combat:NPCBonusHitChance	26.0	notation
-1	Character:UseXPConScaling	true	
-1	Zone:UsePEQZoneDebuffs	false	Will determine if #peqzone will debuff players or not when used.
-1	Character:RestRegenTimeToActivate	30	Time in seconds for rest state regen to kick in.
-1	Character:RestRegenPercent	3	Set to >0 to enable rest state bonus HP and mana regen.
-1	Character:RaidExpMultiplier	0.2	notation
-1	World:MinGMAntiHackStatus	11	Minimum GM status to check against AntiHack list
-1	Chat:KarmaUpdateIntervalMS	1200000	notation
-1	Character:GroupExpMultiplier	0.65	notation
-1	Chat:MaxMessagesBeforeKick	20	notation
-1	Chat:IntervalDurationMS	60000	notation
-1	Chat:MinimumMessagesPerInterval	4	notation
-1	Chat:MaximumMessagesPerInterval	12	notation
-1	Chat:MinStatusToBypassAntiSpam	80	notation
-1	Chat:EnableMailKeyIPVerification	true	notation
-1	Chat:EnableAntiSpam	true	notation
-1	Combat:WeaponSkillFalloff	0.33	
-1	Combat:ArcheryHitPenalty	0.45	Archery has a hit penalty to try to help balance it with the plethora of long term +hit modifiers for it
-1	Combat:HitBonusPerLevel	1.2	
-1	Combat:HitFalloffMajor	50.0	
-1	Combat:HitFalloffModerate	7.0	hit will fall off up to 7% over the three levels after the initial level range
-1	Combat:HitFalloffMinor	5.0	hit will fall off up to 5% over the initial level range
-1	Merchant:ChaPenaltyMod	1.52	Determines CHA bottom:up to 102 CHA. 1.52 is 37 CHA at apprehensive. 0.98 is 0 CHA at apprehensive.
-1	Merchant:ChaBonusMod	3.45	Determines CHA cap:from 104 CHA. 3.45 is 132 CHA at apprehensive. 0.34 is 400 CHA at apprehensive.
-1	Merchant:PricePenaltyPct	4	Determines maximum price penalty from having bad faction/CHA. Value is a percent.
-1	Merchant:PriceBonusPct	4	Determines maximum price bonus from having good faction/CHA. Value is a percent.
-1	Merchant:BuyCostMod	0.95	Modifier for NPC buy price.
-1	Merchant:SellCostMod	1.05	Modifier for NPC sell price.
-1	Merchant:UsePriceMod	true	Use faction/charisma price modifiers.
-1	World:GMAccountIPList	false	Check ip list against GM Accounts:AntiHack GM Accounts.
-1	Character:AAExpMultiplier	0.65	notation
-1	EventLog:RecordBuyFromMerchant	false	Record purchases by a player from an NPC merchant in eventlog table
-1	EventLog:RecordSellToMerchant	false	Record sales from a player to an NPC merchant in eventlog table
-1	Chat:EnableVoiceMacros	true	notation
-1	Spells:TranslocateTimeLimit	0	If not zero:time in seconds to accept a Translocate.
-1	Channels:DeleteTimer	1440	Empty password protected channels will be deleted after this many minutes
-1	Channels:RequiredStatusListAll	251	Required status to list all chat channels
-1	Channels:RequiredStatusAdmin	251	Required status to administer chat channels
-1	Mail:ExpireUnread	31536000	1 Year. Set to -1 for never
-1	Mail:ExpireRead	31536000	1 Year. Set to -1 for never
-1	Mail:ExpireTrash	0	Time in seconds. 0 will delete all messages in the trash when the mailserver starts
-1	Mail:EnableMailSystem	true	If false:client wont bring up the Mail window.
-1	Bazaar:MaxBarterSearchResults	200	The max results returned in the /barter search
-1	Bazaar:EnableWarpToTrader	true	notation
-1	World:TutorialZoneID	189	notation
-1	Bazaar:MaxSearchResults	200	notation
-1	Bazaar:AuditTrail	true	notation
-1	World:ExemptAccountLimitStatus	200	Min status required to be exempt from multi-session per account limiting (-1 is disabled)
-1	World:AccountSessionLimit	1	Max number of characters allowed on at once from a single account (-1 is disabled)
-1	Character:BindAnywhere	false	notation
-1	Character:UseDeathExpLossMult	false	Adjust to use the above multiplier or to use code default.
-1	Character:DeathExpLossMultiplier	3	Adjust how much exp is lost
-1	Combat:BaseHitChance	69	notation
-1	Combat:AgiHitFactor	0.01	notation
-1	Spells:ResistPerLevelDiff	85	8.5 resist per level difference.
-1	Character:SharedBankPlat	true	off by default to prevent duping for now
-1	Spells:WizCritChance	5	
-1	Spells:WizCritRatio	0	
-1	Spells:WizCritLevel	12	level wizards first get spell crits
-1	Spells:BaseCritRatio	100	base % bonus to damage on a successful spell crit. 100 = 2x damage
-1	Spells:BaseCritChance	0	base % chance that everyone has to crit a spell
-1	Combat:BaseProcChance	0.035	notation
-1	Combat:ProcDexDivideBy	11000	notation
-1	Combat:AvgProcsPerMinute	2.0	notation
-1	Combat:ProcPerMinDexContrib	0.075	notation
-1	Chat:ServerWideAuction	true	notation
-1	Combat:AdjustProcPerMinute	true	notation
-1	Chat:ServerWideOOC	true	notation
-1	Character:MaxExpLevel	70	Sets the Max Level attainable via Experience
-1	Zone:AutoShutdownDelay	5000	
-1	World:ClearTempMerchantlist	false	cavedude: Clears temp merchant items when world boots.
-1	World:AddMaxClientsPerIP	-1	Maximum number of clients allowed to connect per IP address if account status is < ExemptMaxClientsStatus.  Default value: -1 (feature disabled)
-1	World:EnableReturnHomeButton	true	notation
-1	World:MaxLevelForTutorial	15	notation
-1	World:MinOfflineTimeToReturnHome	21600	21600 seconds is 6 Hours
-1	World:AddMaxClientsStatus	-1	Accounts with status >= this rule will be allowed to use the amount of accounts defined in the AddMaxClientsPerIP.  Default value: -1 (feature disabled)
-1	TaskSystem:KeepOneRecordPerCompletedTask	true	notation
-1	TaskSystem:EnableTaskProximity	true	notation
-1	World:EnableTutorialButton	true	notation
-1	TaskSystem:RecordCompletedOptionalActivities	true	notation
-1	TaskSystem:PeriodicCheckTimer	5	
-1	TaskSystem:RecordCompletedTasks	true	notation
-1	TaskSystem:EnableTaskSystem	true	Globally enable or disable the Task system
-1	Character:SkillUpModifier	100	skill ups are at 100%
-1	NPC:EnableNPCQuestJournal	true	notation
-1	NPC:CorpseUnlockTimer	150000	notation
-1	NPC:EmptyNPCCorpseDecayTimeMS	6000	notation
-1	Spells:PartialHitChanceFear	0.25	The chance when a fear spell is resisted that it will partial hit.
-1	World:UseBannedIPsTable	true	Toggle whether or not to check incoming client connections against the Banned_IPs table. Set this value to false to disable this feature.
-1	Zone:MQWarpExemptStatus	80	
-1	Character:ItemStrikethroughCap	35	notation
-1	Zone:MQWarpDetectionDistanceFactor	9.0	
-1	Character:ItemDoTShieldingCap	35	notation
-1	Character:ItemStunResistCap	35	notation
-1	Character:ItemSpellShieldingCap	35	notation
-1	Character:ItemCombatEffectsCap	100	notation
-1	Character:ItemShieldingCap	35	notation
-1	Character:ItemAccuracyCap	150	notation
-1	Character:ItemAvoidanceCap	100	notation
-1	Zone:MQZoneExemptStatus	80	
-1	Character:ItemDamageShieldCap	30	notation
-1	Zone:MQGhostExemptStatus	80	
-1	Zone:MQGateExemptStatus	80	
-1	Zone:EnableMQWarpDetector	true	
-1	Combat:FleeIfNotAlone	false	
-1	Zone:EnableMQZoneDetector	true	
-1	Zone:EnableMQGateDetector	true	
-1	World:MaxClientsPerIP	-1	Maximum number of clients allowed to connect per IP address if account status is < AddMaxClientsStatus.  Default value: -1 (feature disabled)
-1	Aggro:PetSpellAggroMod	10	notation
-1	Character:DeathItemLossLevel	10	notation
-1	Zone:EnableMQGhostDetector	true	
-1	NPC:BuffFriends	true	notation
-1	Aggro:SpellAggroMod	100	notation
-1	Aggro:SongAggroMod	33	notation
-1	Combat:AssistNoTargetSelf	false	When assisting a target without a target: true = target self, false = leave target as was before assist (this is the behavior on live)
-1	Aggro:CriticallyWoundedAggroMod	100	notation
-1	Aggro:CurrentTargetAggroMod	0	0 will prefer our current target to any other, > 0 makes it harder for our npcs to switch targets.
-1	Aggro:SittingAggroMod	35	notation
-1	Aggro:MeleeRangeAggroMod	20	notation
-1	Aggro:SmartAggroList	true	notation
-1	Watermap:FishingLineLength	100	If water is more than this far below the player:it is considered too far to fish
-1	Watermap:FishingRodLength	30	How far in front of player water must be for fishing to work
-1	Watermap:CheckForWaterWhenFishing	true	Only lets a player fish near water (if a water map exists for the zone)
-1	Watermap:CheckForWaterOnSendTo	false	Checks if a mob has moved into/out of water on SendTo
-1	Watermap:CheckForWaterAtWaypoints	true	
-1	Watermap:CheckForWaterWhenMoving	true	
-1	NPC:OOCRegen	1	notation
-1	Watermap:CheckWaypointsInWaterWhenLoading	true	
-1	NPC:SayPauseTimeInSec	10	notation
-1	Combat:UseIntervalAC	true	
-1	Combat:PetAttackMagicLevel	30	
-1	Character:ItemManaRegenCap	15	notation
-1	Character:ItemHealthRegenCap	15	notation
-1	Character:HealOnLevel	false	notation
-1	Character:FeignKillsPet	false	notation
-1	Map:FixPathingZMaxDeltaWaypoint	20	
-1	Map:FixPathingZMaxDeltaLoading	20.0	
-1	Map:FixPathingZMaxDeltaMoving	20	
-1	Zone:ClientLinkdeadMS	180000	
-1	Map:FixPathingZMaxDeltaSendTo	20	
-1	Map:FixPathingZAtWaypoints	true	
-1	Map:FixPathingZWhenMoving	false	
-1	Map:FixPathingZOnSendTo	false	
-1	Zone:GraveyardTimeMS	1200000	
-1	Map:FixPathingZWhenLoading	true	
-1	Zone:EnableShadowrest	1	
-1	NPC:UseItemBonusesForNonPets	true	notation
-1	Character:ExpMultiplier	0.65	notation
-1	NPC:MinorNPCCorpseDecayTimeMS	600000	level<55
-1	NPC:MajorNPCCorpseDecayTimeMS	1800000	level>=55
-1	Zone:NPCPositonUpdateTicCount	32	ms between intervals of sending a position update to the entire zone.
+1	Pathing:MinDistanceForLOSCheckLong	1000000.00	\N
+1	Pathing:Guard	true	\N
+1	Combat:ArcheryBaseDamageBonus	1.00000000	\N
+1	Combat:AAMitigationACFactor	3.00000000	\N
+1	Pathing:Fear	true	\N
+1	Pathing:CullNodesFromStart	1	\N
+1	Pathing:CullNodesFromEnd	1	\N
+1	Pathing:CandidateNodeRangeZ	50.0000000	\N
+1	NPC:SmartLastFightingDelayMoving	true	\N
+1	Aggro:UseLevelAggro	true	\N
+1	Chat:SuppressCommandErrors	false	\N
+1	Combat:ArcheryBonusRequiresStationary	true	\N
+1	Combat:OldACSoftcapRules	false	\N
+1	NPC:LastFightingDelayMovingMax	30000	\N
+1	NPC:LastFightingDelayMovingMin	5000	\N
+1	NPC:NPCToNPCAggroTimerMax	6000	\N
+1	Zone:PEQZoneDebuff2	2209	\N
+1	Zone:ReservedInstances	30	\N
+1	Zone:PEQZoneDebuff1	4454	\N
+1	Zone:EbonCrystalItemID	40902	\N
+1	Zone:PEQZoneReuseTime	300	\N
+1	Zone:RadiantCrystalItemID	40903	\N
+1	Pathing:AggroReturnToGrid	true	\N
+1	Pathing:CandidateNodeRangeXY	400.000000	\N
+1	Pathing:Aggro	true	\N
+1	Adventure:DistanceForRescueComplete	2500.00000	\N
+1	Adventure:NumberKillsForBossSpawn	40	\N
+1	Adventure:DistanceForRescueAccept	10000.0000	\N
+1	Adventure:MaxNumberForRaid	36	\N
+1	Adventure:MaxLevelRange	9	\N
+1	Adventure:MaxNumberForGroup	6	\N
+1	Adventure:MinNumberForRaid	18	\N
+1	Adventure:MinNumberForGroup	2	\N
+1	Adventure:ItemIDToEnablePorts	41000	\N
+1	Character:KillsPerGroupLeadershipAA	250	\N
+1	Character:KillsPerRaidLeadershipAA	250	\N
+1	Character:YellowModifier	110	\N
+1	Character:RedModifier	120	\N
+1	Character:WhiteModifier	100	\N
+1	Character:LightBlueModifier	50	\N
+1	Character:BlueModifier	90	\N
+1	Combat:NPCBonusHitChance	26.0000000	\N
+1	Character:UseXPConScaling	true	\N
+1	Zone:UsePEQZoneDebuffs	false	\N
+1	Character:RestRegenTimeToActivate	30	\N
+1	Character:RestRegenRaidTimeToActivate	300	\N
+1	Character:RestRegenPercent	3	\N
+1	Character:RaidExpMultiplier	0.20000000	\N
+1	World:MinGMAntiHackStatus	11	\N
+1	World:SoFStartZoneID	-1	\N
+1	Chat:KarmaUpdateIntervalMS	1200000	\N
+1	Character:GroupExpMultiplier	0.64999997	\N
+1	Chat:MaxMessagesBeforeKick	20	\N
+1	Chat:IntervalDurationMS	60000	\N
+1	Chat:MinimumMessagesPerInterval	4	\N
+1	Chat:MaximumMessagesPerInterval	12	\N
+1	Chat:MinStatusToBypassAntiSpam	80	\N
+1	Chat:EnableMailKeyIPVerification	true	\N
+1	Chat:EnableAntiSpam	true	\N
+1	Combat:WeaponSkillFalloff	0.33000001	\N
+1	Combat:ArcheryHitPenalty	0.44999998	\N
+1	Combat:MinChancetoHit	5.00000000	\N
+1	Combat:MaxChancetoHit	95.0000000	\N
+1	Combat:HitBonusPerLevel	1.20000004	\N
+1	Combat:HitFalloffMajor	50.0000000	\N
+1	Combat:HitFalloffModerate	7.00000000	\N
+1	Combat:HitFalloffMinor	5.00000000	\N
+1	Merchant:ChaPenaltyMod	1.51999998	\N
+1	Merchant:ChaBonusMod	3.45000004	\N
+1	Adventure:LDoNBaseTrapDifficulty	15.0000000	\N
+1	Merchant:PricePenaltyPct	4	\N
+1	Merchant:PriceBonusPct	4	\N
+1	Combat:LowPlateChainACSoftcapReturn	0.23000000	\N
+1	Merchant:BuyCostMod	0.94999998	\N
+1	Merchant:SellCostMod	1.04999995	\N
+1	Merchant:UsePriceMod	true	\N
+1	World:GMAccountIPList	false	\N
+1	World:UseClientBasedExpansionSettings	true	\N
+1	Character:AAExpMultiplier	0.64999997	\N
+1	EventLog:RecordBuyFromMerchant	false	\N
+1	QueryServ:PlayerLogMerchantTransactions	false	\N
+1	EventLog:RecordSellToMerchant	false	\N
+1	QueryServ:PlayerLogDropItem	false	\N
+1	Chat:EnableVoiceMacros	true	\N
+1	Spells:TranslocateTimeLimit	0	\N
+1	Channels:DeleteTimer	1440	\N
+1	Adventure:LDoNTrapDistanceUse	625	\N
+1	Channels:RequiredStatusListAll	251	\N
+1	Channels:RequiredStatusAdmin	251	\N
+1	Mail:ExpireUnread	31536000	\N
+1	Mail:ExpireRead	31536000	\N
+1	Mail:ExpireTrash	0	\N
+1	Adventure:LDoNAdventureExpireTime	1800	\N
+1	Mail:EnableMailSystem	true	\N
+1	QueryServ:PlayerLogZone	false	\N
+1	Bazaar:MaxBarterSearchResults	200	\N
+1	Bazaar:EnableWarpToTrader	true	\N
+1	World:TutorialZoneID	189	\N
+1	Bazaar:MaxSearchResults	200	\N
+1	Bazaar:AuditTrail	true	\N
+1	World:ExemptAccountLimitStatus	200	\N
+1	World:TitaniumStartZoneID	-1	\N
+1	World:AccountSessionLimit	1	\N
+1	Spells:AI_PursueNoSpellMaxRecast	2000	\N
+1	Character:BindAnywhere	false	\N
+1	Character:UseDeathExpLossMult	false	\N
+1	Character:UseOldBindWound	false	\N
+1	Character:DeathExpLossMultiplier	3	\N
+1	Combat:BaseHitChance	69.0000000	\N
+1	Combat:AgiHitFactor	0.00999999	\N
+1	Spells:ResistPerLevelDiff	85	\N
+1	Character:SharedBankPlat	true	\N
+1	Spells:WizCritChance	5	\N
+1	Spells:WizCritRatio	0	\N
+1	Spells:WizCritLevel	12	\N
+1	Spells:BaseCritRatio	100	\N
+1	Spells:AI_EngagedBeneficialOtherChance	25	\N
+1	Spells:BaseCritChance	0	\N
+1	Spells:AI_EngagedDetrimentalChance	20	\N
+1	Combat:BaseProcChance	0.03500000	\N
+1	Combat:ProcDexDivideBy	11000.0000	\N
+1	Combat:AvgProcsPerMinute	2.00000000	\N
+1	Combat:ProcPerMinDexContrib	0.07500000	\N
+1	Chat:ServerWideAuction	true	\N
+1	Combat:AdjustProcPerMinute	true	\N
+1	Chat:ServerWideOOC	true	\N
+1	Character:MaxExpLevel	70	\N
+1	Character:ItemATKCap	250	\N
+1	Zone:AutoShutdownDelay	5000	\N
+1	World:ClearTempMerchantlist	false	\N
+1	World:AddMaxClientsPerIP	-1	\N
+1	Spells:AI_IdleNoSpellMaxRecast	60000	\N
+1	Spells:AI_IdleBeneficialChance	100	\N
+1	World:EnableReturnHomeButton	true	\N
+1	World:MaxLevelForTutorial	15	\N
+1	World:MinOfflineTimeToReturnHome	21600	\N
+1	World:AddMaxClientsStatus	-1	\N
+1	Spells:AI_PursueDetrimentalChance	90	\N
+1	Spells:AI_IdleNoSpellMinRecast	6000	\N
+1	TaskSystem:KeepOneRecordPerCompletedTask	true	\N
+1	TaskSystem:EnableTaskProximity	true	\N
+1	World:EnableTutorialButton	true	\N
+1	TaskSystem:RecordCompletedOptionalActivities	true	\N
+1	TaskSystem:PeriodicCheckTimer	5	\N
+1	TaskSystem:RecordCompletedTasks	true	\N
+1	TaskSystem:EnableTaskSystem	true	\N
+1	Character:SkillUpModifier	100	\N
+1	NPC:EnableNPCQuestJournal	true	\N
+1	NPC:CorpseUnlockTimer	150000	\N
+1	NPC:EmptyNPCCorpseDecayTimeMS	6000	\N
+1	Spells:PartialHitChanceFear	0.25000000	\N
+1	World:UseBannedIPsTable	true	\N
+1	Zone:EnableZoneControllerGlobals	false	\N
+1	Map:FixZWhenMoving	true	\N
+1	Zone:MQWarpExemptStatus	80	\N
+1	Character:ItemStrikethroughCap	35	\N
+1	Zone:MQWarpDetectionDistanceFactor	9.00000000	\N
+1	Character:ItemDoTShieldingCap	35	\N
+1	Character:ItemStunResistCap	35	\N
+1	Character:ItemSpellShieldingCap	35	\N
+1	Character:ItemCombatEffectsCap	100	\N
+1	Character:ItemShieldingCap	35	\N
+1	Character:ItemAccuracyCap	150	\N
+1	Character:ItemAvoidanceCap	100	\N
+1	Zone:MQZoneExemptStatus	80	\N
+1	Character:ItemDamageShieldCap	30	\N
+1	Zone:MQGhostExemptStatus	80	\N
+1	Zone:MQGateExemptStatus	80	\N
+1	Zone:EnableMQWarpDetector	true	\N
+1	Combat:FleeIfNotAlone	false	\N
+1	Zone:EnableMQZoneDetector	true	\N
+1	Zone:EnableMQGateDetector	true	\N
+1	World:MaxClientsPerIP	-1	\N
+1	Combat:ThrowingCritDifficulty	1100	\N
+1	Combat:MinRangedAttackDist	25	\N
+1	Aggro:PetSpellAggroMod	10	\N
+1	Character:DeathItemLossLevel	10	\N
+1	Zone:EnableMQGhostDetector	true	\N
+1	NPC:BuffFriends	true	\N
+1	Aggro:SpellAggroMod	100	\N
+1	Aggro:SongAggroMod	33	\N
+1	Combat:AssistNoTargetSelf	false	\N
+1	Combat:RampageHitsTarget	false	\N
+1	Combat:ProcTargetOnly	true	\N
+1	Aggro:CriticallyWoundedAggroMod	100	\N
+1	Aggro:CurrentTargetAggroMod	0	\N
+1	Aggro:MaxScalingProcAggro	400	\N
+1	Aggro:ClientAggroCheckInterval	6	\N
+1	Aggro:SittingAggroMod	35	\N
+1	Aggro:MeleeRangeAggroMod	20	\N
+1	Aggro:SmartAggroList	true	\N
+1	Watermap:FishingLineLength	100.000000	\N
+1	Watermap:FishingLineStepSize	1.00000000	\N
+1	Watermap:FishingRodLength	30.0000000	\N
+1	Combat:KnightACSoftcapReturn	0.33000001	\N
+1	Watermap:CheckForWaterWhenFishing	true	\N
+1	Spells:FocusCombatProcs	false	\N
+1	Watermap:CheckForWaterOnSendTo	false	\N
+1	Spells:PreNerfBardAEDoT	false	\N
+1	Watermap:CheckForWaterAtWaypoints	true	\N
+1	Watermap:CheckForWaterWhenMoving	true	\N
+1	NPC:OOCRegen	1	\N
+1	Watermap:CheckWaypointsInWaterWhenLoading	true	\N
+1	NPC:SayPauseTimeInSec	10	\N
+1	Combat:UseIntervalAC	true	\N
+1	Combat:PetAttackMagicLevel	30	\N
+1	Character:ItemManaRegenCap	15	\N
+1	Character:ItemHealthRegenCap	15	\N
+1	Character:HealOnLevel	false	\N
+1	Character:FeignKillsPet	false	\N
+1	Map:FixPathingZMaxDeltaWaypoint	20.0000000	\N
+1	Map:FixPathingZMaxDeltaLoading	20.0000000	\N
+1	Map:FixPathingZMaxDeltaMoving	20.0000000	\N
+1	Zone:ClientLinkdeadMS	180000	\N
+1	Map:FixPathingZMaxDeltaSendTo	20.0000000	\N
+1	Map:FixPathingZAtWaypoints	true	\N
+1	Map:FixPathingZWhenMoving	false	\N
+1	Map:FixPathingZOnSendTo	false	\N
+1	Zone:GraveyardTimeMS	1200000	\N
+1	Map:FixPathingZWhenLoading	true	\N
+1	Zone:EnableShadowrest	true	\N
+1	NPC:UseItemBonusesForNonPets	true	\N
+1	Character:ExpMultiplier	0.64999997	\N
+1	NPC:MinorNPCCorpseDecayTimeMS	600000	\N
+1	NPC:MajorNPCCorpseDecayTimeMS	1800000	\N
+1	Zone:NPCPositonUpdateTicCount	32	\N
+1	Zone:MinOfflineTimeToReplenishments	21600	\N
 1	Combat:ClientBaseCritChance	0	
-1	Spells:PartialHitChance	0.7	The chance when a spell is resisted that it will partial hit.
-1	Spells:ResistMod	0.40	multiplier:chance to resist = this * ResistAmount
-1	Spells:AutoResistDiff	15	notation
-1	Spells:ResistChance	2.0	chance to resist given no resists and same level
-1	Character:ConsumptionMultiplier	100	
+1	Spells:PartialHitChance	0.69999998	\N
+1	Combat:WarriorACSoftcapReturn	0.44999998	\N
+1	Spells:ResistMod	0.40000000	\N
+1	Spells:AutoResistDiff	15	\N
+1	Spells:ResistChance	2.00000000	\N
+1	Character:ConsumptionMultiplier	100	\N
 1	Combat:BerserkBaseCritChance	6	
-1	Combat:NPCBashKickLevel	6	
+1	Combat:NPCBashKickLevel	6	\N
 1	Combat:WarBerBaseCritChance	3	The base crit chance for warriors and berserkers:only applies to clients
 1	Combat:MeleeBaseCritChance	0	The base crit chance for non warriors:NOTE: This will apply to NPCs as well
-1	Combat:EnableFearPathing	true	
-1	Combat:FleeHPRatio	21	
-1	World:ExemptMaxClientsStatus	-1	Exempt accounts from the MaxClientsPerIP and AddMaxClientsStatus rules:if their status is >= this value.  Default value: -1 (feature disabled)
-1	World:ZoneAutobootTimeoutMS	120000	notation
-1	World:ClientKeepaliveTimeoutMS	95000	notation
-1	Pets:AttackCommandRange	200	Range at which a pet will respond to attack commands
-1	Skills:MaxTrainTradeskills	21	Highest skill level that tradeskills can be trained to from GM Trainers
-1	Guild:MaxMembers	2048	Max number of members allowed in a single guild
-1	Character:EnduranceRegenMultiplier	100	notation
-1	Character:ManaRegenMultiplier	100	notation
-1	Character:HPRegenMultiplier	100	notation
-1	Character:AutosaveIntervalS	300	0=disabled
-1	Character:LeaveNakedCorpses	true	notation
-1	Character:DeathExpLossLevel	10	notation
-1	Character:CorpseDecayTimeMS	43200000	notation
-1	GM:MinStatusToZoneAnywhere	250	This setting overrides the minstatus setting in the zones table if set
-1	Character:MaxLevel	70	notation
-1	Character:LeaveCorpses	true	notation
-1	Character:HasteCap	100	Haste cap for item haste + spell haste(not including overhaste)
-1	Character:MaxDraggedCorpses	2	Maximum number of corpses that a player can /corpsedrag at once
-1	Character:DragCorpseDistance	400.000000	If a player is using /corpsedrag and moving, the corpse will not move until the player exceeds this distance (NoRootNoZ)
-1	Character:RestRegenEndurance	true	Whether rest regen will affect endurance or not
-1	Spells:VirusSpreadDistance	30	The distance a viral spell will jump to its next victim
-1	Combat:ArcheryNPCMultiplier	1.0	Multiplied by the min and max hit to determine npcs ranged dmg
-1	Character:ItemCastsUseFocus	false	If true, this allows item clickies to use focuses that have limited max levels on them
-1	World:ExpansionSettings	16383	Expansion settings. Affects client features related to expansions.
-1	World:PVPSettings	0	PVP Settings, affects clients' attack state and Sony-hardcoded checks for PVP rules.
-1	World:FVNoDropFlag	0	Sets the FV ruleset to on or off. Enable with rule 2 for GM-trading only. Keep in mind this disables OOC chatter for GMs only if you choose that option.
-1	Character:MinStatusForNoDropExemptions	80	Enables bypassing of no-drop flags if status is set to this value and FVNoDropFlag is set to 2.
-1	Character:SkillCapMaxLevel	-1	Sets the Max Level used for Skill Caps (from skill_caps table).  Default of -1 makes it use MaxLevel rule value.
-1	Console:SessionTimeOut	600000	This sets the default timeout time for Telnet sessions (MS)
-1	Guild:PlayerCreationAllowed	true	Allow players with Underfoot+ to create a guild via new UI window.
-1	Guild:PlayerCreationLimit	1	Allow players to create a guild using the window in Underfoot+
-1	Guild:PlayerCreationRequiredLevel	0	Required level to use the UF+ window to create a new guild.
-1	Guild:PlayerCreationRequiredStatus	0	Required admin status to use UF+ window to create a new guild.
-1	Guild:PlayerCreationRequiredTime	0	Required Time Entitled on Account to be able to use UF+ window to create a new guild.
-1	Spells:LiveLikeFocusEffects	true	Makes certain healing, dmg and mana reduction focuses random like live
-1	NPC:StartEnrageValue	9	% HP value that mobs will begin to enrage.
-1	NPC:LiveLikeEnrage	false	If enabled, will cause all non-player pets to lose the ability to enrage.
-1	Character:ItemExtraDmgCap	150	eg +bash, +frenzy dmg, etc
-1	Character:CheckCursorEmptyWhenLooting	true	If true, a player cannot loot a corpse (player or NPC) with an item on their cursor
-1	Character:MaintainIntoxicationAcrossZones	true	If true, alcohol effects are maintained across zoning and logging out/in.
+1	Combat:EnableFearPathing	true	\N
+1	Combat:FleeHPRatio	21	\N
+1	World:ExemptMaxClientsStatus	-1	\N
+1	Combat:PetBaseCritChance	0	\N
+1	Combat:ArcheryCritDifficulty	3400	\N
+1	World:ZoneAutobootTimeoutMS	120000	\N
+1	World:ClientKeepaliveTimeoutMS	95000	\N
+1	Pets:AttackCommandRange	200.000000	\N
+1	Pets:PetPowerLevelCap	10.0000000	\N
+1	Skills:MaxTrainTradeskills	21	\N
+1	Combat:BerserkerFrenzyStart	35	\N
+1	Guild:MaxMembers	2048	\N
+1	Range:Emote	135	\N
+1	Character:EnduranceRegenMultiplier	100	\N
+1	Character:ManaRegenMultiplier	100	\N
+1	Character:HPRegenMultiplier	100	\N
+1	Character:AutosaveIntervalS	300	\N
+1	Character:LeaveNakedCorpses	true	\N
+1	Character:DeathExpLossLevel	10	\N
+1	Character:CorpseDecayTimeMS	43200000	\N
+1	GM:MinStatusToZoneAnywhere	250	\N
+1	Combat:HitCapPre20	40	\N
+1	Character:MaxLevel	70	\N
+1	Character:LeaveCorpses	true	\N
+1	Character:HasteCap	100	\N
+1	Character:TradeskillUpAlchemy	2	\N
+1	Character:MaxDraggedCorpses	2	\N
+1	Character:ShowExpValues	0	\N
+1	Character:DragCorpseDistance	400.000000	\N
+1	Character:EnvironmentDamageMulipliter	1.00000000	\N
+1	Character:RestRegenEndurance	true	\N
+1	Character:AllowMQTarget	false	\N
+1	Spells:VirusSpreadDistance	30	\N
+1	Spells:BaseImmunityLevel	55	\N
+1	Combat:ArcheryNPCMultiplier	1.00000000	\N
+1	Combat:NPCACFactor	2.25000000	\N
+1	Character:ItemCastsUseFocus	false	\N
+1	Character:SpamHPUpdates	false	\N
+1	World:ExpansionSettings	16383	\N
+1	World:PVPSettings	0	\N
+1	Spells:AI_PursueNoSpellMinRecast	500	\N
+1	World:FVNoDropFlag	0	\N
+1	World:TellQueueSize	20	\N
+1	Zone:GlobalLootMultiplier	1	\N
+1	Pathing:MinNodesLeftForLOSCheck	4	\N
+1	Character:MinStatusForNoDropExemptions	80	\N
+1	Character:OrnamentationAugmentType	20	\N
+1	Character:SkillCapMaxLevel	-1	\N
+1	Character:BaseInstrumentSoftCap	36	\N
+1	Character:BaseRunSpeedCap	158	\N
+1	Console:SessionTimeOut	600000	\N
+1	Guild:PlayerCreationAllowed	true	\N
+1	Spells:NPC_UseFocusFromSpells	true	\N
+1	Guild:PlayerCreationLimit	1	\N
+1	Combat:NPCAssistCapTimer	6000	\N
+1	Guild:PlayerCreationRequiredLevel	0	\N
+1	Combat:MeleePushChance	50	\N
+1	Guild:PlayerCreationRequiredStatus	0	\N
+1	Combat:NPCAssistCap	5	\N
+1	Guild:PlayerCreationRequiredTime	0	\N
+1	Combat:BerserkerFrenzyEnd	45	\N
+1	Spells:LiveLikeFocusEffects	true	\N
+1	Spells:NPCIgnoreBaseImmunity	true	\N
+1	NPC:StartEnrageValue	9	\N
+1	NPC:NPCToNPCAggroTimerMin	500	\N
+1	NPC:LiveLikeEnrage	false	\N
+1	NPC:EnableMeritBasedFaction	false	\N
+1	Character:ItemExtraDmgCap	150	\N
+1	Character:CheckCursorEmptyWhenLooting	true	\N
+1	Character:UnmemSpellsOnDeath	true	\N
+1	Character:MaintainIntoxicationAcrossZones	true	\N
+1	Character:UseSpellFileSongCap	true	\N
 1	Bots:BotAAExpansion	8	The expansion through which bots will obtain AAs
-1	Character:UseRaceClassExpBonuses	true	Setting this to true will enable Class and Racial experience rate bonuses
-1	Character:EnableDiscoveredItems	false	If enabled, it enables EVENT_DISCOVER_ITEM and also saves character names and timestamps
+1	Character:UseRaceClassExpBonuses	true	\N
+1	Character:UseOldRaceExpPenalties	false	\N
+1	Character:EnableDiscoveredItems	false	\N
+1	Character:KeepLevelOverMax	false	\N
 1	Combat:WarriorThreatBonus	0	
-1	Character:CorpseResTimeMS	10800000	Time to res a corpse(ms)
-1	Character:StatCap	0	Sets the Max Statistics Cap for PCs. 0 = feature disabled
+1	Character:CorpseResTimeMS	10800000	\N
+1	Character:StatCap	0	\N
+1	Character:FoodLossPerUpdate	35	\N
 1	Character:SumCorpseDecayTimeMS	43200000	
-1	World:DeleteStaleCorpeBackups	true	Deletes stale corpse backups older than 2 weeks.
-1	Zone:UsePlayerCorpseBackups	true	Keeps backups of player corpses.
-1	Character:EnableXTargetting	true	
-1	Spells:AvgSpellProcsPerMinute	6.0	Default = 6.0 Determines proc rate of spells applied from sympathetic focus effect
-1	Spells:ResistFalloff	67	Default = 67 Max that level that will adjust our resist chance based on level modifiers
-1	Spells:CharismaEffectiveness	10	Default 10 CHA = -1 resist mod. Deterimes how much resist modification charisma applies to charm/pacify checks.
-1	Spells:CharmBreakCheckChance	25	Default 25. Determines percent chance for a charm break check to occur each buff tick.
-1	Combat:AvgDefProcsPerMinute	2	Default 2. Determines defensive procs per minute.
-1	Combat:DefProcPerMinAgiContrib	0.075	Default 25. Determines how much agility effects proc rate.
-1	Combat:SpecialAttackACBonus	15	(Default=15) Percent amount of damage per AC gained for certain special attacks (damage = AC*SpecialAttackACBonus/100).
-1	Combat:FrenzyBonus	0	Modify Frenzy skill damage by percent,
-1	Combat:TauntSkillFalloff	0.33	(Default=0.33) For every taunt skill point thats not maxed you lose this % chance to taunt.
-1	Spells:MaxCastTimeReduction	50	Max percent your spell cast time can be reduced by spell haste.
-1	Spells:RootBreakFromSpells	55	Chance for root to break when cast on.
-1	Spells:DeathSaveCharismaMod	3	Determines how much charisma effects chance of death save firing.(CHA*value/10)
-1	Spells:DivineInterventionHeal	8000	Divine intervention heal amount.
-1	Combat:NPCFlurryChance	20	(Default=20) Chance for NPC to flurry if special attack F 
-1	AA:Stacking	true	Enable stacking of AA within the same series on all clients
+1	World:DeleteStaleCorpeBackups	true	\N
+1	Zone:UsePlayerCorpseBackups	true	\N
+1	Character:EnableXTargetting	true	\N
+1	Spells:AvgSpellProcsPerMinute	6.00000000	\N
+1	Combat:FleeMultiplier	2.00000000	\N
+1	Spells:ResistFalloff	67	\N
+1	Spells:AI_EngagedNoSpellMinRecast	500	\N
+1	Spells:CharismaEffectiveness	10	\N
+1	Spells:CharismaEffectivenessCap	255	\N
+1	Spells:AI_SpellCastFinishedFailRecast	800	\N
+1	Spells:CharmBreakCheckChance	25	\N
+1	Spells:FRProjectileItem_NPC	80684	\N
+1	Combat:AvgDefProcsPerMinute	2.00000000	\N
+1	Combat:DefProcPerMinAgiContrib	0.07500000	\N
+1	Adventure:LDoNCriticalFailTrapThreshold	10.0000000	\N
+1	Combat:SpecialAttackACBonus	15	\N
+1	Combat:ClientStunLevel	55	\N
+1	Combat:QuiverHasteCap	1000	\N
+1	Combat:FrenzyBonus	0	\N
+1	Combat:TauntSkillFalloff	0.33000001	\N
+1	Aggro:TunnelVisionAggroMod	0.75000000	\N
+1	Spells:MaxCastTimeReduction	50	\N
+1	Spells:RootBreakCheckChance	70	\N
+1	Spells:RootBreakFromSpells	55	\N
+1	Spells:DeathSaveCharismaMod	3	\N
+1	Spells:AdditiveBonusWornType	0	\N
+1	Spells:DivineInterventionHeal	8000	\N
+1	Combat:NPCFlurryChance	20	\N
+1	Combat:MonkACBonusWeight	15	\N
+1	AA:Stacking	true	\N
+1	QueryServ:PlayerLogChat	false	\N
 1	Spells:AdditiveBonusValues	false	Allow certain bonuses to be calculated by adding together the value from each item, instead of taking the highest value. (ie Add together all Cleave Effects)
-1	Character:PerCharacterQglobalMaxLevel	false	Allows Character Max Level based on qglobal "CharMaxLevel
-1	QueryServ:PlayerLogNPCKills	false	
-1	QueryServ:PlayerLogTrades	false	
+1	Character:PerCharacterQglobalMaxLevel	false	\N
+1	Mercs:AllowMercSuspendInCombat	true	\N
+1	QueryServ:PlayerLogNPCKills	false	\N
+1	QueryServ:PlayerLogTrades	false	\N
 1	QueryServ:PlayerChatLogging	false	
 1	QueryServ:PlayerLogMoneyTrades	false	
-1	QueryServ:PlayerLogPCCoordinates	false	
+1	QueryServ:PlayerLogPCCoordinates	false	\N
 1	Chat:FlowCommandstoPerl_EVENT_SAY	true	
-1	World:IPLimitDisconnectAll	false	Disconnect all current clients by IP if they go over the IP limit.  This should allow people to quickly reconnect in the case of dead sessions waiting to timeout.
-1	Pets:UnTargetableSwarmPet	false	Set true to allow swarm pets to not be targeted by clients.
+1	World:IPLimitDisconnectAll	false	\N
+1	World:MaxClientsSimplifiedLogic	false	\N
+1	World:StartZoneSameAsBindOnCreation	true	\N
+1	Pets:UnTargetableSwarmPet	false	\N
+1	Pathing:Find	true	\N
 1	QueryServ:MerchantLogTransactions	false	
-1	QueryServ:PlayerLogDeletes	false	
-1	QueryServ:PlayerLogHandins	false	
-1	QueryServ:PlayerLogMoves	false	
-1	Mercs:AllowMercs	false	Turns mercs on for the server - will not load merc data if set to false.
-1	Mercs:SuspendIntervalMS	10000	Time interval for suspend command in milliseconds.
-1	Mercs:UpkeepIntervalMS	180000	Time interval for merc upkeep in milliseconds.
-1	Mercs:SuspendIntervalS	10	Time interval for suspend command in seconds.
-1	Mercs:UpkeepIntervalS	180	Time interval for merc upkeep in seconds.
-1	Mercs:ScaleRate	100	Allows scaling of merc stats vs livelike values.
-1	Mercs:AggroRadius	100	Determines the distance from which a merc will aggro target(also used to determine the distance at which a healer merc will begin healing a group member)
-1	Mercs:AggroRadiusPuller	25	Determines the distance from which a merc will aggro target, if they have the group role of puller (also used to determine the distance at which a healer merc will begin healing a group member, if they have the group role of puller)
+1	QueryServ:PlayerLogDeletes	false	\N
+1	QueryServ:PlayerLogHandins	false	\N
+1	QueryServ:PlayerLogMoves	false	\N
+1	Mercs:AllowMercs	false	\N
+1	Mercs:MercsUsePathing	true	\N
+1	Mercs:SuspendIntervalMS	10000	\N
+1	Mercs:UpkeepIntervalMS	180000	\N
+1	Combat:ClrRngMnkBrdACSoftcapReturn	0.30300000	\N
+1	Mercs:SuspendIntervalS	10	\N
+1	Mercs:UpkeepIntervalS	180	\N
+1	Mercs:ScaleRate	100	\N
+1	Range:BeginCast	200	\N
+1	Mercs:AggroRadius	100	\N
+1	Range:ClientNPCScan	300	\N
+1	Combat:MiscACSoftcapReturn	0.30000001	\N
+1	Combat:WarACSoftcapReturn	0.34479999	\N
+1	Mercs:AggroRadiusPuller	25	\N
+1	Range:DamageMessages	50	\N
+1	Range:SpellMessages	75	\N
+1	Range:SongMessages	75	\N
+1	Range:MobPositionUpdates	600	\N
+1	Range:CriticalDamage	80	\N
 10	Combat:MonkDamageTableBonus	5	% bonus monks get to their damage table calcs
 10	Combat:DefaultRampageTargets	1	default number of people to hit with rampage
 10	Combat:MinRangedAttackDist	25	Minimum Distance to use Ranged Attacks
@@ -385,11 +524,13 @@
 10	Character:ExpMultiplier	0.5	
 10	Character:CorpseDecayTimeMS	10800000	
 10	Character:MaxExpLevel	68	Sets the Max Level attainable via Experience
-1	Zone:LevelBasedEXPMods	1	
-1	Mercs:ResurrectRadius	50	Determines the distance from which a healer merc will attempt to resurrect a corpse
-1	Mercs:ChargeMercPurchaseCost	false	Turns Mercenary purchase costs on or off.
-1	Mercs:ChargeMercUpkeepCost	false	Turns Mercenary upkeep costs on or off.
-1	Spells:BuffLevelRestrictions	true	
+1	Zone:LevelBasedEXPMods	true	\N
+1	Mercs:ResurrectRadius	50	\N
+1	Range:Anims	135	\N
+1	Range:SpellParticles	135	\N
+1	Mercs:ChargeMercPurchaseCost	false	\N
+1	Mercs:ChargeMercUpkeepCost	false	\N
+1	Spells:BuffLevelRestrictions	true	\N
 10	Character:MaxLevel	68	
 6	NPC:MinorNPCCorpseDecayTimeMS	0	level<55
 6	Character:RestRegenTimeToActivate	300	Time in seconds for rest state regen to kick in.
@@ -397,7 +538,7 @@
 6	NPC:LastFightingDelayMovingMax	20000	Maximum time (in ms) before mob goes home after all aggro loss
 6	NPC:MajorNPCCorpseDecayTimeMS	0	level>=55
 6	Zone:GraveyardTimeMS	991200000	
-1	Zone:WeatherTimer	600	
+1	Zone:WeatherTimer	600	\N
 10	Combat:NPCACFactor	2.25	
 10	Combat:ClothACSoftcap	75	
 10	Combat:LeatherACSoftcap	100	
@@ -451,38 +592,96 @@
 10	Adventure:LDoNBaseTrapDifficulty	15.0	
 10	Adventure:LDoNCriticalFailTrapThreshold	10.0	
 10	Adventure:LDoNAdventureExpireTime	1800	30 minutes to expire
-1	Spells:CharismaCharmDuration	false	Allow CHA to extend charm duration.
+1	Spells:CharismaCharmDuration	false	\N
 1	Spells:CharismaResistCap	255	Maximium amount of CHA that will effect charm resist rate.
-1	Inventory:EnforceAugmentRestriction	false	Forces augment slot restrictions.
-1	Inventory:EnforceAugmentUsability	false	Forces augmented item usability.
-1	Inventory:EnforceAugmentWear	false	Forces augment wear slot validation.
-1	Spells:FearBreakCheckChance	70	Chance for fear to do a resist check each tick. Decrease for longer fears.
+1	Inventory:EnforceAugmentRestriction	false	\N
+1	Inventory:EnforceAugmentUsability	false	\N
+1	Inventory:EnforceAugmentWear	false	\N
+1	Spells:FearBreakCheckChance	70	\N
+1	Spells:FRProjectileItem_SOF	80684	\N
 10	Spells:SuccorFailChance	2	Determines chance for a succor spell not to teleport an invidual player.
-1	Spells:SuccorFailChance	1	Determines chance for a succor spell not to teleport an invidual player.
+1	Spells:SuccorFailChance	1	\N
+1	Spells:FRProjectileItem_Titanium	1113	\N
 2	Spells:SuccorFailChance	2	Determines chance for a succor spell not to teleport an invidual player.
 6	Spells:SuccorFailChance	2	Determines chance for a succor spell not to teleport an invidual player.
-1	Combat:AvgSpecialProcsPerMinute	2.0	Set PPM for special abilities HeadShot, Assassinate, Decap ect. (Unknown what value live uses) .
+1	Combat:AvgSpecialProcsPerMinute	2.00000000	\N
 4	NPC:MinorNPCCorpseDecayTimeMS	1800000	level<55
 4	NPC:EmptyNPCCorpseDecayTimeMS	0	notation
 4	NPC:LastFightingDelayMovingMax	20000	Maximum time (in ms) before mob goes home after all aggro loss
 4	Spells:SuccorFailChance	2	Determines chance for a succor spell not to teleport an invidual player.
-1	Client:UseLiveFactionMessage	true	Allow players to see faction adjustments like Live.
-1	Character:ActiveInvSnapshots	false	Takes a periodic snapshot of inventory contents from online players
-1	Character:InvSnapshotMinIntervalM	180	Minimum time (in minutes) between inventory snapshots
-1	Character:InvSnapshotMinRetryM	30	Time (in minutes) to re-attempt an inventory snapshot after a failure
-1	Character:InvSnapshotHistoryD	30	Time (in days) to keep snapshot entries
-1	Spells:SHDProcIDOffByOne	false	
+1	Client:UseLiveFactionMessage	true	\N
+1	Client:UseLiveBlockedMessage	false	\N
+1	Character:ActiveInvSnapshots	false	\N
+1	Character:EnableAvoidanceCap	false	\N
+1	Character:InvSnapshotMinIntervalM	180	\N
+1	Combat:PalShdACSoftcapReturn	0.32260000	\N
+1	Character:InvSnapshotMinRetryM	30	\N
+1	Character:AvoidanceCap	750	\N
+1	Character:InvSnapshotHistoryD	30	\N
+1	Spells:SHDProcIDOffByOne	false	\N
 5	Character:RestRegenTimeToActivate	300	Time in seconds for rest state regen to kick in.
 5	NPC:EmptyNPCCorpseDecayTimeMS	0	notation
 5	NPC:LastFightingDelayMovingMax	20000	Maximum time (in ms) before mob goes home after all aggro loss
 5	NPC:MinorNPCCorpseDecayTimeMS	1800000	level<55
 5	Spells:SuccorFailChance	2	Determines chance for a succor spell not to teleport an invidual player.
 5	Zone:GraveyardTimeMS	991200000	
-1	Spells:Jun182014HundredHandsRevamp	true	
-1	Combat:LevelToStopDamageCaps	0	1 will effectively disable them, 20 should give basically same results as old incorrect system.
-1	Character:GrantHoTTOnCreate	false	Grant Health of Target's Target leadership AA on character creation
-1	World:EnableIPExemptions	false	notation
+1	Spells:Jun182014HundredHandsRevamp	true	\N
+1	Combat:LevelToStopDamageCaps	0	\N
+1	Range:Say	135	\N
+1	Character:GrantHoTTOnCreate	false	\N
+1	Character:UseOldConSystem	false	\N
+1	World:EnableIPExemptions	false	\N
 1	Character:EnableAggroMeter	true	\N
-1	Aggro:IntAggroThreshold	20	
-1	Character:RestrictSpellScribing	false	Restricts spell scribing to allowable races/classes of spell scroll, if true
-1	NPC:UseClassAsLastName	true	Uses class archetype as LastName for npcs with none
+1	Aggro:IntAggroThreshold	20	\N
+1	Character:RestrictSpellScribing	false	\N
+1	Character:UseStackablePickPocketing	true	\N
+1	NPC:UseClassAsLastName	true	\N
+1	NPC:NewLevelScaling	true	\N
+1	Character:TradeskillUpFletching	2	\N
+1	Character:TradeskillUpJewelcrafting	2	\N
+1	Character:TradeskillUpMakePoison	2	\N
+1	Character:TradeskillUpPottery	4	\N
+1	Character:TradeskillUpResearch	1	\N
+1	Character:TradeskillUpTinkering	2	\N
+1	Character:IksarCommonTongue	95	\N
+1	Character:OgreCommonTongue	95	\N
+1	Character:TrollCommonTongue	95	\N
+1	Combat:DruNecWizEncMagACSoftcapReturn	0.20000000	\N
+1	Combat:RogShmBstBerACSoftcapReturn	0.25000000	\N
+1	Combat:SoftcapFactor	1.87999999	\N
+1	Combat:ACthac0Factor	0.55000001	\N
+1	Combat:ACthac20Factor	0.55000001	\N
+1	Spells:NPC_UseFocusFromItems	false	\N
+1	Spells:UseAdditiveFocusFromWornSlot	false	\N
+1	Spells:AlwaysSendTargetsBuffs	false	\N
+1	Spells:FlatItemExtraSpellAmt	false	\N
+1	Spells:IgnoreSpellDmgLvlRestriction	false	\N
+1	Spells:AllowItemTGB	false	\N
+1	Spells:NPCInnateProcOverride	true	\N
+1	Spells:OldRainTargets	false	\N
+1	Combat:NPCCanCrit	false	\N
+1	Combat:TauntOverLevel	true	\N
+1	Combat:EXPFromDmgShield	false	\N
+1	Combat:UseArcheryBonusRoll	false	\N
+1	Combat:OneProcPerWeapon	true	\N
+1	Combat:ProjectileDmgOnImpact	true	\N
+1	Combat:MeleePush	true	\N
+1	Combat:UseLiveCombatRounds	true	\N
+1	Combat:UseRevampHandToHand	false	\N
+1	Combat:ClassicMasterWu	false	\N
+1	Merchant:EnableAltCurrencySell	true	\N
+1	QueryServ:PlayerLogDeaths	false	\N
+1	QueryServ:PlayerLogConnectDisconnect	false	\N
+1	QueryServ:PlayerLogLevels	false	\N
+1	QueryServ:PlayerLogAARate	false	\N
+1	QueryServ:PlayerLogQGlobalUpdate	false	\N
+1	QueryServ:PlayerLogTaskUpdates	false	\N
+1	QueryServ:PlayerLogKeyringAddition	false	\N
+1	QueryServ:PlayerLogAAPurchases	false	\N
+1	QueryServ:PlayerLogTradeSkillEvents	false	\N
+1	QueryServ:PlayerLogIssuedCommandes	false	\N
+1	QueryServ:PlayerLogMoneyTransactions	false	\N
+1	QueryServ:PlayerLogAlternateCurrencyTransactions	false	\N
+1	Inventory:DeleteTransformationMold	true	\N
+1	Inventory:AllowAnyWeaponTransformation	false	\N
+1	Inventory:TransformSummonedBags	false	\N

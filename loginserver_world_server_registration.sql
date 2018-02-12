@@ -32,7 +32,7 @@ CREATE TABLE `loginserver_world_server_registration` (
   `ServerTrusted` int(11) NOT NULL,
   `Note` varchar(300) DEFAULT NULL,
   PRIMARY KEY (`ServerID`,`ServerLongName`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
